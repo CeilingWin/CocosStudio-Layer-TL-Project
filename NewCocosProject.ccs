@@ -1,0 +1,47 @@
+<Solution>
+  <PropertyGroup Name="NewCocosProject" Version="3.10.0.0" Type="CocosStudio" />
+  <SolutionFolder>
+    <Group ctype="ResourceGroup">
+      <RootFolder Name=".">
+        <Folder Name="Layer">
+          <Project Name="ItemLayer.csd" Type="Layer" />
+          <Project Name="ListItem.csd" Type="Layer" />
+          <Project Name="ShopLayer.csd" Type="Layer" />
+        </Folder>
+        <Folder Name="shop_gui">
+          <Image Name="back.png" />
+          <Image Name="catalogy_bg.png" />
+          <Image Name="close.png" />
+          <Image Name="Demo.png" />
+          <Image Name="elixir.png" />
+          <Image Name="g.png" />
+          <Image Name="gold.png" />
+          <Image Name="icon_dElixir_bar.png" />
+          <Image Name="icon_elixir_bar.png" />
+          <Image Name="icon_g_bar.png" />
+          <Image Name="icon_gold_bar.png" />
+          <Image Name="info.png" />
+          <Image Name="item_background.png" />
+          <Image Name="nen2.png" />
+          <Image Name="res_bar.png" />
+          <Image Name="res_info.png" />
+          <Image Name="slot.png" />
+          <Image Name="slot_catalogy.png" />
+          <Image Name="time.png" />
+          <Image Name="title_background.png" />
+          <Image Name="title_background_press.png" />
+          <Image Name="type_army.png" />
+          <Image Name="type_buy_res.png" />
+          <Image Name="type_dc.png" />
+          <Image Name="type_defense.png" />
+          <Image Name="type_res.png" />
+          <Image Name="type_sheild.png" />
+        </Folder>
+        <Image Name="HelloWorld.png" />
+        <Project Name="Layer2.csd" Type="Layer" />
+        <Project Name="MainScene.csd" Type="Scene" />
+        <Project Name="ShopLayer1.csd" Type="Layer" />
+      </RootFolder>
+    </Group>
+  </SolutionFolder>
+</Solution>

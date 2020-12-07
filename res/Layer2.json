@@ -1,0 +1,71 @@
+{
+  "ID": "c375f1e6-351c-47ed-b326-185ea4fb7003",
+  "Version": "3.10.0.0",
+  "Name": "Layer2",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 19,
+        "Children": [
+          {
+            "FileData": {
+              "Type": "Default",
+              "Path": "Default/defaultMap.tmx",
+              "Plist": ""
+            },
+            "AnchorPoint": {},
+            "Position": {
+              "X": 218.9887,
+              "Y": -1754.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.2281,
+              "Y": -2.7406
+            },
+            "PreSize": {
+              "X": 3.325,
+              "Y": 3.7406
+            },
+            "VerticalEdge": "TopEdge",
+            "LeftMargin": 218.9887,
+            "RightMargin": -2450.9888,
+            "BottomMargin": -1754.0,
+            "Tag": 20,
+            "ActionTag": 59544143,
+            "Size": {
+              "X": 3192.0,
+              "Y": 2394.0
+            },
+            "Name": "Map_1",
+            "ctype": "GameMapObjectData"
+          }
+        ],
+        "Size": {
+          "X": 960.0,
+          "Y": 640.0
+        },
+        "Name": "Layer",
+        "ctype": "LayerObjectData"
+      },
+      "UsedResources": [
+        "Default/defaultMap.png",
+        "Default/defaultMap.tmx"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Layer"
+}

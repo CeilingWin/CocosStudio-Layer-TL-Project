@@ -1,0 +1,825 @@
+{
+  "ID": "e2e76b8f-5f94-407a-85ef-3c493601a557",
+  "Version": "3.10.0.0",
+  "Name": "ListItem",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 49,
+        "Children": [
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "Art/GUIs/shop_gui/nen2.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 400.0,
+              "Y": 240.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.5
+            },
+            "PreSize": {
+              "X": 1.0,
+              "Y": 1.0
+            },
+            "HorizontalEdge": "LeftEdge",
+            "VerticalEdge": "TopEdge",
+            "Tag": 50,
+            "ActionTag": -2143415737,
+            "Size": {
+              "X": 800.0,
+              "Y": 480.0
+            },
+            "Name": "nen2_1",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "Art/GUIs/shop_gui/res_info.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 400.0,
+              "Y": 33.5
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.0698
+            },
+            "PreSize": {
+              "X": 0.9925,
+              "Y": 0.1396
+            },
+            "HorizontalEdge": "LeftEdge",
+            "VerticalEdge": "BottomEdge",
+            "LeftMargin": 3.0,
+            "RightMargin": 3.0,
+            "TopMargin": 413.0,
+            "Tag": 51,
+            "ActionTag": -2061271739,
+            "Size": {
+              "X": 794.0,
+              "Y": 67.0
+            },
+            "Name": "res_info_2",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "ItemMargin": 10,
+            "VerticalType": "Align_VerticalCenter",
+            "ScrollDirectionType": 0,
+            "ClipAble": false,
+            "BackColorAlpha": 0,
+            "ComboBoxIndex": 1,
+            "SingleColor": {},
+            "FirstColor": {
+              "R": 150,
+              "G": 150
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9Width": 1,
+            "Scale9Height": 1,
+            "TouchEnable": true,
+            "AnchorPoint": {},
+            "Position": {
+              "X": 10.0,
+              "Y": 70.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0125,
+              "Y": 0.1458
+            },
+            "PreSize": {
+              "X": 0.975,
+              "Y": 0.7292
+            },
+            "HorizontalEdge": "LeftEdge",
+            "VerticalEdge": "TopEdge",
+            "LeftMargin": 10.0,
+            "RightMargin": 10.0,
+            "TopMargin": 60.0,
+            "BottomMargin": 70.0,
+            "Tag": 52,
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "Art/GUIs/shop_gui/slot.png",
+                  "Plist": ""
+                },
+                "Scale9OriginX": 74,
+                "Scale9OriginY": 107,
+                "Scale9Width": 78,
+                "Scale9Height": 111,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 113.0,
+                  "Y": 175.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.1449,
+                  "Y": 0.5
+                },
+                "PreSize": {
+                  "X": 0.2897,
+                  "Y": 0.9286
+                },
+                "RightMargin": 554.0,
+                "TopMargin": 12.5,
+                "BottomMargin": 12.5,
+                "Tag": 55,
+                "ActionTag": -1488558143,
+                "Size": {
+                  "X": 226.0,
+                  "Y": 325.0
+                },
+                "Name": "Image_1",
+                "ctype": "ImageViewObjectData"
+              }
+            ],
+            "ActionTag": -1927276893,
+            "Size": {
+              "X": 780.0,
+              "Y": 350.0
+            },
+            "Name": "item_layout",
+            "ctype": "ListViewObjectData"
+          },
+          {
+            "ItemMargin": 10,
+            "VerticalType": "Align_VerticalCenter",
+            "ScrollDirectionType": 0,
+            "ClipAble": false,
+            "BackColorAlpha": 102,
+            "ComboBoxIndex": 1,
+            "SingleColor": {
+              "R": 150,
+              "G": 150
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 150
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9Width": 1,
+            "Scale9Height": 1,
+            "TouchEnable": true,
+            "AnchorPoint": {},
+            "Position": {
+              "X": 120.0,
+              "Y": 0.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.15,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.7,
+              "Y": 0.1396
+            },
+            "HorizontalEdge": "LeftEdge",
+            "VerticalEdge": "BottomEdge",
+            "LeftMargin": 120.0,
+            "RightMargin": 120.0,
+            "TopMargin": 413.0,
+            "Tag": 56,
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "Art/GUIs/shop_gui/res_bar.png",
+                  "Plist": ""
+                },
+                "Scale9OriginX": 46,
+                "Scale9OriginY": 11,
+                "Scale9Width": 48,
+                "Scale9Height": 14,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 90.0,
+                  "Y": 33.5
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.1607,
+                  "Y": 0.5
+                },
+                "PreSize": {
+                  "X": 0.3214,
+                  "Y": 0.5373
+                },
+                "RightMargin": 380.0,
+                "TopMargin": 15.5,
+                "BottomMargin": 15.5,
+                "Tag": 59,
+                "Children": [
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "Art/GUIs/shop_gui/icon_gold_bar.png",
+                      "Plist": ""
+                    },
+                    "Scale9OriginX": 10,
+                    "Scale9OriginY": 11,
+                    "Scale9Width": 16,
+                    "Scale9Height": 16,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 157.0,
+                      "Y": 23.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.8722,
+                      "Y": 0.6389
+                    },
+                    "PreSize": {
+                      "X": 0.2,
+                      "Y": 1.0556
+                    },
+                    "HorizontalEdge": "RightEdge",
+                    "VerticalEdge": "BottomEdge",
+                    "LeftMargin": 139.0,
+                    "RightMargin": 5.0,
+                    "TopMargin": -6.0,
+                    "BottomMargin": 4.0,
+                    "Tag": 60,
+                    "ActionTag": -882379333,
+                    "Size": {
+                      "X": 36.0,
+                      "Y": 38.0
+                    },
+                    "Name": "img_gold",
+                    "ctype": "ImageViewObjectData"
+                  },
+                  {
+                    "IsCustomSize": true,
+                    "FontSize": 22,
+                    "LabelText": "Text Label",
+                    "HorizontalAlignmentType": "HT_Right",
+                    "VerticalAlignmentType": "VT_Center",
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 75.0,
+                      "Y": 19.5
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.4167,
+                      "Y": 0.5417
+                    },
+                    "PreSize": {
+                      "X": 0.6667,
+                      "Y": 0.6944
+                    },
+                    "HorizontalEdge": "RightEdge",
+                    "VerticalEdge": "BottomEdge",
+                    "LeftMargin": 15.0,
+                    "RightMargin": 45.0,
+                    "TopMargin": 4.0,
+                    "BottomMargin": 7.0,
+                    "Tag": 61,
+                    "ActionTag": 10233597,
+                    "Size": {
+                      "X": 120.0,
+                      "Y": 25.0
+                    },
+                    "Name": "lb_gold",
+                    "ctype": "TextObjectData"
+                  }
+                ],
+                "ActionTag": 735531525,
+                "Size": {
+                  "X": 180.0,
+                  "Y": 36.0
+                },
+                "Name": "imv_gold",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "Art/GUIs/shop_gui/res_bar.png",
+                  "Plist": ""
+                },
+                "Scale9OriginX": 46,
+                "Scale9OriginY": 11,
+                "Scale9Width": 48,
+                "Scale9Height": 14,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 280.0,
+                  "Y": 33.5
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.5
+                },
+                "PreSize": {
+                  "X": 0.3214,
+                  "Y": 0.5373
+                },
+                "LeftMargin": 190.0,
+                "RightMargin": 190.0,
+                "TopMargin": 15.5,
+                "BottomMargin": 15.5,
+                "Tag": 68,
+                "Children": [
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "Art/GUIs/shop_gui/icon_elixir_bar.png",
+                      "Plist": ""
+                    },
+                    "Scale9OriginX": 10,
+                    "Scale9OriginY": 11,
+                    "Scale9Width": 10,
+                    "Scale9Height": 18,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 157.0,
+                      "Y": 23.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.8722,
+                      "Y": 0.6389
+                    },
+                    "PreSize": {
+                      "X": 0.1667,
+                      "Y": 1.1111
+                    },
+                    "HorizontalEdge": "RightEdge",
+                    "VerticalEdge": "BottomEdge",
+                    "LeftMargin": 142.0,
+                    "RightMargin": 8.0,
+                    "TopMargin": -7.0,
+                    "BottomMargin": 3.0,
+                    "Tag": 69,
+                    "ActionTag": 778697973,
+                    "Size": {
+                      "X": 30.0,
+                      "Y": 40.0
+                    },
+                    "Name": "img_elixir",
+                    "ctype": "ImageViewObjectData"
+                  },
+                  {
+                    "IsCustomSize": true,
+                    "FontSize": 22,
+                    "LabelText": "Text Label",
+                    "HorizontalAlignmentType": "HT_Right",
+                    "VerticalAlignmentType": "VT_Center",
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 75.0,
+                      "Y": 19.5
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.4167,
+                      "Y": 0.5417
+                    },
+                    "PreSize": {
+                      "X": 0.6667,
+                      "Y": 0.6944
+                    },
+                    "HorizontalEdge": "RightEdge",
+                    "VerticalEdge": "BottomEdge",
+                    "LeftMargin": 15.0,
+                    "RightMargin": 45.0,
+                    "TopMargin": 4.0,
+                    "BottomMargin": 7.0,
+                    "Tag": 70,
+                    "ActionTag": -1326997943,
+                    "Size": {
+                      "X": 120.0,
+                      "Y": 25.0
+                    },
+                    "Name": "lb_elixir",
+                    "ctype": "TextObjectData"
+                  }
+                ],
+                "ActionTag": 1847978203,
+                "ZOrder": 1,
+                "Size": {
+                  "X": 180.0,
+                  "Y": 36.0
+                },
+                "Name": "imv_elixir",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "Art/GUIs/shop_gui/res_bar.png",
+                  "Plist": ""
+                },
+                "Scale9OriginX": 46,
+                "Scale9OriginY": 11,
+                "Scale9Width": 48,
+                "Scale9Height": 14,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 470.0,
+                  "Y": 33.5
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.8393,
+                  "Y": 0.5
+                },
+                "PreSize": {
+                  "X": 0.3214,
+                  "Y": 0.5373
+                },
+                "LeftMargin": 380.0,
+                "TopMargin": 15.5,
+                "BottomMargin": 15.5,
+                "Tag": 71,
+                "Children": [
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "Art/GUIs/shop_gui/icon_g_bar.png",
+                      "Plist": ""
+                    },
+                    "Scale9OriginX": 10,
+                    "Scale9OriginY": 11,
+                    "Scale9Width": 12,
+                    "Scale9Height": 12,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 157.0,
+                      "Y": 23.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.8722,
+                      "Y": 0.6389
+                    },
+                    "PreSize": {
+                      "X": 0.1778,
+                      "Y": 0.9444
+                    },
+                    "HorizontalEdge": "RightEdge",
+                    "VerticalEdge": "BottomEdge",
+                    "LeftMargin": 141.0,
+                    "RightMargin": 7.0,
+                    "TopMargin": -4.0,
+                    "BottomMargin": 6.0,
+                    "Tag": 72,
+                    "ActionTag": 1183239080,
+                    "Size": {
+                      "X": 32.0,
+                      "Y": 34.0
+                    },
+                    "Name": "img_g",
+                    "ctype": "ImageViewObjectData"
+                  },
+                  {
+                    "IsCustomSize": true,
+                    "FontSize": 22,
+                    "LabelText": "Text Label",
+                    "HorizontalAlignmentType": "HT_Right",
+                    "VerticalAlignmentType": "VT_Center",
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 75.0,
+                      "Y": 19.5
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.4167,
+                      "Y": 0.5417
+                    },
+                    "PreSize": {
+                      "X": 0.6667,
+                      "Y": 0.6944
+                    },
+                    "HorizontalEdge": "RightEdge",
+                    "VerticalEdge": "BottomEdge",
+                    "LeftMargin": 15.0,
+                    "RightMargin": 45.0,
+                    "TopMargin": 4.0,
+                    "BottomMargin": 7.0,
+                    "Tag": 73,
+                    "ActionTag": -1993254919,
+                    "Size": {
+                      "X": 120.0,
+                      "Y": 25.0
+                    },
+                    "Name": "lb_g",
+                    "ctype": "TextObjectData"
+                  }
+                ],
+                "ActionTag": -1149621932,
+                "ZOrder": 2,
+                "Size": {
+                  "X": 180.0,
+                  "Y": 36.0
+                },
+                "Name": "imv_g",
+                "ctype": "ImageViewObjectData"
+              }
+            ],
+            "ActionTag": 1696242671,
+            "Size": {
+              "X": 560.0,
+              "Y": 67.0
+            },
+            "Name": "resource_layout",
+            "ctype": "ListViewObjectData"
+          },
+          {
+            "IsCustomSize": true,
+            "FontSize": 30,
+            "LabelText": "Text Label",
+            "HorizontalAlignmentType": "HT_Center",
+            "VerticalAlignmentType": "VT_Center",
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 400.0,
+              "Y": 447.6307
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.9326
+            },
+            "PreSize": {
+              "X": 0.25,
+              "Y": 0.0833
+            },
+            "HorizontalEdge": "LeftEdge",
+            "LeftMargin": 300.0,
+            "RightMargin": 300.0,
+            "TopMargin": 12.3693,
+            "BottomMargin": 427.6307,
+            "Tag": 74,
+            "ActionTag": -94122096,
+            "Size": {
+              "X": 200.0,
+              "Y": 40.0
+            },
+            "Name": "lb_intro",
+            "ctype": "TextObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "Art/GUIs/shop_gui/slot.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": -115.1125,
+              "Y": 160.9768
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": -0.1439,
+              "Y": 0.3354
+            },
+            "PreSize": {
+              "X": 0.2825,
+              "Y": 0.6771
+            },
+            "LeftMargin": -228.1125,
+            "RightMargin": 802.1125,
+            "TopMargin": 156.5232,
+            "BottomMargin": -1.5232,
+            "Tag": 37,
+            "ActionTag": -1021285323,
+            "Size": {
+              "X": 226.0,
+              "Y": 325.0
+            },
+            "Name": "slot_1",
+            "ctype": "SpriteObjectData"
+          }
+        ],
+        "Size": {
+          "X": 800.0,
+          "Y": 480.0
+        },
+        "Name": "Layer",
+        "ctype": "LayerObjectData"
+      },
+      "UsedResources": [
+        "Art/GUIs/shop_gui/icon_elixir_bar.png",
+        "Art/GUIs/shop_gui/icon_g_bar.png",
+        "Art/GUIs/shop_gui/icon_gold_bar.png",
+        "Art/GUIs/shop_gui/nen2.png",
+        "Art/GUIs/shop_gui/res_bar.png",
+        "Art/GUIs/shop_gui/res_info.png",
+        "Art/GUIs/shop_gui/slot.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Layer"
+}

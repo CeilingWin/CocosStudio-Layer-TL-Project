@@ -1,0 +1,851 @@
+{
+  "ID": "fc1fa01a-54dc-48b8-bc46-b1dd22d1b4f6",
+  "Version": "3.10.0.0",
+  "Name": "ShopLayer1",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 3,
+        "Children": [
+          {
+            "FileData": {
+              "Type": "Default",
+              "Path": "Default/Sprite.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 400.0,
+              "Y": 240.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.5
+            },
+            "PreSize": {
+              "X": 1.0,
+              "Y": 1.0
+            },
+            "HorizontalEdge": "RightEdge",
+            "VerticalEdge": "BottomEdge",
+            "Tag": 4,
+            "ActionTag": 340135507,
+            "Size": {
+              "X": 800.0,
+              "Y": 480.0
+            },
+            "Name": "background",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Default",
+              "Path": "Default/Sprite.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 6.4324,
+              "ScaleY": -3.2234
+            },
+            "Position": {
+              "X": 487.9636,
+              "Y": 267.3613
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.61,
+              "Y": 0.557
+            },
+            "PreSize": {
+              "X": 0.0925,
+              "Y": 0.0979
+            },
+            "LeftMargin": 11.9636,
+            "RightMargin": 714.0364,
+            "TopMargin": 14.1387,
+            "BottomMargin": 418.8613,
+            "Tag": 11,
+            "ActionTag": -1801762904,
+            "Size": {
+              "X": 74.0,
+              "Y": 47.0
+            },
+            "Name": "btn_back",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Default",
+              "Path": "Default/Sprite.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.6064,
+              "ScaleY": 0.1809
+            },
+            "Position": {
+              "X": 762.8215,
+              "Y": 429.1924
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.9535,
+              "Y": 0.8942
+            },
+            "PreSize": {
+              "X": 0.0587,
+              "Y": 0.0979
+            },
+            "LeftMargin": 734.3215,
+            "RightMargin": 18.6785,
+            "TopMargin": 12.3076,
+            "BottomMargin": 420.6924,
+            "Tag": 12,
+            "ActionTag": 230719889,
+            "Size": {
+              "X": 47.0,
+              "Y": 47.0
+            },
+            "Name": "btn_close",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FontSize": 20,
+            "LabelText": "Shop",
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 396.68,
+              "Y": 446.2289
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.4958,
+              "Y": 0.9296
+            },
+            "PreSize": {
+              "X": 0.0562,
+              "Y": 0.0479
+            },
+            "LeftMargin": 374.18,
+            "RightMargin": 380.82,
+            "TopMargin": 22.2711,
+            "BottomMargin": 434.7289,
+            "Tag": 17,
+            "ActionTag": 197432111,
+            "Size": {
+              "X": 45.0,
+              "Y": 23.0
+            },
+            "Name": "lb_shop_name",
+            "ctype": "TextObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Default",
+              "Path": "Default/Sprite.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 145.6848,
+              "Y": 321.3784
+            },
+            "Scale": {
+              "ScaleX": 0.9352,
+              "ScaleY": 0.958
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.1821,
+              "Y": 0.6695
+            },
+            "PreSize": {
+              "X": 0.3013,
+              "Y": 0.3875
+            },
+            "LeftMargin": 25.1848,
+            "RightMargin": 533.8152,
+            "TopMargin": 65.6216,
+            "BottomMargin": 228.3784,
+            "Tag": 30,
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "Default",
+                  "Path": "Default/Sprite.png",
+                  "Plist": ""
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 120.5,
+                  "Y": 93.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.5
+                },
+                "PreSize": {
+                  "X": 1.0,
+                  "Y": 1.0
+                },
+                "HorizontalEdge": "LeftEdge",
+                "VerticalEdge": "TopEdge",
+                "Tag": 37,
+                "ActionTag": -974377264,
+                "Size": {
+                  "X": 241.0,
+                  "Y": 186.0
+                },
+                "Name": "type_buy_res_21",
+                "ctype": "SpriteObjectData"
+              }
+            ],
+            "ActionTag": 2053714759,
+            "Size": {
+              "X": 241.0,
+              "Y": 186.0
+            },
+            "Name": "spr_treasure",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Default",
+              "Path": "Default/Sprite.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 398.7182,
+              "Y": 320.6409
+            },
+            "Scale": {
+              "ScaleX": 0.9352,
+              "ScaleY": 0.958
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.4984,
+              "Y": 0.668
+            },
+            "PreSize": {
+              "X": 0.3013,
+              "Y": 0.3875
+            },
+            "LeftMargin": 278.2182,
+            "RightMargin": 280.7818,
+            "TopMargin": 66.3591,
+            "BottomMargin": 227.6409,
+            "Tag": 32,
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "Default",
+                  "Path": "Default/Sprite.png",
+                  "Plist": ""
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 120.5,
+                  "Y": 93.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.5
+                },
+                "PreSize": {
+                  "X": 1.0,
+                  "Y": 1.0
+                },
+                "HorizontalEdge": "LeftEdge",
+                "VerticalEdge": "TopEdge",
+                "Tag": 38,
+                "ActionTag": -1159269022,
+                "Size": {
+                  "X": 241.0,
+                  "Y": 186.0
+                },
+                "Name": "type_res_22",
+                "ctype": "SpriteObjectData"
+              }
+            ],
+            "ActionTag": -1806082031,
+            "Size": {
+              "X": 241.0,
+              "Y": 186.0
+            },
+            "Name": "spr_resource",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Default",
+              "Path": "Default/Sprite.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 643.7534,
+              "Y": 320.2399
+            },
+            "Scale": {
+              "ScaleX": 0.9352,
+              "ScaleY": 0.958
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.8047,
+              "Y": 0.6672
+            },
+            "PreSize": {
+              "X": 0.3013,
+              "Y": 0.3875
+            },
+            "LeftMargin": 523.2534,
+            "RightMargin": 35.7466,
+            "TopMargin": 66.7601,
+            "BottomMargin": 227.2399,
+            "Tag": 33,
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "Default",
+                  "Path": "Default/Sprite.png",
+                  "Plist": ""
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 121.5702,
+                  "Y": 95.0872
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5044,
+                  "Y": 0.5112
+                },
+                "PreSize": {
+                  "X": 1.0,
+                  "Y": 1.0
+                },
+                "HorizontalEdge": "LeftEdge",
+                "VerticalEdge": "TopEdge",
+                "LeftMargin": 1.0702,
+                "RightMargin": -1.0702,
+                "TopMargin": -2.0872,
+                "BottomMargin": 2.0872,
+                "Tag": 39,
+                "ActionTag": -32982483,
+                "Size": {
+                  "X": 241.0,
+                  "Y": 186.0
+                },
+                "Name": "type_dc_23",
+                "ctype": "SpriteObjectData"
+              }
+            ],
+            "ActionTag": 655941212,
+            "Size": {
+              "X": 241.0,
+              "Y": 186.0
+            },
+            "Name": "spr_decorations",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Default",
+              "Path": "Default/Sprite.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 143.8008,
+              "Y": 120.3476
+            },
+            "Scale": {
+              "ScaleX": 0.9352,
+              "ScaleY": 0.958
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.1798,
+              "Y": 0.2507
+            },
+            "PreSize": {
+              "X": 0.3013,
+              "Y": 0.3875
+            },
+            "LeftMargin": 23.3008,
+            "RightMargin": 535.6992,
+            "TopMargin": 266.6524,
+            "BottomMargin": 27.3476,
+            "Tag": 34,
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "Default",
+                  "Path": "Default/Sprite.png",
+                  "Plist": ""
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 124.6718,
+                  "Y": 88.9276
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5173,
+                  "Y": 0.4781
+                },
+                "PreSize": {
+                  "X": 1.0,
+                  "Y": 1.0
+                },
+                "HorizontalEdge": "LeftEdge",
+                "VerticalEdge": "TopEdge",
+                "LeftMargin": 4.1718,
+                "RightMargin": -4.1718,
+                "TopMargin": 4.0724,
+                "BottomMargin": -4.0724,
+                "Tag": 42,
+                "ActionTag": 526350484,
+                "Size": {
+                  "X": 241.0,
+                  "Y": 186.0
+                },
+                "Name": "type_army_26",
+                "ctype": "SpriteObjectData"
+              }
+            ],
+            "ActionTag": -705841420,
+            "Size": {
+              "X": 241.0,
+              "Y": 186.0
+            },
+            "Name": "spr_army",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Default",
+              "Path": "Default/Sprite.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 396.1138,
+              "Y": 121.6485
+            },
+            "Scale": {
+              "ScaleX": 0.9352,
+              "ScaleY": 0.958
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.4951,
+              "Y": 0.2534
+            },
+            "PreSize": {
+              "X": 0.3013,
+              "Y": 0.3875
+            },
+            "LeftMargin": 275.6138,
+            "RightMargin": 283.3862,
+            "TopMargin": 265.3514,
+            "BottomMargin": 28.6485,
+            "Tag": 35,
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "Default",
+                  "Path": "Default/Sprite.png",
+                  "Plist": ""
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 124.6727,
+                  "Y": 88.9274
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5173,
+                  "Y": 0.4781
+                },
+                "PreSize": {
+                  "X": 1.0,
+                  "Y": 1.0
+                },
+                "HorizontalEdge": "LeftEdge",
+                "VerticalEdge": "TopEdge",
+                "LeftMargin": 4.1727,
+                "RightMargin": -4.1727,
+                "TopMargin": 4.0726,
+                "BottomMargin": -4.0726,
+                "Tag": 41,
+                "ActionTag": -420081018,
+                "Size": {
+                  "X": 241.0,
+                  "Y": 186.0
+                },
+                "Name": "type_defense_25",
+                "ctype": "SpriteObjectData"
+              }
+            ],
+            "ActionTag": -818428989,
+            "Size": {
+              "X": 241.0,
+              "Y": 186.0
+            },
+            "Name": "spr_defense",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Default",
+              "Path": "Default/Sprite.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 649.4406,
+              "Y": 122.6485
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.8118,
+              "Y": 0.2555
+            },
+            "PreSize": {
+              "X": 0.3013,
+              "Y": 0.3875
+            },
+            "HorizontalEdge": "LeftEdge",
+            "LeftMargin": 528.9406,
+            "RightMargin": 30.0594,
+            "TopMargin": 264.3516,
+            "BottomMargin": 29.6485,
+            "Tag": 36,
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "Default",
+                  "Path": "Default/Sprite.png",
+                  "Plist": ""
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 120.5,
+                  "Y": 93.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.5
+                },
+                "PreSize": {
+                  "X": 1.0,
+                  "Y": 1.0
+                },
+                "HorizontalEdge": "LeftEdge",
+                "VerticalEdge": "TopEdge",
+                "Tag": 40,
+                "ActionTag": 151363532,
+                "Size": {
+                  "X": 241.0,
+                  "Y": 186.0
+                },
+                "Name": "type_sheild_24",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "FontSize": 14,
+                "ButtonText": "Button",
+                "TextColor": {
+                  "R": 26,
+                  "G": 26,
+                  "B": 26
+                },
+                "DisabledFileData": {
+                  "Type": "Default",
+                  "Path": "Default/Button_Disable.png",
+                  "Plist": ""
+                },
+                "PressedFileData": {
+                  "Type": "Default",
+                  "Path": "Default/Button_Press.png",
+                  "Plist": ""
+                },
+                "NormalFileData": {
+                  "Type": "Default",
+                  "Path": "Default/Button_Normal.png",
+                  "Plist": ""
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 196,
+                "Scale9Height": 31,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 120.5,
+                  "Y": 18.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "B": 0
+                },
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.0968
+                },
+                "PercentWidthEnable": true,
+                "PercentWidthEnabled": true,
+                "PreSize": {
+                  "X": 0.9378,
+                  "Y": 0.2849
+                },
+                "HorizontalEdge": "LeftEdge",
+                "VerticalEdge": "BottomEdge",
+                "LeftMargin": 7.5,
+                "RightMargin": 7.5,
+                "TopMargin": 141.5,
+                "BottomMargin": -8.5,
+                "Tag": 57,
+                "ActionTag": -4358669,
+                "Size": {
+                  "X": 226.0,
+                  "Y": 53.0
+                },
+                "Name": "Button_5",
+                "ctype": "ButtonObjectData"
+              }
+            ],
+            "ActionTag": -992842597,
+            "Size": {
+              "X": 241.0,
+              "Y": 186.0
+            },
+            "Name": "spr_shield",
+            "ctype": "SpriteObjectData"
+          }
+        ],
+        "Size": {
+          "X": 800.0,
+          "Y": 480.0
+        },
+        "Name": "Layer",
+        "ctype": "LayerObjectData"
+      },
+      "UsedResources": [
+        "Default/Button_Disable.png",
+        "Default/Button_Normal.png",
+        "Default/Button_Press.png",
+        "Default/Sprite.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Layer"
+}
