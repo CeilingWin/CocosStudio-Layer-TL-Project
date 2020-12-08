@@ -28,5 +28,16 @@
         <EnableHTML5Advanced Value="False" />
       </Value>
     </Item>
+    <Item Key="TabsParamsKey">
+      <Value ctype="TabsInfo">
+        <OpenedDocuments>
+          <FilePathData Path="Layer/ListItem.csd" />
+          <FilePathData Path="Layer/ItemLayer.csd" />
+          <FilePathData Path="Layer/ShopLayer.csd" />
+          <FilePathData Path="Layer/ItemButton.csd" />
+        </OpenedDocuments>
+        <ActiveDocument Path="Layer/ItemButton.csd" />
+      </Value>
+    </Item>
   </Properties>
 </UserData>

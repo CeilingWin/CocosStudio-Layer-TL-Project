@@ -28,20 +28,8 @@
             <FileData Type="Normal" Path="shop_gui/res_info.png" Plist="" />
             <BlendFunc Src="1" Dst="771" />
           </AbstractNodeData>
-          <AbstractNodeData Name="list_item_layout" ActionTag="-1927276893" Tag="52" IconVisible="False" HorizontalEdge="LeftEdge" VerticalEdge="TopEdge" LeftMargin="10.0000" RightMargin="10.0000" TopMargin="60.0000" BottomMargin="70.0000" TouchEnable="True" ClipAble="False" BackColorAlpha="0" ComboBoxIndex="1" ColorAngle="90.0000" Scale9Width="1" Scale9Height="1" ScrollDirectionType="0" ItemMargin="10" VerticalType="Align_VerticalCenter" ctype="ListViewObjectData">
+          <AbstractNodeData Name="list_item_layout" ActionTag="-1927276893" Tag="52" IconVisible="False" HorizontalEdge="LeftEdge" VerticalEdge="TopEdge" LeftMargin="10.0000" RightMargin="10.0000" TopMargin="60.0000" BottomMargin="70.0000" TouchEnable="True" ClipAble="True" BackColorAlpha="0" ColorAngle="90.0000" Scale9Width="1" Scale9Height="1" IsBounceEnabled="True" ScrollDirectionType="0" ItemMargin="10" VerticalType="Align_VerticalCenter" ctype="ListViewObjectData">
             <Size X="780.0000" Y="350.0000" />
-            <Children>
-              <AbstractNodeData Name="Image_1" ActionTag="-1488558143" Tag="55" IconVisible="False" RightMargin="554.0000" TopMargin="12.5000" BottomMargin="12.5000" LeftEage="74" RightEage="74" TopEage="107" BottomEage="107" Scale9OriginX="74" Scale9OriginY="107" Scale9Width="78" Scale9Height="111" ctype="ImageViewObjectData">
-                <Size X="226.0000" Y="325.0000" />
-                <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
-                <Position X="113.0000" Y="175.0000" />
-                <Scale ScaleX="1.0000" ScaleY="1.0000" />
-                <CColor A="255" R="255" G="255" B="255" />
-                <PrePosition X="0.1449" Y="0.5000" />
-                <PreSize X="0.2897" Y="0.9286" />
-                <FileData Type="Normal" Path="shop_gui/slot.png" Plist="" />
-              </AbstractNodeData>
-            </Children>
             <AnchorPoint />
             <Position X="10.0000" Y="70.0000" />
             <Scale ScaleX="1.0000" ScaleY="1.0000" />
@@ -69,16 +57,15 @@
                     <PreSize X="0.2000" Y="1.0556" />
                     <FileData Type="Normal" Path="shop_gui/icon_gold_bar.png" Plist="" />
                   </AbstractNodeData>
-                  <AbstractNodeData Name="lb_gold" ActionTag="10233597" Tag="61" IconVisible="False" HorizontalEdge="RightEdge" VerticalEdge="BottomEdge" LeftMargin="15.0000" RightMargin="45.0000" TopMargin="4.0000" BottomMargin="7.0000" IsCustomSize="True" FontSize="22" LabelText="Text Label" HorizontalAlignmentType="HT_Right" VerticalAlignmentType="VT_Center" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="TextObjectData">
-                    <Size X="120.0000" Y="25.0000" />
+                  <AbstractNodeData Name="lb_gold" ActionTag="-1776275946" Tag="75" IconVisible="False" HorizontalEdge="RightEdge" VerticalEdge="BottomEdge" LeftMargin="117.0000" RightMargin="40.0000" TopMargin="7.0000" BottomMargin="10.0000" LabelText="0" ctype="TextBMFontObjectData">
+                    <Size X="23.0000" Y="19.0000" />
                     <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
-                    <Position X="75.0000" Y="19.5000" />
+                    <Position X="128.5000" Y="19.5000" />
                     <Scale ScaleX="1.0000" ScaleY="1.0000" />
                     <CColor A="255" R="255" G="255" B="255" />
-                    <PrePosition X="0.4167" Y="0.5417" />
-                    <PreSize X="0.6667" Y="0.6944" />
-                    <OutlineColor A="255" R="255" G="0" B="0" />
-                    <ShadowColor A="255" R="110" G="110" B="110" />
+                    <PrePosition X="0.7139" Y="0.5417" />
+                    <PreSize X="0.1278" Y="0.5278" />
+                    <LabelBMFontFile_CNB Type="Normal" Path="Fonts/soji_12.fnt" Plist="" />
                   </AbstractNodeData>
                 </Children>
                 <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
@@ -102,16 +89,15 @@
                     <PreSize X="0.1667" Y="1.1111" />
                     <FileData Type="Normal" Path="shop_gui/icon_elixir_bar.png" Plist="" />
                   </AbstractNodeData>
-                  <AbstractNodeData Name="lb_elixir" ActionTag="-1326997943" Tag="70" IconVisible="False" HorizontalEdge="RightEdge" VerticalEdge="BottomEdge" LeftMargin="15.0000" RightMargin="45.0000" TopMargin="4.0000" BottomMargin="7.0000" IsCustomSize="True" FontSize="22" LabelText="Text Label" HorizontalAlignmentType="HT_Right" VerticalAlignmentType="VT_Center" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="TextObjectData">
-                    <Size X="120.0000" Y="25.0000" />
+                  <AbstractNodeData Name="lb_elixir" ActionTag="-1555447296" Tag="76" IconVisible="False" HorizontalEdge="RightEdge" VerticalEdge="BottomEdge" LeftMargin="117.0000" RightMargin="40.0000" TopMargin="7.0000" BottomMargin="10.0000" LabelText="0" ctype="TextBMFontObjectData">
+                    <Size X="23.0000" Y="19.0000" />
                     <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
-                    <Position X="75.0000" Y="19.5000" />
+                    <Position X="128.5000" Y="19.5000" />
                     <Scale ScaleX="1.0000" ScaleY="1.0000" />
                     <CColor A="255" R="255" G="255" B="255" />
-                    <PrePosition X="0.4167" Y="0.5417" />
-                    <PreSize X="0.6667" Y="0.6944" />
-                    <OutlineColor A="255" R="255" G="0" B="0" />
-                    <ShadowColor A="255" R="110" G="110" B="110" />
+                    <PrePosition X="0.7139" Y="0.5417" />
+                    <PreSize X="0.1278" Y="0.5278" />
+                    <LabelBMFontFile_CNB Type="Normal" Path="Fonts/soji_12.fnt" Plist="" />
                   </AbstractNodeData>
                 </Children>
                 <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
@@ -135,16 +121,15 @@
                     <PreSize X="0.1778" Y="0.9444" />
                     <FileData Type="Normal" Path="shop_gui/icon_g_bar.png" Plist="" />
                   </AbstractNodeData>
-                  <AbstractNodeData Name="lb_g" ActionTag="-1993254919" Tag="73" IconVisible="False" HorizontalEdge="RightEdge" VerticalEdge="BottomEdge" LeftMargin="15.0000" RightMargin="45.0000" TopMargin="4.0000" BottomMargin="7.0000" IsCustomSize="True" FontSize="22" LabelText="Text Label" HorizontalAlignmentType="HT_Right" VerticalAlignmentType="VT_Center" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="TextObjectData">
-                    <Size X="120.0000" Y="25.0000" />
+                  <AbstractNodeData Name="lb_g" ActionTag="1525769542" Tag="77" IconVisible="False" HorizontalEdge="RightEdge" VerticalEdge="BottomEdge" LeftMargin="117.0000" RightMargin="40.0000" TopMargin="7.0000" BottomMargin="10.0000" LabelText="0" ctype="TextBMFontObjectData">
+                    <Size X="23.0000" Y="19.0000" />
                     <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
-                    <Position X="75.0000" Y="19.5000" />
+                    <Position X="128.5000" Y="19.5000" />
                     <Scale ScaleX="1.0000" ScaleY="1.0000" />
                     <CColor A="255" R="255" G="255" B="255" />
-                    <PrePosition X="0.4167" Y="0.5417" />
-                    <PreSize X="0.6667" Y="0.6944" />
-                    <OutlineColor A="255" R="255" G="0" B="0" />
-                    <ShadowColor A="255" R="110" G="110" B="110" />
+                    <PrePosition X="0.7139" Y="0.5417" />
+                    <PreSize X="0.1278" Y="0.5278" />
+                    <LabelBMFontFile_CNB Type="Normal" Path="Fonts/soji_12.fnt" Plist="" />
                   </AbstractNodeData>
                 </Children>
                 <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
@@ -166,17 +151,6 @@
             <FirstColor A="255" R="150" G="150" B="255" />
             <EndColor A="255" R="255" G="255" B="255" />
             <ColorVector ScaleY="1.0000" />
-          </AbstractNodeData>
-          <AbstractNodeData Name="lb_intro" ActionTag="-94122096" Tag="74" IconVisible="False" HorizontalEdge="LeftEdge" LeftMargin="300.0000" RightMargin="300.0000" TopMargin="12.3693" BottomMargin="427.6307" IsCustomSize="True" FontSize="30" LabelText="Text Label" HorizontalAlignmentType="HT_Center" VerticalAlignmentType="VT_Center" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="TextObjectData">
-            <Size X="200.0000" Y="40.0000" />
-            <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
-            <Position X="400.0000" Y="447.6307" />
-            <Scale ScaleX="1.0000" ScaleY="1.0000" />
-            <CColor A="255" R="255" G="255" B="255" />
-            <PrePosition X="0.5000" Y="0.9326" />
-            <PreSize X="0.2500" Y="0.0833" />
-            <OutlineColor A="255" R="255" G="0" B="0" />
-            <ShadowColor A="255" R="110" G="110" B="110" />
           </AbstractNodeData>
           <AbstractNodeData Name="btn_back" ActionTag="754814644" Tag="73" IconVisible="False" LeftMargin="10.0000" RightMargin="716.0000" TopMargin="10.5000" BottomMargin="422.5000" TouchEnable="True" FontSize="14" Scale9Enable="True" LeftEage="15" RightEage="15" TopEage="11" BottomEage="11" Scale9OriginX="15" Scale9OriginY="11" Scale9Width="44" Scale9Height="25" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="ButtonObjectData">
             <Size X="74.0000" Y="47.0000" />
@@ -207,6 +181,16 @@
             <NormalFileData Type="Normal" Path="shop_gui/close.png" Plist="" />
             <OutlineColor A="255" R="255" G="0" B="0" />
             <ShadowColor A="255" R="110" G="110" B="110" />
+          </AbstractNodeData>
+          <AbstractNodeData Name="BitmapFontLabel_1" ActionTag="-1232083114" Tag="74" IconVisible="False" LeftMargin="355.0000" RightMargin="355.0000" TopMargin="16.9900" BottomMargin="425.0100" LabelText="INTRO" ctype="TextBMFontObjectData">
+            <Size X="90.0000" Y="38.0000" />
+            <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+            <Position X="400.0000" Y="444.0100" />
+            <Scale ScaleX="1.0000" ScaleY="1.0000" />
+            <CColor A="255" R="255" G="255" B="255" />
+            <PrePosition X="0.5000" Y="0.9250" />
+            <PreSize X="0.1125" Y="0.0792" />
+            <LabelBMFontFile_CNB Type="Normal" Path="Fonts/soji_24.fnt" Plist="" />
           </AbstractNodeData>
         </Children>
       </ObjectData>

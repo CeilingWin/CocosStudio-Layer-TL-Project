@@ -304,7 +304,7 @@
                       },
                       {
                         "FontSize": 14,
-                        "ButtonText": "Treasures",
+                        "ButtonText": "",
                         "TextColor": {
                           "R": 65,
                           "G": 65,
@@ -347,7 +347,7 @@
                           "ScaleY": 0.5
                         },
                         "Position": {
-                          "X": 120.4549,
+                          "X": 120.4598,
                           "Y": 18.0
                         },
                         "Scale": {
@@ -369,13 +369,59 @@
                         "HorizontalEdge": "LeftEdge",
                         "VerticalEdge": "BottomEdge",
                         "LeftMargin": 7.4549,
-                        "RightMargin": 7.5451,
+                        "RightMargin": 7.5353,
                         "TopMargin": 141.5,
                         "BottomMargin": -8.5,
                         "Tag": 31,
+                        "Children": [
+                          {
+                            "LabelText": "Treasures",
+                            "LabelBMFontFile_CNB": {
+                              "Type": "Normal",
+                              "Path": "Fonts/soji_16.fnt",
+                              "Plist": ""
+                            },
+                            "AnchorPoint": {
+                              "ScaleX": 0.5,
+                              "ScaleY": 0.5
+                            },
+                            "Position": {
+                              "X": 124.5,
+                              "Y": 26.0
+                            },
+                            "Scale": {
+                              "ScaleX": 1.0,
+                              "ScaleY": 1.0
+                            },
+                            "CColor": {},
+                            "IconVisible": false,
+                            "PrePosition": {
+                              "X": 0.5509,
+                              "Y": 0.4906
+                            },
+                            "PreSize": {
+                              "X": 0.4734,
+                              "Y": 0.4717
+                            },
+                            "HorizontalEdge": "LeftEdge",
+                            "VerticalEdge": "BottomEdge",
+                            "LeftMargin": 71.0,
+                            "RightMargin": 48.0098,
+                            "TopMargin": 14.5,
+                            "BottomMargin": 13.5,
+                            "Tag": 64,
+                            "ActionTag": 241518425,
+                            "Size": {
+                              "X": 107.0,
+                              "Y": 25.0
+                            },
+                            "Name": "BitmapFontLabel_2",
+                            "ctype": "TextBMFontObjectData"
+                          }
+                        ],
                         "ActionTag": -1481232437,
                         "Size": {
-                          "X": 226.0,
+                          "X": 226.0098,
                           "Y": 53.0
                         },
                         "Name": "btn_treasures",
@@ -476,7 +522,7 @@
                       },
                       {
                         "FontSize": 14,
-                        "ButtonText": "Resources",
+                        "ButtonText": "",
                         "TextColor": {
                           "R": 65,
                           "G": 65,
@@ -519,7 +565,7 @@
                           "ScaleY": 0.5
                         },
                         "Position": {
-                          "X": 120.4549,
+                          "X": 120.4598,
                           "Y": 18.0
                         },
                         "Scale": {
@@ -541,13 +587,59 @@
                         "HorizontalEdge": "LeftEdge",
                         "VerticalEdge": "BottomEdge",
                         "LeftMargin": 7.4549,
-                        "RightMargin": 7.5451,
+                        "RightMargin": 7.5353,
                         "TopMargin": 141.5,
                         "BottomMargin": -8.5,
                         "Tag": 60,
+                        "Children": [
+                          {
+                            "LabelText": "Resources",
+                            "LabelBMFontFile_CNB": {
+                              "Type": "Normal",
+                              "Path": "Fonts/soji_16.fnt",
+                              "Plist": ""
+                            },
+                            "AnchorPoint": {
+                              "ScaleX": 0.5,
+                              "ScaleY": 0.5
+                            },
+                            "Position": {
+                              "X": 126.0,
+                              "Y": 26.0
+                            },
+                            "Scale": {
+                              "ScaleX": 1.0,
+                              "ScaleY": 1.0
+                            },
+                            "CColor": {},
+                            "IconVisible": false,
+                            "PrePosition": {
+                              "X": 0.5575,
+                              "Y": 0.4906
+                            },
+                            "PreSize": {
+                              "X": 0.4867,
+                              "Y": 0.4717
+                            },
+                            "HorizontalEdge": "LeftEdge",
+                            "VerticalEdge": "BottomEdge",
+                            "LeftMargin": 71.0,
+                            "RightMargin": 45.0098,
+                            "TopMargin": 14.5,
+                            "BottomMargin": 13.5,
+                            "Tag": 65,
+                            "ActionTag": -293728410,
+                            "Size": {
+                              "X": 110.0,
+                              "Y": 25.0
+                            },
+                            "Name": "BitmapFontLabel_3",
+                            "ctype": "TextBMFontObjectData"
+                          }
+                        ],
                         "ActionTag": 704473719,
                         "Size": {
-                          "X": 226.0,
+                          "X": 226.0098,
                           "Y": 53.0
                         },
                         "Name": "btn_resources",
@@ -649,7 +741,7 @@
                       },
                       {
                         "FontSize": 14,
-                        "ButtonText": "Decorations",
+                        "ButtonText": "",
                         "TextColor": {
                           "R": 65,
                           "G": 65,
@@ -692,7 +784,7 @@
                           "ScaleY": 0.5
                         },
                         "Position": {
-                          "X": 120.4549,
+                          "X": 120.4598,
                           "Y": 18.0
                         },
                         "Scale": {
@@ -714,13 +806,59 @@
                         "HorizontalEdge": "LeftEdge",
                         "VerticalEdge": "BottomEdge",
                         "LeftMargin": 7.4549,
-                        "RightMargin": 7.5451,
+                        "RightMargin": 7.5353,
                         "TopMargin": 141.5,
                         "BottomMargin": -8.5,
                         "Tag": 63,
+                        "Children": [
+                          {
+                            "LabelText": "Decorations",
+                            "LabelBMFontFile_CNB": {
+                              "Type": "Normal",
+                              "Path": "Fonts/soji_16.fnt",
+                              "Plist": ""
+                            },
+                            "AnchorPoint": {
+                              "ScaleX": 0.5,
+                              "ScaleY": 0.5
+                            },
+                            "Position": {
+                              "X": 135.5,
+                              "Y": 26.0
+                            },
+                            "Scale": {
+                              "ScaleX": 1.0,
+                              "ScaleY": 1.0
+                            },
+                            "CColor": {},
+                            "IconVisible": false,
+                            "PrePosition": {
+                              "X": 0.5995,
+                              "Y": 0.4906
+                            },
+                            "PreSize": {
+                              "X": 0.5486,
+                              "Y": 0.4717
+                            },
+                            "HorizontalEdge": "LeftEdge",
+                            "VerticalEdge": "BottomEdge",
+                            "LeftMargin": 73.5,
+                            "RightMargin": 28.5098,
+                            "TopMargin": 14.5,
+                            "BottomMargin": 13.5,
+                            "Tag": 66,
+                            "ActionTag": -1286036430,
+                            "Size": {
+                              "X": 124.0,
+                              "Y": 25.0
+                            },
+                            "Name": "BitmapFontLabel_4",
+                            "ctype": "TextBMFontObjectData"
+                          }
+                        ],
                         "ActionTag": 706013736,
                         "Size": {
-                          "X": 226.0,
+                          "X": 226.0098,
                           "Y": 53.0
                         },
                         "Name": "btn_decorations",
@@ -874,7 +1012,7 @@
                       },
                       {
                         "FontSize": 14,
-                        "ButtonText": "Army",
+                        "ButtonText": "",
                         "TextColor": {
                           "R": 65,
                           "G": 65,
@@ -917,7 +1055,7 @@
                           "ScaleY": 0.5
                         },
                         "Position": {
-                          "X": 120.4549,
+                          "X": 120.4598,
                           "Y": 18.0
                         },
                         "Scale": {
@@ -939,13 +1077,59 @@
                         "HorizontalEdge": "LeftEdge",
                         "VerticalEdge": "BottomEdge",
                         "LeftMargin": 7.4549,
-                        "RightMargin": 7.5451,
+                        "RightMargin": 7.5353,
                         "TopMargin": 141.5,
                         "BottomMargin": -8.5,
                         "Tag": 69,
+                        "Children": [
+                          {
+                            "LabelText": "Army",
+                            "LabelBMFontFile_CNB": {
+                              "Type": "Normal",
+                              "Path": "Fonts/soji_16.fnt",
+                              "Plist": ""
+                            },
+                            "AnchorPoint": {
+                              "ScaleX": 0.5,
+                              "ScaleY": 0.5
+                            },
+                            "Position": {
+                              "X": 116.5,
+                              "Y": 26.0
+                            },
+                            "Scale": {
+                              "ScaleX": 1.0,
+                              "ScaleY": 1.0
+                            },
+                            "CColor": {},
+                            "IconVisible": false,
+                            "PrePosition": {
+                              "X": 0.5155,
+                              "Y": 0.4906
+                            },
+                            "PreSize": {
+                              "X": 0.2655,
+                              "Y": 0.4717
+                            },
+                            "HorizontalEdge": "LeftEdge",
+                            "VerticalEdge": "BottomEdge",
+                            "LeftMargin": 86.5,
+                            "RightMargin": 79.5098,
+                            "TopMargin": 14.5,
+                            "BottomMargin": 13.5,
+                            "Tag": 67,
+                            "ActionTag": -1820846837,
+                            "Size": {
+                              "X": 60.0,
+                              "Y": 25.0
+                            },
+                            "Name": "BitmapFontLabel_4_0",
+                            "ctype": "TextBMFontObjectData"
+                          }
+                        ],
                         "ActionTag": -1416575930,
                         "Size": {
-                          "X": 226.0,
+                          "X": 226.0098,
                           "Y": 53.0
                         },
                         "Name": "btn_army",
@@ -1047,7 +1231,7 @@
                       },
                       {
                         "FontSize": 14,
-                        "ButtonText": "Defense",
+                        "ButtonText": "",
                         "TextColor": {
                           "R": 65,
                           "G": 65,
@@ -1090,7 +1274,7 @@
                           "ScaleY": 0.5
                         },
                         "Position": {
-                          "X": 120.4549,
+                          "X": 120.5049,
                           "Y": 18.0
                         },
                         "Scale": {
@@ -1100,7 +1284,7 @@
                         "CColor": {},
                         "IconVisible": false,
                         "PrePosition": {
-                          "X": 0.4998,
+                          "X": 0.5,
                           "Y": 0.0968
                         },
                         "PercentWidthEnable": true,
@@ -1111,14 +1295,60 @@
                         },
                         "HorizontalEdge": "LeftEdge",
                         "VerticalEdge": "BottomEdge",
-                        "LeftMargin": 7.4549,
-                        "RightMargin": 7.5451,
+                        "LeftMargin": 7.5,
+                        "RightMargin": 7.4902,
                         "TopMargin": 141.5,
                         "BottomMargin": -8.5,
                         "Tag": 72,
+                        "Children": [
+                          {
+                            "LabelText": "Defense",
+                            "LabelBMFontFile_CNB": {
+                              "Type": "Normal",
+                              "Path": "Fonts/soji_16.fnt",
+                              "Plist": ""
+                            },
+                            "AnchorPoint": {
+                              "ScaleX": 0.5,
+                              "ScaleY": 0.5
+                            },
+                            "Position": {
+                              "X": 124.0,
+                              "Y": 26.0
+                            },
+                            "Scale": {
+                              "ScaleX": 1.0,
+                              "ScaleY": 1.0
+                            },
+                            "CColor": {},
+                            "IconVisible": false,
+                            "PrePosition": {
+                              "X": 0.5486,
+                              "Y": 0.4906
+                            },
+                            "PreSize": {
+                              "X": 0.3982,
+                              "Y": 0.4717
+                            },
+                            "HorizontalEdge": "LeftEdge",
+                            "VerticalEdge": "BottomEdge",
+                            "LeftMargin": 79.0,
+                            "RightMargin": 57.0098,
+                            "TopMargin": 14.5,
+                            "BottomMargin": 13.5,
+                            "Tag": 68,
+                            "ActionTag": 1631858024,
+                            "Size": {
+                              "X": 90.0,
+                              "Y": 25.0
+                            },
+                            "Name": "BitmapFontLabel_4_0",
+                            "ctype": "TextBMFontObjectData"
+                          }
+                        ],
                         "ActionTag": 1488236717,
                         "Size": {
-                          "X": 226.0,
+                          "X": 226.0098,
                           "Y": 53.0
                         },
                         "Name": "btn_defense",
@@ -1221,7 +1451,7 @@
                       },
                       {
                         "FontSize": 14,
-                        "ButtonText": "Shield",
+                        "ButtonText": "",
                         "TextColor": {
                           "R": 65,
                           "G": 65,
@@ -1264,7 +1494,7 @@
                           "ScaleY": 0.5
                         },
                         "Position": {
-                          "X": 120.4549,
+                          "X": 120.4598,
                           "Y": 18.0
                         },
                         "Scale": {
@@ -1286,13 +1516,59 @@
                         "HorizontalEdge": "LeftEdge",
                         "VerticalEdge": "BottomEdge",
                         "LeftMargin": 7.4549,
-                        "RightMargin": 7.5451,
+                        "RightMargin": 7.5353,
                         "TopMargin": 141.5,
                         "BottomMargin": -8.5,
                         "Tag": 75,
+                        "Children": [
+                          {
+                            "LabelText": "Shield",
+                            "LabelBMFontFile_CNB": {
+                              "Type": "Normal",
+                              "Path": "Fonts/soji_16.fnt",
+                              "Plist": ""
+                            },
+                            "AnchorPoint": {
+                              "ScaleX": 0.5,
+                              "ScaleY": 0.5
+                            },
+                            "Position": {
+                              "X": 120.0,
+                              "Y": 26.0
+                            },
+                            "Scale": {
+                              "ScaleX": 1.0,
+                              "ScaleY": 1.0
+                            },
+                            "CColor": {},
+                            "IconVisible": false,
+                            "PrePosition": {
+                              "X": 0.531,
+                              "Y": 0.4906
+                            },
+                            "PreSize": {
+                              "X": 0.292,
+                              "Y": 0.4717
+                            },
+                            "HorizontalEdge": "LeftEdge",
+                            "VerticalEdge": "BottomEdge",
+                            "LeftMargin": 87.0,
+                            "RightMargin": 73.0098,
+                            "TopMargin": 14.5,
+                            "BottomMargin": 13.5,
+                            "Tag": 69,
+                            "ActionTag": -1253700730,
+                            "Size": {
+                              "X": 66.0,
+                              "Y": 25.0
+                            },
+                            "Name": "BitmapFontLabel_4_0_0",
+                            "ctype": "TextBMFontObjectData"
+                          }
+                        ],
                         "ActionTag": 931413454,
                         "Size": {
-                          "X": 226.0,
+                          "X": 226.0098,
                           "Y": 53.0
                         },
                         "Name": "btn_shield",
@@ -1328,26 +1604,19 @@
             "ctype": "ListViewObjectData"
           },
           {
-            "FontSize": 20,
             "LabelText": "SHOP",
-            "OutlineColor": {
-              "G": 0,
-              "B": 0
+            "LabelBMFontFile_CNB": {
+              "Type": "Normal",
+              "Path": "Art/Fonts/soji_24.fnt",
+              "Plist": ""
             },
-            "ShadowColor": {
-              "R": 110,
-              "G": 110,
-              "B": 110
-            },
-            "ShadowOffsetX": 2.0,
-            "ShadowOffsetY": -2.0,
             "AnchorPoint": {
               "ScaleX": 0.5,
               "ScaleY": 0.5
             },
             "Position": {
-              "X": 396.087,
-              "Y": 448.1094
+              "X": 401.1004,
+              "Y": 444.3754
             },
             "Scale": {
               "ScaleX": 1.0,
@@ -1356,25 +1625,25 @@
             "CColor": {},
             "IconVisible": false,
             "PrePosition": {
-              "X": 0.4951,
-              "Y": 0.9336
+              "X": 0.5014,
+              "Y": 0.9258
             },
             "PreSize": {
-              "X": 0.0688,
-              "Y": 0.0479
+              "X": 0.0988,
+              "Y": 0.0792
             },
-            "LeftMargin": 368.587,
-            "RightMargin": 376.413,
-            "TopMargin": 20.3906,
-            "BottomMargin": 436.6094,
-            "Tag": 76,
-            "ActionTag": -13488322,
+            "LeftMargin": 361.6004,
+            "RightMargin": 359.3996,
+            "TopMargin": 16.6246,
+            "BottomMargin": 425.3754,
+            "Tag": 62,
+            "ActionTag": 176477723,
             "Size": {
-              "X": 55.0,
-              "Y": 23.0
+              "X": 79.0,
+              "Y": 38.0
             },
             "Name": "lb_shop",
-            "ctype": "TextObjectData"
+            "ctype": "TextBMFontObjectData"
           }
         ],
         "Size": {
@@ -1385,7 +1654,11 @@
         "ctype": "LayerObjectData"
       },
       "UsedResources": [
+        "../Art/Fonts/soji_24.fnt",
+        "../Art/Fonts/soji_24.png",
         "../Default/Button_Disable.png",
+        "../Fonts/soji_16.fnt",
+        "../Fonts/soji_16.png",
         "../shop_gui/close.png",
         "../shop_gui/nen2.png",
         "../shop_gui/slot_catalogy.png",

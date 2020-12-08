@@ -106,10 +106,10 @@
           {
             "ItemMargin": 10,
             "VerticalType": "Align_VerticalCenter",
+            "IsBounceEnabled": true,
             "ScrollDirectionType": 0,
-            "ClipAble": false,
+            "ClipAble": true,
             "BackColorAlpha": 0,
-            "ComboBoxIndex": 1,
             "SingleColor": {},
             "FirstColor": {
               "R": 150,
@@ -148,52 +148,6 @@
             "TopMargin": 60.0,
             "BottomMargin": 70.0,
             "Tag": 52,
-            "Children": [
-              {
-                "FileData": {
-                  "Type": "Normal",
-                  "Path": "shop_gui/slot.png",
-                  "Plist": ""
-                },
-                "Scale9OriginX": 74,
-                "Scale9OriginY": 107,
-                "Scale9Width": 78,
-                "Scale9Height": 111,
-                "AnchorPoint": {
-                  "ScaleX": 0.5,
-                  "ScaleY": 0.5
-                },
-                "Position": {
-                  "X": 113.0,
-                  "Y": 175.0
-                },
-                "Scale": {
-                  "ScaleX": 1.0,
-                  "ScaleY": 1.0
-                },
-                "CColor": {},
-                "IconVisible": false,
-                "PrePosition": {
-                  "X": 0.1449,
-                  "Y": 0.5
-                },
-                "PreSize": {
-                  "X": 0.2897,
-                  "Y": 0.9286
-                },
-                "RightMargin": 554.0,
-                "TopMargin": 12.5,
-                "BottomMargin": 12.5,
-                "Tag": 55,
-                "ActionTag": -1488558143,
-                "Size": {
-                  "X": 226.0,
-                  "Y": 325.0
-                },
-                "Name": "Image_1",
-                "ctype": "ImageViewObjectData"
-              }
-            ],
             "ActionTag": -1927276893,
             "Size": {
               "X": 780.0,
@@ -332,28 +286,18 @@
                     "ctype": "ImageViewObjectData"
                   },
                   {
-                    "IsCustomSize": true,
-                    "FontSize": 22,
-                    "LabelText": "Text Label",
-                    "HorizontalAlignmentType": "HT_Right",
-                    "VerticalAlignmentType": "VT_Center",
-                    "OutlineColor": {
-                      "G": 0,
-                      "B": 0
+                    "LabelText": "0",
+                    "LabelBMFontFile_CNB": {
+                      "Type": "Normal",
+                      "Path": "Fonts/soji_12.fnt",
+                      "Plist": ""
                     },
-                    "ShadowColor": {
-                      "R": 110,
-                      "G": 110,
-                      "B": 110
-                    },
-                    "ShadowOffsetX": 2.0,
-                    "ShadowOffsetY": -2.0,
                     "AnchorPoint": {
                       "ScaleX": 0.5,
                       "ScaleY": 0.5
                     },
                     "Position": {
-                      "X": 75.0,
+                      "X": 128.5,
                       "Y": 19.5
                     },
                     "Scale": {
@@ -363,27 +307,27 @@
                     "CColor": {},
                     "IconVisible": false,
                     "PrePosition": {
-                      "X": 0.4167,
+                      "X": 0.7139,
                       "Y": 0.5417
                     },
                     "PreSize": {
-                      "X": 0.6667,
-                      "Y": 0.6944
+                      "X": 0.1278,
+                      "Y": 0.5278
                     },
                     "HorizontalEdge": "RightEdge",
                     "VerticalEdge": "BottomEdge",
-                    "LeftMargin": 15.0,
-                    "RightMargin": 45.0,
-                    "TopMargin": 4.0,
-                    "BottomMargin": 7.0,
-                    "Tag": 61,
-                    "ActionTag": 10233597,
+                    "LeftMargin": 117.0,
+                    "RightMargin": 40.0,
+                    "TopMargin": 7.0,
+                    "BottomMargin": 10.0,
+                    "Tag": 75,
+                    "ActionTag": -1776275946,
                     "Size": {
-                      "X": 120.0,
-                      "Y": 25.0
+                      "X": 23.0,
+                      "Y": 19.0
                     },
                     "Name": "lb_gold",
-                    "ctype": "TextObjectData"
+                    "ctype": "TextBMFontObjectData"
                   }
                 ],
                 "ActionTag": 735531525,
@@ -480,28 +424,18 @@
                     "ctype": "ImageViewObjectData"
                   },
                   {
-                    "IsCustomSize": true,
-                    "FontSize": 22,
-                    "LabelText": "Text Label",
-                    "HorizontalAlignmentType": "HT_Right",
-                    "VerticalAlignmentType": "VT_Center",
-                    "OutlineColor": {
-                      "G": 0,
-                      "B": 0
+                    "LabelText": "0",
+                    "LabelBMFontFile_CNB": {
+                      "Type": "Normal",
+                      "Path": "Fonts/soji_12.fnt",
+                      "Plist": ""
                     },
-                    "ShadowColor": {
-                      "R": 110,
-                      "G": 110,
-                      "B": 110
-                    },
-                    "ShadowOffsetX": 2.0,
-                    "ShadowOffsetY": -2.0,
                     "AnchorPoint": {
                       "ScaleX": 0.5,
                       "ScaleY": 0.5
                     },
                     "Position": {
-                      "X": 75.0,
+                      "X": 128.5,
                       "Y": 19.5
                     },
                     "Scale": {
@@ -511,27 +445,27 @@
                     "CColor": {},
                     "IconVisible": false,
                     "PrePosition": {
-                      "X": 0.4167,
+                      "X": 0.7139,
                       "Y": 0.5417
                     },
                     "PreSize": {
-                      "X": 0.6667,
-                      "Y": 0.6944
+                      "X": 0.1278,
+                      "Y": 0.5278
                     },
                     "HorizontalEdge": "RightEdge",
                     "VerticalEdge": "BottomEdge",
-                    "LeftMargin": 15.0,
-                    "RightMargin": 45.0,
-                    "TopMargin": 4.0,
-                    "BottomMargin": 7.0,
-                    "Tag": 70,
-                    "ActionTag": -1326997943,
+                    "LeftMargin": 117.0,
+                    "RightMargin": 40.0,
+                    "TopMargin": 7.0,
+                    "BottomMargin": 10.0,
+                    "Tag": 76,
+                    "ActionTag": -1555447296,
                     "Size": {
-                      "X": 120.0,
-                      "Y": 25.0
+                      "X": 23.0,
+                      "Y": 19.0
                     },
                     "Name": "lb_elixir",
-                    "ctype": "TextObjectData"
+                    "ctype": "TextBMFontObjectData"
                   }
                 ],
                 "ActionTag": 1847978203,
@@ -628,28 +562,18 @@
                     "ctype": "ImageViewObjectData"
                   },
                   {
-                    "IsCustomSize": true,
-                    "FontSize": 22,
-                    "LabelText": "Text Label",
-                    "HorizontalAlignmentType": "HT_Right",
-                    "VerticalAlignmentType": "VT_Center",
-                    "OutlineColor": {
-                      "G": 0,
-                      "B": 0
+                    "LabelText": "0",
+                    "LabelBMFontFile_CNB": {
+                      "Type": "Normal",
+                      "Path": "Fonts/soji_12.fnt",
+                      "Plist": ""
                     },
-                    "ShadowColor": {
-                      "R": 110,
-                      "G": 110,
-                      "B": 110
-                    },
-                    "ShadowOffsetX": 2.0,
-                    "ShadowOffsetY": -2.0,
                     "AnchorPoint": {
                       "ScaleX": 0.5,
                       "ScaleY": 0.5
                     },
                     "Position": {
-                      "X": 75.0,
+                      "X": 128.5,
                       "Y": 19.5
                     },
                     "Scale": {
@@ -659,27 +583,27 @@
                     "CColor": {},
                     "IconVisible": false,
                     "PrePosition": {
-                      "X": 0.4167,
+                      "X": 0.7139,
                       "Y": 0.5417
                     },
                     "PreSize": {
-                      "X": 0.6667,
-                      "Y": 0.6944
+                      "X": 0.1278,
+                      "Y": 0.5278
                     },
                     "HorizontalEdge": "RightEdge",
                     "VerticalEdge": "BottomEdge",
-                    "LeftMargin": 15.0,
-                    "RightMargin": 45.0,
-                    "TopMargin": 4.0,
-                    "BottomMargin": 7.0,
-                    "Tag": 73,
-                    "ActionTag": -1993254919,
+                    "LeftMargin": 117.0,
+                    "RightMargin": 40.0,
+                    "TopMargin": 7.0,
+                    "BottomMargin": 10.0,
+                    "Tag": 77,
+                    "ActionTag": 1525769542,
                     "Size": {
-                      "X": 120.0,
-                      "Y": 25.0
+                      "X": 23.0,
+                      "Y": 19.0
                     },
                     "Name": "lb_g",
-                    "ctype": "TextObjectData"
+                    "ctype": "TextBMFontObjectData"
                   }
                 ],
                 "ActionTag": -1149621932,
@@ -699,59 +623,6 @@
             },
             "Name": "resource_layout",
             "ctype": "ListViewObjectData"
-          },
-          {
-            "IsCustomSize": true,
-            "FontSize": 30,
-            "LabelText": "Text Label",
-            "HorizontalAlignmentType": "HT_Center",
-            "VerticalAlignmentType": "VT_Center",
-            "OutlineColor": {
-              "G": 0,
-              "B": 0
-            },
-            "ShadowColor": {
-              "R": 110,
-              "G": 110,
-              "B": 110
-            },
-            "ShadowOffsetX": 2.0,
-            "ShadowOffsetY": -2.0,
-            "AnchorPoint": {
-              "ScaleX": 0.5,
-              "ScaleY": 0.5
-            },
-            "Position": {
-              "X": 400.0,
-              "Y": 447.6307
-            },
-            "Scale": {
-              "ScaleX": 1.0,
-              "ScaleY": 1.0
-            },
-            "CColor": {},
-            "IconVisible": false,
-            "PrePosition": {
-              "X": 0.5,
-              "Y": 0.9326
-            },
-            "PreSize": {
-              "X": 0.25,
-              "Y": 0.0833
-            },
-            "HorizontalEdge": "LeftEdge",
-            "LeftMargin": 300.0,
-            "RightMargin": 300.0,
-            "TopMargin": 12.3693,
-            "BottomMargin": 427.6307,
-            "Tag": 74,
-            "ActionTag": -94122096,
-            "Size": {
-              "X": 200.0,
-              "Y": 40.0
-            },
-            "Name": "lb_intro",
-            "ctype": "TextObjectData"
           },
           {
             "FontSize": 14,
@@ -902,6 +773,48 @@
             },
             "Name": "btn_close",
             "ctype": "ButtonObjectData"
+          },
+          {
+            "LabelText": "INTRO",
+            "LabelBMFontFile_CNB": {
+              "Type": "Normal",
+              "Path": "Fonts/soji_24.fnt",
+              "Plist": ""
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 400.0,
+              "Y": 444.01
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.925
+            },
+            "PreSize": {
+              "X": 0.1125,
+              "Y": 0.0792
+            },
+            "LeftMargin": 355.0,
+            "RightMargin": 355.0,
+            "TopMargin": 16.99,
+            "BottomMargin": 425.01,
+            "Tag": 74,
+            "ActionTag": -1232083114,
+            "Size": {
+              "X": 90.0,
+              "Y": 38.0
+            },
+            "Name": "BitmapFontLabel_1",
+            "ctype": "TextBMFontObjectData"
           }
         ],
         "Size": {
@@ -913,6 +826,10 @@
       },
       "UsedResources": [
         "../Default/Button_Disable.png",
+        "../Fonts/soji_12.fnt",
+        "../Fonts/soji_12.png",
+        "../Fonts/soji_24.fnt",
+        "../Fonts/soji_24.png",
         "../shop_gui/back.png",
         "../shop_gui/close.png",
         "../shop_gui/icon_elixir_bar.png",
@@ -920,8 +837,7 @@
         "../shop_gui/icon_gold_bar.png",
         "../shop_gui/nen2.png",
         "../shop_gui/res_bar.png",
-        "../shop_gui/res_info.png",
-        "../shop_gui/slot.png"
+        "../shop_gui/res_info.png"
       ],
       "ctype": "GameFileData"
     }
