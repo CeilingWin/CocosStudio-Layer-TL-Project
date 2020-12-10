@@ -62,7 +62,7 @@
                             <CColor A="255" R="255" G="255" B="255" />
                             <PrePosition X="0.5509" Y="0.4906" />
                             <PreSize X="0.4734" Y="0.4717" />
-                            <LabelBMFontFile_CNB Type="Normal" Path="Fonts/soji_16.fnt" Plist="" />
+                            <LabelBMFontFile_CNB Type="Normal" Path="abcxyz/Fonts/soji_16.fnt" Plist="" />
                           </AbstractNodeData>
                         </Children>
                         <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
@@ -111,7 +111,7 @@
                             <CColor A="255" R="255" G="255" B="255" />
                             <PrePosition X="0.5575" Y="0.4906" />
                             <PreSize X="0.4867" Y="0.4717" />
-                            <LabelBMFontFile_CNB Type="Normal" Path="Fonts/soji_16.fnt" Plist="" />
+                            <LabelBMFontFile_CNB Type="Normal" Path="abcxyz/Fonts/soji_16.fnt" Plist="" />
                           </AbstractNodeData>
                         </Children>
                         <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
@@ -160,7 +160,7 @@
                             <CColor A="255" R="255" G="255" B="255" />
                             <PrePosition X="0.5995" Y="0.4906" />
                             <PreSize X="0.5486" Y="0.4717" />
-                            <LabelBMFontFile_CNB Type="Normal" Path="Fonts/soji_16.fnt" Plist="" />
+                            <LabelBMFontFile_CNB Type="Normal" Path="abcxyz/Fonts/soji_16.fnt" Plist="" />
                           </AbstractNodeData>
                         </Children>
                         <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
@@ -224,7 +224,7 @@
                             <CColor A="255" R="255" G="255" B="255" />
                             <PrePosition X="0.5155" Y="0.4906" />
                             <PreSize X="0.2655" Y="0.4717" />
-                            <LabelBMFontFile_CNB Type="Normal" Path="Fonts/soji_16.fnt" Plist="" />
+                            <LabelBMFontFile_CNB Type="Normal" Path="abcxyz/Fonts/soji_16.fnt" Plist="" />
                           </AbstractNodeData>
                         </Children>
                         <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
@@ -273,7 +273,7 @@
                             <CColor A="255" R="255" G="255" B="255" />
                             <PrePosition X="0.5486" Y="0.4906" />
                             <PreSize X="0.3982" Y="0.4717" />
-                            <LabelBMFontFile_CNB Type="Normal" Path="Fonts/soji_16.fnt" Plist="" />
+                            <LabelBMFontFile_CNB Type="Normal" Path="abcxyz/Fonts/soji_16.fnt" Plist="" />
                           </AbstractNodeData>
                         </Children>
                         <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
@@ -322,7 +322,7 @@
                             <CColor A="255" R="255" G="255" B="255" />
                             <PrePosition X="0.5310" Y="0.4906" />
                             <PreSize X="0.2920" Y="0.4717" />
-                            <LabelBMFontFile_CNB Type="Normal" Path="Fonts/soji_16.fnt" Plist="" />
+                            <LabelBMFontFile_CNB Type="Normal" Path="abcxyz/Fonts/soji_16.fnt" Plist="" />
                           </AbstractNodeData>
                         </Children>
                         <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
@@ -379,7 +379,7 @@
             <CColor A="255" R="255" G="255" B="255" />
             <PrePosition X="0.5014" Y="0.9258" />
             <PreSize X="0.0988" Y="0.0792" />
-            <LabelBMFontFile_CNB Type="Normal" Path="Art/Fonts/soji_24.fnt" Plist="" />
+            <LabelBMFontFile_CNB Type="Normal" Path="abcxyz/Fonts/soji_24.fnt" Plist="" />
           </AbstractNodeData>
         </Children>
       </ObjectData>

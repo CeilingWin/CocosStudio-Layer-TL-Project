@@ -378,7 +378,7 @@
                             "LabelText": "Treasures",
                             "LabelBMFontFile_CNB": {
                               "Type": "Normal",
-                              "Path": "Fonts/soji_16.fnt",
+                              "Path": "abcxyz/Fonts/soji_16.fnt",
                               "Plist": ""
                             },
                             "AnchorPoint": {
@@ -596,7 +596,7 @@
                             "LabelText": "Resources",
                             "LabelBMFontFile_CNB": {
                               "Type": "Normal",
-                              "Path": "Fonts/soji_16.fnt",
+                              "Path": "abcxyz/Fonts/soji_16.fnt",
                               "Plist": ""
                             },
                             "AnchorPoint": {
@@ -815,7 +815,7 @@
                             "LabelText": "Decorations",
                             "LabelBMFontFile_CNB": {
                               "Type": "Normal",
-                              "Path": "Fonts/soji_16.fnt",
+                              "Path": "abcxyz/Fonts/soji_16.fnt",
                               "Plist": ""
                             },
                             "AnchorPoint": {
@@ -1086,7 +1086,7 @@
                             "LabelText": "Army",
                             "LabelBMFontFile_CNB": {
                               "Type": "Normal",
-                              "Path": "Fonts/soji_16.fnt",
+                              "Path": "abcxyz/Fonts/soji_16.fnt",
                               "Plist": ""
                             },
                             "AnchorPoint": {
@@ -1305,7 +1305,7 @@
                             "LabelText": "Defense",
                             "LabelBMFontFile_CNB": {
                               "Type": "Normal",
-                              "Path": "Fonts/soji_16.fnt",
+                              "Path": "abcxyz/Fonts/soji_16.fnt",
                               "Plist": ""
                             },
                             "AnchorPoint": {
@@ -1525,7 +1525,7 @@
                             "LabelText": "Shield",
                             "LabelBMFontFile_CNB": {
                               "Type": "Normal",
-                              "Path": "Fonts/soji_16.fnt",
+                              "Path": "abcxyz/Fonts/soji_16.fnt",
                               "Plist": ""
                             },
                             "AnchorPoint": {
@@ -1607,7 +1607,7 @@
             "LabelText": "SHOP",
             "LabelBMFontFile_CNB": {
               "Type": "Normal",
-              "Path": "Art/Fonts/soji_24.fnt",
+              "Path": "abcxyz/Fonts/soji_24.fnt",
               "Plist": ""
             },
             "AnchorPoint": {
@@ -1654,11 +1654,11 @@
         "ctype": "LayerObjectData"
       },
       "UsedResources": [
-        "../Art/Fonts/soji_24.fnt",
-        "../Art/Fonts/soji_24.png",
+        "../abcxyz/Fonts/soji_16.fnt",
+        "../abcxyz/Fonts/soji_16.png",
+        "../abcxyz/Fonts/soji_24.fnt",
+        "../abcxyz/Fonts/soji_24.png",
         "../Default/Button_Disable.png",
-        "../Fonts/soji_16.fnt",
-        "../Fonts/soji_16.png",
         "../shop_gui/close.png",
         "../shop_gui/nen2.png",
         "../shop_gui/slot_catalogy.png",

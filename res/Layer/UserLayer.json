@@ -1,0 +1,1115 @@
+{
+  "ID": "337cf0c8-3d60-46ce-910d-6d7d21b06fd2",
+  "Version": "3.10.0.0",
+  "Name": "UserLayer",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 83,
+        "Children": [
+          {
+            "LabelText": "thangftn",
+            "LabelBMFontFile_CNB": {
+              "Type": "Normal",
+              "Path": "abcxyz/Fonts/soji_12.fnt",
+              "Plist": ""
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 122.8121,
+              "Y": 615.7917
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.1279,
+              "Y": 0.9622
+            },
+            "PreSize": {
+              "X": 0.0802,
+              "Y": 0.0297
+            },
+            "LeftMargin": 84.3121,
+            "RightMargin": 798.6879,
+            "TopMargin": 14.7083,
+            "BottomMargin": 606.2917,
+            "Tag": 85,
+            "ActionTag": 292984547,
+            "Size": {
+              "X": 77.0,
+              "Y": 19.0
+            },
+            "Name": "lb_username",
+            "ctype": "TextBMFontObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "abcxyz/GUIs/Main_Gui/exp_bg_bar.png",
+              "Plist": ""
+            },
+            "Scale9OriginX": 34,
+            "Scale9OriginY": 7,
+            "Scale9Width": 37,
+            "Scale9Height": 9,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 128.0002,
+              "Y": 586.2006
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.1333,
+              "Y": 0.9159
+            },
+            "PreSize": {
+              "X": 0.1094,
+              "Y": 0.0359
+            },
+            "LeftMargin": 75.5002,
+            "RightMargin": 779.4999,
+            "TopMargin": 42.2994,
+            "BottomMargin": 574.7006,
+            "Tag": 86,
+            "ActionTag": 797706808,
+            "Size": {
+              "X": 105.0,
+              "Y": 23.0
+            },
+            "Name": "imv_max_exp",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "abcxyz/GUIs/Main_Gui/exp_bar.png",
+              "Plist": ""
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 5,
+            "Scale9OriginY": 5,
+            "Scale9Width": 95,
+            "Scale9Height": 13,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 128.0002,
+              "Y": 586.2006
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.1333,
+              "Y": 0.9159
+            },
+            "PreSize": {
+              "X": 0.1094,
+              "Y": 0.0359
+            },
+            "LeftMargin": 75.5002,
+            "RightMargin": 779.4999,
+            "TopMargin": 42.2994,
+            "BottomMargin": 574.7006,
+            "Tag": 92,
+            "ActionTag": -987907821,
+            "Size": {
+              "X": 105.0,
+              "Y": 23.0
+            },
+            "Name": "imv_exp",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "abcxyz/GUIs/Main_Gui/trophy_bg_bar.png",
+              "Plist": ""
+            },
+            "Scale9OriginX": 37,
+            "Scale9OriginY": 8,
+            "Scale9Width": 41,
+            "Scale9Height": 9,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 127.5024,
+              "Y": 552.2138
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.1328,
+              "Y": 0.8628
+            },
+            "PreSize": {
+              "X": 0.1198,
+              "Y": 0.0391
+            },
+            "LeftMargin": 70.0024,
+            "RightMargin": 774.9977,
+            "TopMargin": 75.2862,
+            "BottomMargin": 539.7138,
+            "Tag": 87,
+            "ActionTag": 1078923243,
+            "Size": {
+              "X": 115.0,
+              "Y": 25.0
+            },
+            "Name": "imv_dv",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "LabelText": "123",
+            "LabelBMFontFile_CNB": {
+              "Type": "Normal",
+              "Path": "abcxyz/Fonts/soji_12.fnt",
+              "Plist": ""
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 130.875,
+              "Y": 586.6208
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.1363,
+              "Y": 0.9166
+            },
+            "PreSize": {
+              "X": 0.0375,
+              "Y": 0.0297
+            },
+            "LeftMargin": 112.875,
+            "RightMargin": 811.125,
+            "TopMargin": 43.8792,
+            "BottomMargin": 577.1208,
+            "Tag": 88,
+            "ActionTag": 1872165645,
+            "Size": {
+              "X": 36.0,
+              "Y": 19.0
+            },
+            "Name": "lb_exp",
+            "ctype": "TextBMFontObjectData"
+          },
+          {
+            "LabelText": "100",
+            "LabelBMFontFile_CNB": {
+              "Type": "Normal",
+              "Path": "abcxyz/Fonts/soji_12.fnt",
+              "Plist": ""
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 130.572,
+              "Y": 553.0204
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.136,
+              "Y": 0.8641
+            },
+            "PreSize": {
+              "X": 0.0437,
+              "Y": 0.0297
+            },
+            "LeftMargin": 109.572,
+            "RightMargin": 808.428,
+            "TopMargin": 77.4796,
+            "BottomMargin": 543.5204,
+            "Tag": 91,
+            "ActionTag": 1087782079,
+            "Size": {
+              "X": 42.0,
+              "Y": 19.0
+            },
+            "Name": "lb_trophy",
+            "ctype": "TextBMFontObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "abcxyz/GUIs/Main_Gui/ranking.png",
+              "Plist": ""
+            },
+            "Scale9OriginX": 9,
+            "Scale9OriginY": 11,
+            "Scale9Width": 16,
+            "Scale9Height": 14,
+            "AnchorPoint": {
+              "ScaleX": 0.5761,
+              "ScaleY": 0.2314
+            },
+            "Position": {
+              "X": 187.3693,
+              "Y": 542.1985
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.1952,
+              "Y": 0.8472
+            },
+            "PreSize": {
+              "X": 0.0354,
+              "Y": 0.0562
+            },
+            "LeftMargin": 167.7812,
+            "RightMargin": 758.2188,
+            "TopMargin": 70.1312,
+            "BottomMargin": 533.8688,
+            "Tag": 90,
+            "ActionTag": -1788794952,
+            "Size": {
+              "X": 34.0,
+              "Y": 36.0
+            },
+            "Name": "Image_4",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "abcxyz/GUIs/Main_Gui/ic_exp.png",
+              "Plist": ""
+            },
+            "Scale9OriginX": 13,
+            "Scale9OriginY": 13,
+            "Scale9Width": 16,
+            "Scale9Height": 16,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 186.1336,
+              "Y": 592.4343
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.1939,
+              "Y": 0.9257
+            },
+            "PreSize": {
+              "X": 0.0437,
+              "Y": 0.0656
+            },
+            "LeftMargin": 165.1336,
+            "RightMargin": 752.8665,
+            "TopMargin": 26.5657,
+            "BottomMargin": 571.4343,
+            "Tag": 89,
+            "ActionTag": 625291841,
+            "Size": {
+              "X": 42.0,
+              "Y": 42.0
+            },
+            "Name": "Image_3",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "DisabledFileData": {
+              "Type": "Default",
+              "Path": "Default/Button_Disable.png",
+              "Plist": ""
+            },
+            "PressedFileData": {
+              "Type": "Default",
+              "Path": "Default/Button_Press.png",
+              "Plist": ""
+            },
+            "NormalFileData": {
+              "Type": "Normal",
+              "Path": "abcxyz/GUIs/Main_Gui/bg_exp.png",
+              "Plist": ""
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 11,
+            "Scale9Width": 44,
+            "Scale9Height": 54,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 56.1777,
+              "Y": 570.8999
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0585,
+              "Y": 0.892
+            },
+            "PreSize": {
+              "X": 0.0771,
+              "Y": 0.1187
+            },
+            "LeftMargin": 19.1777,
+            "RightMargin": 866.8223,
+            "TopMargin": 31.1001,
+            "BottomMargin": 532.8999,
+            "Tag": 84,
+            "ActionTag": -454775865,
+            "Size": {
+              "X": 74.0,
+              "Y": 76.0
+            },
+            "Name": "btn_user_info",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "LabelText": "22",
+            "LabelBMFontFile_CNB": {
+              "Type": "Normal",
+              "Path": "abcxyz/Fonts/soji_12.fnt",
+              "Plist": ""
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 187.325,
+              "Y": 588.1084
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.1951,
+              "Y": 0.9189
+            },
+            "PreSize": {
+              "X": 0.0312,
+              "Y": 0.0297
+            },
+            "LeftMargin": 172.325,
+            "RightMargin": 757.675,
+            "TopMargin": 42.3916,
+            "BottomMargin": 578.6084,
+            "Tag": 95,
+            "ActionTag": 284389978,
+            "Size": {
+              "X": 30.0,
+              "Y": 19.0
+            },
+            "Name": "lb_level",
+            "ctype": "TextBMFontObjectData"
+          },
+          {
+            "ItemMargin": 30,
+            "VerticalType": "Align_VerticalCenter",
+            "ScrollDirectionType": 0,
+            "ClipAble": false,
+            "BackColorAlpha": 102,
+            "ComboBoxIndex": 1,
+            "SingleColor": {
+              "R": 150,
+              "G": 150
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 150
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "TouchEnable": true,
+            "AnchorPoint": {},
+            "Position": {
+              "X": 300.0,
+              "Y": 577.2245
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.3125,
+              "Y": 0.9019
+            },
+            "PreSize": {
+              "X": 0.375,
+              "Y": 0.0781
+            },
+            "HorizontalEdge": "LeftEdge",
+            "LeftMargin": 300.0,
+            "RightMargin": 300.0,
+            "TopMargin": 12.7755,
+            "BottomMargin": 577.2245,
+            "Tag": 107,
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "abcxyz/GUIs/Main_Gui/bg_bar_1.png",
+                  "Plist": ""
+                },
+                "Scale9OriginX": 33,
+                "Scale9OriginY": 10,
+                "Scale9Width": 34,
+                "Scale9Height": 11,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 50.0,
+                  "Y": 25.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.1389,
+                  "Y": 0.5
+                },
+                "PreSize": {
+                  "X": 0.2778,
+                  "Y": 0.62
+                },
+                "RightMargin": 260.0,
+                "TopMargin": 9.5,
+                "BottomMargin": 9.5,
+                "Tag": 93,
+                "Children": [
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "abcxyz/GUIs/Main_Gui/army_icon.png",
+                      "Plist": ""
+                    },
+                    "Scale9OriginX": 15,
+                    "Scale9OriginY": 11,
+                    "Scale9Width": 16,
+                    "Scale9Height": 14,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 2.2858,
+                      "Y": 15.1754
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.0229,
+                      "Y": 0.4895
+                    },
+                    "PreSize": {
+                      "X": 0.46,
+                      "Y": 1.1613
+                    },
+                    "HorizontalEdge": "LeftEdge",
+                    "VerticalEdge": "BottomEdge",
+                    "LeftMargin": -20.7142,
+                    "RightMargin": 74.7142,
+                    "TopMargin": -2.1754,
+                    "BottomMargin": -2.8246,
+                    "Tag": 94,
+                    "ActionTag": -1584258491,
+                    "Size": {
+                      "X": 46.0,
+                      "Y": 36.0
+                    },
+                    "Name": "Image_7",
+                    "ctype": "ImageViewObjectData"
+                  },
+                  {
+                    "LabelText": "50/200",
+                    "LabelBMFontFile_CNB": {
+                      "Type": "Normal",
+                      "Path": "abcxyz/Fonts/soji_12.fnt",
+                      "Plist": ""
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 55.2148,
+                      "Y": 16.7919
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.5521,
+                      "Y": 0.5417
+                    },
+                    "PreSize": {
+                      "X": 0.69,
+                      "Y": 0.6129
+                    },
+                    "HorizontalEdge": "LeftEdge",
+                    "VerticalEdge": "TopEdge",
+                    "LeftMargin": 20.7148,
+                    "RightMargin": 10.2852,
+                    "TopMargin": 4.7081,
+                    "BottomMargin": 7.2919,
+                    "Tag": 102,
+                    "ActionTag": 1194271319,
+                    "Size": {
+                      "X": 69.0,
+                      "Y": 19.0
+                    },
+                    "Name": "lb_current_per_max",
+                    "ctype": "TextBMFontObjectData"
+                  },
+                  {
+                    "LabelText": "Army",
+                    "LabelBMFontFile_CNB": {
+                      "Type": "Normal",
+                      "Path": "abcxyz/Fonts/soji_12.fnt",
+                      "Plist": ""
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 50.8608,
+                      "Y": 37.5063
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.5086,
+                      "Y": 1.2099
+                    },
+                    "PreSize": {
+                      "X": 0.49,
+                      "Y": 0.6129
+                    },
+                    "HorizontalEdge": "LeftEdge",
+                    "VerticalEdge": "TopEdge",
+                    "LeftMargin": 26.3608,
+                    "RightMargin": 24.6392,
+                    "TopMargin": -16.0063,
+                    "BottomMargin": 28.0063,
+                    "Tag": 96,
+                    "ActionTag": 405964282,
+                    "Size": {
+                      "X": 49.0,
+                      "Y": 19.0
+                    },
+                    "Name": "BitmapFontLabel_5",
+                    "ctype": "TextBMFontObjectData"
+                  }
+                ],
+                "ActionTag": 549423840,
+                "Size": {
+                  "X": 100.0,
+                  "Y": 31.0
+                },
+                "Name": "imv_state_camp",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "abcxyz/GUIs/Main_Gui/bg_bar_1.png",
+                  "Plist": ""
+                },
+                "Scale9OriginX": 33,
+                "Scale9OriginY": 10,
+                "Scale9Width": 34,
+                "Scale9Height": 11,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 180.0,
+                  "Y": 25.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.5
+                },
+                "PreSize": {
+                  "X": 0.2778,
+                  "Y": 0.62
+                },
+                "LeftMargin": 130.0,
+                "RightMargin": 130.0,
+                "TopMargin": 9.5,
+                "BottomMargin": 9.5,
+                "Tag": 108,
+                "Children": [
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "abcxyz/GUIs/Main_Gui/builder_icon.png",
+                      "Plist": ""
+                    },
+                    "Scale9OriginX": 15,
+                    "Scale9OriginY": 11,
+                    "Scale9Width": 1,
+                    "Scale9Height": 15,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 2.2858,
+                      "Y": 15.1754
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.0229,
+                      "Y": 0.4895
+                    },
+                    "PreSize": {
+                      "X": 0.31,
+                      "Y": 1.1935
+                    },
+                    "HorizontalEdge": "LeftEdge",
+                    "VerticalEdge": "BottomEdge",
+                    "LeftMargin": -13.2142,
+                    "RightMargin": 82.2142,
+                    "TopMargin": -2.6754,
+                    "BottomMargin": -3.3246,
+                    "Tag": 109,
+                    "ActionTag": 655342768,
+                    "Size": {
+                      "X": 31.0,
+                      "Y": 37.0
+                    },
+                    "Name": "Image_7",
+                    "ctype": "ImageViewObjectData"
+                  },
+                  {
+                    "LabelText": "2/5",
+                    "LabelBMFontFile_CNB": {
+                      "Type": "Normal",
+                      "Path": "abcxyz/Fonts/soji_12.fnt",
+                      "Plist": ""
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 52.3392,
+                      "Y": 16.7927
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.5234,
+                      "Y": 0.5417
+                    },
+                    "PreSize": {
+                      "X": 0.35,
+                      "Y": 0.6129
+                    },
+                    "HorizontalEdge": "LeftEdge",
+                    "VerticalEdge": "TopEdge",
+                    "LeftMargin": 34.8392,
+                    "RightMargin": 30.1608,
+                    "TopMargin": 4.7073,
+                    "BottomMargin": 7.2927,
+                    "Tag": 110,
+                    "ActionTag": -1672523193,
+                    "Size": {
+                      "X": 35.0,
+                      "Y": 19.0
+                    },
+                    "Name": "lb_current_per_max",
+                    "ctype": "TextBMFontObjectData"
+                  },
+                  {
+                    "LabelText": "Builder",
+                    "LabelBMFontFile_CNB": {
+                      "Type": "Normal",
+                      "Path": "abcxyz/Fonts/soji_12.fnt",
+                      "Plist": ""
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 57.3608,
+                      "Y": 37.5063
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.5736,
+                      "Y": 1.2099
+                    },
+                    "PreSize": {
+                      "X": 0.62,
+                      "Y": 0.6129
+                    },
+                    "HorizontalEdge": "LeftEdge",
+                    "VerticalEdge": "TopEdge",
+                    "LeftMargin": 26.3608,
+                    "RightMargin": 11.6392,
+                    "TopMargin": -16.0063,
+                    "BottomMargin": 28.0063,
+                    "Tag": 111,
+                    "ActionTag": -1239833662,
+                    "Size": {
+                      "X": 62.0,
+                      "Y": 19.0
+                    },
+                    "Name": "BitmapFontLabel_5",
+                    "ctype": "TextBMFontObjectData"
+                  }
+                ],
+                "ActionTag": 5671339,
+                "ZOrder": 1,
+                "Size": {
+                  "X": 100.0,
+                  "Y": 31.0
+                },
+                "Name": "imv_state_builder",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "abcxyz/GUIs/Main_Gui/bg_bar_1.png",
+                  "Plist": ""
+                },
+                "Scale9OriginX": 33,
+                "Scale9OriginY": 10,
+                "Scale9Width": 34,
+                "Scale9Height": 11,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 310.0,
+                  "Y": 25.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.8611,
+                  "Y": 0.5
+                },
+                "PreSize": {
+                  "X": 0.2778,
+                  "Y": 0.62
+                },
+                "LeftMargin": 260.0,
+                "TopMargin": 9.5,
+                "BottomMargin": 9.5,
+                "Tag": 112,
+                "Children": [
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "abcxyz/GUIs/Main_Gui/shield.png",
+                      "Plist": ""
+                    },
+                    "Scale9OriginX": 15,
+                    "Scale9OriginY": 11,
+                    "Scale9Width": 6,
+                    "Scale9Height": 15,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 2.2858,
+                      "Y": 15.1754
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.0229,
+                      "Y": 0.4895
+                    },
+                    "PreSize": {
+                      "X": 0.36,
+                      "Y": 1.1935
+                    },
+                    "HorizontalEdge": "LeftEdge",
+                    "VerticalEdge": "BottomEdge",
+                    "LeftMargin": -15.7142,
+                    "RightMargin": 79.7142,
+                    "TopMargin": -2.6754,
+                    "BottomMargin": -3.3246,
+                    "Tag": 113,
+                    "ActionTag": 572100170,
+                    "Size": {
+                      "X": 36.0,
+                      "Y": 37.0
+                    },
+                    "Name": "Image_7",
+                    "ctype": "ImageViewObjectData"
+                  },
+                  {
+                    "LabelText": "NONE",
+                    "LabelBMFontFile_CNB": {
+                      "Type": "Normal",
+                      "Path": "abcxyz/Fonts/soji_12.fnt",
+                      "Plist": ""
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 54.1306,
+                      "Y": 16.792
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.5413,
+                      "Y": 0.5417
+                    },
+                    "PreSize": {
+                      "X": 0.48,
+                      "Y": 0.6129
+                    },
+                    "HorizontalEdge": "LeftEdge",
+                    "VerticalEdge": "TopEdge",
+                    "LeftMargin": 30.1306,
+                    "RightMargin": 21.8694,
+                    "TopMargin": 4.708,
+                    "BottomMargin": 7.292,
+                    "Tag": 114,
+                    "ActionTag": 381248894,
+                    "Size": {
+                      "X": 48.0,
+                      "Y": 19.0
+                    },
+                    "Name": "lb_current_per_max",
+                    "ctype": "TextBMFontObjectData"
+                  },
+                  {
+                    "LabelText": "Shield",
+                    "LabelBMFontFile_CNB": {
+                      "Type": "Normal",
+                      "Path": "abcxyz/Fonts/soji_12.fnt",
+                      "Plist": ""
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 53.3608,
+                      "Y": 37.5063
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.5336,
+                      "Y": 1.2099
+                    },
+                    "PreSize": {
+                      "X": 0.54,
+                      "Y": 0.6129
+                    },
+                    "HorizontalEdge": "LeftEdge",
+                    "VerticalEdge": "TopEdge",
+                    "LeftMargin": 26.3608,
+                    "RightMargin": 19.6392,
+                    "TopMargin": -16.0063,
+                    "BottomMargin": 28.0063,
+                    "Tag": 115,
+                    "ActionTag": 960435505,
+                    "Size": {
+                      "X": 54.0,
+                      "Y": 19.0
+                    },
+                    "Name": "BitmapFontLabel_5",
+                    "ctype": "TextBMFontObjectData"
+                  }
+                ],
+                "ActionTag": -1271244118,
+                "ZOrder": 2,
+                "Size": {
+                  "X": 100.0,
+                  "Y": 31.0
+                },
+                "Name": "imv_state_shield",
+                "ctype": "ImageViewObjectData"
+              }
+            ],
+            "ActionTag": -1107525236,
+            "Size": {
+              "X": 360.0,
+              "Y": 50.0
+            },
+            "Name": "ListView_1",
+            "ctype": "ListViewObjectData"
+          }
+        ],
+        "Size": {
+          "X": 960.0,
+          "Y": 640.0
+        },
+        "Name": "Layer",
+        "ctype": "LayerObjectData"
+      },
+      "UsedResources": [
+        "../abcxyz/Fonts/soji_12.fnt",
+        "../abcxyz/Fonts/soji_12.png",
+        "../abcxyz/GUIs/Main_Gui/army_icon.png",
+        "../abcxyz/GUIs/Main_Gui/bg_bar_1.png",
+        "../abcxyz/GUIs/Main_Gui/bg_exp.png",
+        "../abcxyz/GUIs/Main_Gui/builder_icon.png",
+        "../abcxyz/GUIs/Main_Gui/exp_bar.png",
+        "../abcxyz/GUIs/Main_Gui/exp_bg_bar.png",
+        "../abcxyz/GUIs/Main_Gui/ic_exp.png",
+        "../abcxyz/GUIs/Main_Gui/ranking.png",
+        "../abcxyz/GUIs/Main_Gui/shield.png",
+        "../abcxyz/GUIs/Main_Gui/trophy_bg_bar.png",
+        "../Default/Button_Disable.png",
+        "../Default/Button_Press.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Layer"
+}

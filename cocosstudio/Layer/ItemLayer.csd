@@ -27,7 +27,7 @@
                 <CColor A="255" R="255" G="255" B="255" />
                 <PrePosition X="0.5000" Y="0.5000" />
                 <PreSize X="1.0398" Y="1.0000" />
-                <FileData Type="Normal" Path="icons/shop_gui/icon/DEF_8.png" Plist="" />
+                <FileData Type="Normal" Path="abcxyz/icons/shop_gui/icon/DEF_8.png" Plist="" />
               </AbstractNodeData>
               <AbstractNodeData Name="lb_cost" ActionTag="-391463108" Tag="78" IconVisible="False" HorizontalEdge="RightEdge" LeftMargin="54.0000" RightMargin="50.0000" TopMargin="277.5000" BottomMargin="22.5000" LabelText="2,000,000" ctype="TextBMFontObjectData">
                 <Size X="122.0000" Y="25.0000" />
@@ -37,7 +37,7 @@
                 <CColor A="255" R="255" G="255" B="255" />
                 <PrePosition X="0.5088" Y="0.1077" />
                 <PreSize X="0.5398" Y="0.0769" />
-                <LabelBMFontFile_CNB Type="Normal" Path="Fonts/soji_16.fnt" Plist="" />
+                <LabelBMFontFile_CNB Type="Normal" Path="abcxyz/Fonts/soji_16.fnt" Plist="" />
               </AbstractNodeData>
               <AbstractNodeData Name="imv_type_resource" ActionTag="-980765193" Tag="79" IconVisible="False" HorizontalEdge="RightEdge" VerticalEdge="BottomEdge" LeftMargin="178.0000" RightMargin="20.0000" TopMargin="272.5000" BottomMargin="22.5000" LeftEage="9" RightEage="9" TopEage="9" BottomEage="9" Scale9OriginX="9" Scale9OriginY="9" Scale9Width="10" Scale9Height="12" ctype="ImageViewObjectData">
                 <Size X="28.0000" Y="30.0000" />
@@ -67,7 +67,7 @@
                 <CColor A="255" R="255" G="255" B="255" />
                 <PrePosition X="0.7810" Y="0.2689" />
                 <PreSize X="0.3053" Y="0.0585" />
-                <LabelBMFontFile_CNB Type="Normal" Path="Fonts/soji_12.fnt" Plist="" />
+                <LabelBMFontFile_CNB Type="Normal" Path="abcxyz/Fonts/soji_12.fnt" Plist="" />
               </AbstractNodeData>
               <AbstractNodeData Name="lb_time_build" ActionTag="-340191338" Tag="82" IconVisible="False" HorizontalEdge="LeftEdge" LeftMargin="40.0000" RightMargin="132.0000" TopMargin="229.0713" BottomMargin="76.9287" LabelText="1d12h" ctype="TextBMFontObjectData">
                 <Size X="54.0000" Y="19.0000" />
@@ -77,7 +77,7 @@
                 <CColor A="255" R="255" G="255" B="255" />
                 <PrePosition X="0.2965" Y="0.2659" />
                 <PreSize X="0.2389" Y="0.0585" />
-                <LabelBMFontFile_CNB Type="Normal" Path="Fonts/soji_12.fnt" Plist="" />
+                <LabelBMFontFile_CNB Type="Normal" Path="abcxyz/Fonts/soji_12.fnt" Plist="" />
               </AbstractNodeData>
               <AbstractNodeData Name="lb_entity_name" ActionTag="1955049985" Tag="83" IconVisible="False" VerticalEdge="TopEdge" LeftMargin="65.5000" RightMargin="57.5000" TopMargin="20.0000" BottomMargin="286.0000" LabelText="entity name" ctype="TextBMFontObjectData">
                 <Size X="103.0000" Y="19.0000" />
@@ -87,7 +87,7 @@
                 <CColor A="255" R="255" G="255" B="255" />
                 <PrePosition X="0.5177" Y="0.9092" />
                 <PreSize X="0.4558" Y="0.0585" />
-                <LabelBMFontFile_CNB Type="Normal" Path="Fonts/soji_12.fnt" Plist="" />
+                <LabelBMFontFile_CNB Type="Normal" Path="abcxyz/Fonts/soji_12.fnt" Plist="" />
               </AbstractNodeData>
               <AbstractNodeData Name="btn_info" ActionTag="-436420246" Tag="84" IconVisible="False" HorizontalEdge="RightEdge" VerticalEdge="TopEdge" LeftMargin="179.0000" RightMargin="10.0000" TopMargin="10.0000" BottomMargin="276.0000" TouchEnable="True" FontSize="14" LeftEage="15" RightEage="15" TopEage="15" BottomEage="15" Scale9OriginX="15" Scale9OriginY="15" Scale9Width="7" Scale9Height="9" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="ButtonObjectData">
                 <Size X="37.0000" Y="39.0000" />

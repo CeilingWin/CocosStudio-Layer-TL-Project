@@ -100,7 +100,7 @@
               {
                 "FileData": {
                   "Type": "Normal",
-                  "Path": "icons/shop_gui/icon/DEF_8.png",
+                  "Path": "abcxyz/icons/shop_gui/icon/DEF_8.png",
                   "Plist": ""
                 },
                 "Scale9OriginX": 77,
@@ -146,7 +146,7 @@
                 "LabelText": "2,000,000",
                 "LabelBMFontFile_CNB": {
                   "Type": "Normal",
-                  "Path": "Fonts/soji_16.fnt",
+                  "Path": "abcxyz/Fonts/soji_16.fnt",
                   "Plist": ""
                 },
                 "AnchorPoint": {
@@ -281,7 +281,7 @@
                 "LabelText": "112/221",
                 "LabelBMFontFile_CNB": {
                   "Type": "Normal",
-                  "Path": "Fonts/soji_12.fnt",
+                  "Path": "abcxyz/Fonts/soji_12.fnt",
                   "Plist": ""
                 },
                 "AnchorPoint": {
@@ -324,7 +324,7 @@
                 "LabelText": "1d12h",
                 "LabelBMFontFile_CNB": {
                   "Type": "Normal",
-                  "Path": "Fonts/soji_12.fnt",
+                  "Path": "abcxyz/Fonts/soji_12.fnt",
                   "Plist": ""
                 },
                 "AnchorPoint": {
@@ -367,7 +367,7 @@
                 "LabelText": "entity name",
                 "LabelBMFontFile_CNB": {
                   "Type": "Normal",
-                  "Path": "Fonts/soji_12.fnt",
+                  "Path": "abcxyz/Fonts/soji_12.fnt",
                   "Plist": ""
                 },
                 "AnchorPoint": {
@@ -500,13 +500,13 @@
         "ctype": "LayerObjectData"
       },
       "UsedResources": [
+        "../abcxyz/Fonts/soji_12.fnt",
+        "../abcxyz/Fonts/soji_12.png",
+        "../abcxyz/Fonts/soji_16.fnt",
+        "../abcxyz/Fonts/soji_16.png",
+        "../abcxyz/icons/shop_gui/icon/DEF_8.png",
         "../Default/Button_Disable.png",
         "../Default/Button_Press.png",
-        "../Fonts/soji_12.fnt",
-        "../Fonts/soji_12.png",
-        "../Fonts/soji_16.fnt",
-        "../Fonts/soji_16.png",
-        "../icons/shop_gui/icon/DEF_8.png",
         "../shop_gui/catalogy_bg.png",
         "../shop_gui/gold.png",
         "../shop_gui/info.png",

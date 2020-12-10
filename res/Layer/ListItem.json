@@ -286,18 +286,18 @@
                     "ctype": "ImageViewObjectData"
                   },
                   {
-                    "LabelText": "0",
+                    "LabelText": "                                 ",
                     "LabelBMFontFile_CNB": {
                       "Type": "Normal",
-                      "Path": "Fonts/soji_12.fnt",
+                      "Path": "abcxyz/Fonts/soji_12.fnt",
                       "Plist": ""
                     },
                     "AnchorPoint": {
-                      "ScaleX": 0.5,
+                      "ScaleX": 1.0,
                       "ScaleY": 0.5
                     },
                     "Position": {
-                      "X": 128.5,
+                      "X": 140.0,
                       "Y": 19.5
                     },
                     "Scale": {
@@ -307,23 +307,23 @@
                     "CColor": {},
                     "IconVisible": false,
                     "PrePosition": {
-                      "X": 0.7139,
+                      "X": 0.7778,
                       "Y": 0.5417
                     },
                     "PreSize": {
-                      "X": 0.1278,
+                      "X": 0.7111,
                       "Y": 0.5278
                     },
                     "HorizontalEdge": "RightEdge",
                     "VerticalEdge": "BottomEdge",
-                    "LeftMargin": 117.0,
+                    "LeftMargin": 12.0,
                     "RightMargin": 40.0,
                     "TopMargin": 7.0,
                     "BottomMargin": 10.0,
                     "Tag": 75,
                     "ActionTag": -1776275946,
                     "Size": {
-                      "X": 23.0,
+                      "X": 128.0,
                       "Y": 19.0
                     },
                     "Name": "lb_gold",
@@ -424,18 +424,18 @@
                     "ctype": "ImageViewObjectData"
                   },
                   {
-                    "LabelText": "0",
+                    "LabelText": "                                 ",
                     "LabelBMFontFile_CNB": {
                       "Type": "Normal",
-                      "Path": "Fonts/soji_12.fnt",
+                      "Path": "abcxyz/Fonts/soji_12.fnt",
                       "Plist": ""
                     },
                     "AnchorPoint": {
-                      "ScaleX": 0.5,
+                      "ScaleX": 1.0,
                       "ScaleY": 0.5
                     },
                     "Position": {
-                      "X": 128.5,
+                      "X": 140.0,
                       "Y": 19.5
                     },
                     "Scale": {
@@ -445,23 +445,23 @@
                     "CColor": {},
                     "IconVisible": false,
                     "PrePosition": {
-                      "X": 0.7139,
+                      "X": 0.7778,
                       "Y": 0.5417
                     },
                     "PreSize": {
-                      "X": 0.1278,
+                      "X": 0.7111,
                       "Y": 0.5278
                     },
                     "HorizontalEdge": "RightEdge",
                     "VerticalEdge": "BottomEdge",
-                    "LeftMargin": 117.0,
+                    "LeftMargin": 12.0,
                     "RightMargin": 40.0,
                     "TopMargin": 7.0,
                     "BottomMargin": 10.0,
                     "Tag": 76,
                     "ActionTag": -1555447296,
                     "Size": {
-                      "X": 23.0,
+                      "X": 128.0,
                       "Y": 19.0
                     },
                     "Name": "lb_elixir",
@@ -562,18 +562,18 @@
                     "ctype": "ImageViewObjectData"
                   },
                   {
-                    "LabelText": "0",
+                    "LabelText": "                                 ",
                     "LabelBMFontFile_CNB": {
                       "Type": "Normal",
-                      "Path": "Fonts/soji_12.fnt",
+                      "Path": "abcxyz/Fonts/soji_12.fnt",
                       "Plist": ""
                     },
                     "AnchorPoint": {
-                      "ScaleX": 0.5,
+                      "ScaleX": 1.0,
                       "ScaleY": 0.5
                     },
                     "Position": {
-                      "X": 128.5,
+                      "X": 140.0,
                       "Y": 19.5
                     },
                     "Scale": {
@@ -583,23 +583,23 @@
                     "CColor": {},
                     "IconVisible": false,
                     "PrePosition": {
-                      "X": 0.7139,
+                      "X": 0.7778,
                       "Y": 0.5417
                     },
                     "PreSize": {
-                      "X": 0.1278,
+                      "X": 0.7111,
                       "Y": 0.5278
                     },
                     "HorizontalEdge": "RightEdge",
                     "VerticalEdge": "BottomEdge",
-                    "LeftMargin": 117.0,
+                    "LeftMargin": 12.0,
                     "RightMargin": 40.0,
                     "TopMargin": 7.0,
                     "BottomMargin": 10.0,
                     "Tag": 77,
                     "ActionTag": 1525769542,
                     "Size": {
-                      "X": 23.0,
+                      "X": 128.0,
                       "Y": 19.0
                     },
                     "Name": "lb_g",
@@ -778,7 +778,7 @@
             "LabelText": "INTRO",
             "LabelBMFontFile_CNB": {
               "Type": "Normal",
-              "Path": "Fonts/soji_24.fnt",
+              "Path": "abcxyz/Fonts/soji_24.fnt",
               "Plist": ""
             },
             "AnchorPoint": {
@@ -813,7 +813,7 @@
               "X": 90.0,
               "Y": 38.0
             },
-            "Name": "BitmapFontLabel_1",
+            "Name": "lb_category",
             "ctype": "TextBMFontObjectData"
           }
         ],
@@ -825,11 +825,11 @@
         "ctype": "LayerObjectData"
       },
       "UsedResources": [
+        "../abcxyz/Fonts/soji_12.fnt",
+        "../abcxyz/Fonts/soji_12.png",
+        "../abcxyz/Fonts/soji_24.fnt",
+        "../abcxyz/Fonts/soji_24.png",
         "../Default/Button_Disable.png",
-        "../Fonts/soji_12.fnt",
-        "../Fonts/soji_12.png",
-        "../Fonts/soji_24.fnt",
-        "../Fonts/soji_24.png",
         "../shop_gui/back.png",
         "../shop_gui/close.png",
         "../shop_gui/icon_elixir_bar.png",
