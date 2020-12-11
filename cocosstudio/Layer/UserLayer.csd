@@ -16,7 +16,7 @@
             <PreSize X="0.0802" Y="0.0297" />
             <LabelBMFontFile_CNB Type="Normal" Path="abcxyz/Fonts/soji_12.fnt" Plist="" />
           </AbstractNodeData>
-          <AbstractNodeData Name="imv_max_exp" ActionTag="797706808" Tag="86" IconVisible="False" LeftMargin="75.5002" RightMargin="779.4999" TopMargin="42.2994" BottomMargin="574.7006" LeftEage="34" RightEage="34" TopEage="7" BottomEage="7" Scale9OriginX="34" Scale9OriginY="7" Scale9Width="37" Scale9Height="9" ctype="ImageViewObjectData">
+          <AbstractNodeData Name="imv_max_exp" ActionTag="797706808" Tag="86" IconVisible="False" LeftMargin="75.5002" RightMargin="779.4998" TopMargin="42.2994" BottomMargin="574.7006" LeftEage="34" RightEage="34" TopEage="7" BottomEage="7" Scale9OriginX="34" Scale9OriginY="7" Scale9Width="37" Scale9Height="9" ctype="ImageViewObjectData">
             <Size X="105.0000" Y="23.0000" />
             <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
             <Position X="128.0002" Y="586.2006" />
@@ -26,7 +26,7 @@
             <PreSize X="0.1094" Y="0.0359" />
             <FileData Type="Normal" Path="abcxyz/GUIs/Main_Gui/exp_bg_bar.png" Plist="" />
           </AbstractNodeData>
-          <AbstractNodeData Name="imv_exp" ActionTag="-987907821" Tag="92" IconVisible="False" LeftMargin="75.5002" RightMargin="779.4999" TopMargin="42.2994" BottomMargin="574.7006" Scale9Enable="True" LeftEage="5" RightEage="5" TopEage="5" BottomEage="5" Scale9OriginX="5" Scale9OriginY="5" Scale9Width="95" Scale9Height="13" ctype="ImageViewObjectData">
+          <AbstractNodeData Name="imv_exp" ActionTag="-987907821" Tag="92" IconVisible="False" LeftMargin="75.5002" RightMargin="779.4998" TopMargin="42.2994" BottomMargin="574.7006" Scale9Enable="True" LeftEage="5" RightEage="5" TopEage="5" BottomEage="5" Scale9OriginX="5" Scale9OriginY="5" Scale9Width="95" Scale9Height="13" ctype="ImageViewObjectData">
             <Size X="105.0000" Y="23.0000" />
             <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
             <Position X="128.0002" Y="586.2006" />
@@ -36,7 +36,7 @@
             <PreSize X="0.1094" Y="0.0359" />
             <FileData Type="Normal" Path="abcxyz/GUIs/Main_Gui/exp_bar.png" Plist="" />
           </AbstractNodeData>
-          <AbstractNodeData Name="imv_dv" ActionTag="1078923243" Tag="87" IconVisible="False" LeftMargin="70.0024" RightMargin="774.9977" TopMargin="75.2862" BottomMargin="539.7138" LeftEage="37" RightEage="37" TopEage="8" BottomEage="8" Scale9OriginX="37" Scale9OriginY="8" Scale9Width="41" Scale9Height="9" ctype="ImageViewObjectData">
+          <AbstractNodeData Name="imv_dv" ActionTag="1078923243" Tag="87" IconVisible="False" LeftMargin="70.0024" RightMargin="774.9976" TopMargin="75.2862" BottomMargin="539.7138" LeftEage="37" RightEage="37" TopEage="8" BottomEage="8" Scale9OriginX="37" Scale9OriginY="8" Scale9Width="41" Scale9Height="9" ctype="ImageViewObjectData">
             <Size X="115.0000" Y="25.0000" />
             <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
             <Position X="127.5024" Y="552.2138" />
@@ -66,7 +66,7 @@
             <PreSize X="0.0437" Y="0.0297" />
             <LabelBMFontFile_CNB Type="Normal" Path="abcxyz/Fonts/soji_12.fnt" Plist="" />
           </AbstractNodeData>
-          <AbstractNodeData Name="Image_4" ActionTag="-1788794952" Tag="90" IconVisible="False" LeftMargin="167.7812" RightMargin="758.2188" TopMargin="70.1312" BottomMargin="533.8688" LeftEage="9" RightEage="9" TopEage="11" BottomEage="11" Scale9OriginX="9" Scale9OriginY="11" Scale9Width="16" Scale9Height="14" ctype="ImageViewObjectData">
+          <AbstractNodeData Name="Image_4" ActionTag="-1788794952" Tag="90" IconVisible="False" LeftMargin="167.7819" RightMargin="758.2181" TopMargin="70.1319" BottomMargin="533.8681" LeftEage="9" RightEage="9" TopEage="11" BottomEage="11" Scale9OriginX="9" Scale9OriginY="11" Scale9Width="16" Scale9Height="14" ctype="ImageViewObjectData">
             <Size X="34.0000" Y="36.0000" />
             <AnchorPoint ScaleX="0.5761" ScaleY="0.2314" />
             <Position X="187.3693" Y="542.1985" />
@@ -76,7 +76,7 @@
             <PreSize X="0.0354" Y="0.0562" />
             <FileData Type="Normal" Path="abcxyz/GUIs/Main_Gui/ranking.png" Plist="" />
           </AbstractNodeData>
-          <AbstractNodeData Name="Image_3" ActionTag="625291841" Tag="89" IconVisible="False" LeftMargin="165.1336" RightMargin="752.8665" TopMargin="26.5657" BottomMargin="571.4343" LeftEage="13" RightEage="13" TopEage="13" BottomEage="13" Scale9OriginX="13" Scale9OriginY="13" Scale9Width="16" Scale9Height="16" ctype="ImageViewObjectData">
+          <AbstractNodeData Name="Image_3" ActionTag="625291841" Tag="89" IconVisible="False" LeftMargin="165.1336" RightMargin="752.8664" TopMargin="26.5657" BottomMargin="571.4343" LeftEage="13" RightEage="13" TopEage="13" BottomEage="13" Scale9OriginX="13" Scale9OriginY="13" Scale9Width="16" Scale9Height="16" ctype="ImageViewObjectData">
             <Size X="42.0000" Y="42.0000" />
             <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
             <Position X="186.1336" Y="592.4343" />
@@ -96,7 +96,7 @@
             <PreSize X="0.0771" Y="0.1187" />
             <TextColor A="255" R="65" G="65" B="70" />
             <DisabledFileData Type="Default" Path="Default/Button_Disable.png" Plist="" />
-            <PressedFileData Type="Default" Path="Default/Button_Press.png" Plist="" />
+            <PressedFileData Type="Normal" Path="abcxyz/GUIs/Main_Gui/bg_exp.png" Plist="" />
             <NormalFileData Type="Normal" Path="abcxyz/GUIs/Main_Gui/bg_exp.png" Plist="" />
             <OutlineColor A="255" R="255" G="0" B="0" />
             <ShadowColor A="255" R="110" G="110" B="110" />
@@ -111,7 +111,7 @@
             <PreSize X="0.0313" Y="0.0297" />
             <LabelBMFontFile_CNB Type="Normal" Path="abcxyz/Fonts/soji_12.fnt" Plist="" />
           </AbstractNodeData>
-          <AbstractNodeData Name="ListView_1" ActionTag="-1107525236" Tag="107" IconVisible="False" HorizontalEdge="LeftEdge" LeftMargin="300.0000" RightMargin="300.0000" TopMargin="12.7755" BottomMargin="577.2245" TouchEnable="True" ClipAble="False" BackColorAlpha="102" ComboBoxIndex="1" ColorAngle="90.0000" ScrollDirectionType="0" ItemMargin="30" VerticalType="Align_VerticalCenter" ctype="ListViewObjectData">
+          <AbstractNodeData Name="ListView_1" ActionTag="-1107525236" Tag="107" IconVisible="False" HorizontalEdge="LeftEdge" LeftMargin="300.0000" RightMargin="300.0000" TopMargin="12.7755" BottomMargin="577.2245" TouchEnable="True" ClipAble="False" BackColorAlpha="102" ComboBoxIndex="1" ColorAngle="90.0000" Scale9Width="1" Scale9Height="1" ScrollDirectionType="0" ItemMargin="30" VerticalType="Align_VerticalCenter" ctype="ListViewObjectData">
             <Size X="360.0000" Y="50.0000" />
             <Children>
               <AbstractNodeData Name="imv_state_camp" ActionTag="549423840" Tag="93" IconVisible="False" RightMargin="260.0000" TopMargin="9.5000" BottomMargin="9.5000" LeftEage="33" RightEage="33" TopEage="10" BottomEage="10" Scale9OriginX="33" Scale9OriginY="10" Scale9Width="34" Scale9Height="11" ctype="ImageViewObjectData">
