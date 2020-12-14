@@ -1,0 +1,2038 @@
+{
+  "ID": "4d75bed8-b0ad-4ce7-8219-5dcd0f36dca2",
+  "Version": "3.10.0.0",
+  "Name": "TrainTroopLayer",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 42,
+        "Children": [
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "../GUIs/train_troop_gui/background.png",
+              "Plist": ""
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 50,
+            "Scale9OriginY": 100,
+            "Scale9Width": 291,
+            "Scale9Height": 123,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 483.0,
+              "Y": 323.2256
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5031,
+              "Y": 0.505
+            },
+            "PreSize": {
+              "X": 0.8333,
+              "Y": 0.7812
+            },
+            "LeftMargin": 83.0,
+            "RightMargin": 77.0,
+            "TopMargin": 66.7744,
+            "BottomMargin": 73.2256,
+            "Tag": 43,
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "../GUIs/train_troop_gui/bg_cost_3.png",
+                  "Plist": ""
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 31,
+                "Scale9OriginY": 13,
+                "Scale9Width": 33,
+                "Scale9Height": 15,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 400.0,
+                  "Y": 395.8845
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.7918
+                },
+                "PreSize": {
+                  "X": 0.9375,
+                  "Y": 0.24
+                },
+                "HorizontalEdge": "LeftEdge",
+                "VerticalEdge": "TopEdge",
+                "LeftMargin": 25.0,
+                "RightMargin": 25.0,
+                "TopMargin": 44.1155,
+                "BottomMargin": 335.8845,
+                "Tag": 85,
+                "ActionTag": 1238625239,
+                "Size": {
+                  "X": 750.0,
+                  "Y": 120.0
+                },
+                "Name": "Image_19",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "LabelText": "Barrak 2",
+                "LabelBMFontFile_CNB": {
+                  "Type": "Normal",
+                  "Path": "../Fonts/soji_20.fnt",
+                  "Plist": ""
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 400.0,
+                  "Y": 479.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.958
+                },
+                "PreSize": {
+                  "X": 0.135,
+                  "Y": 0.064
+                },
+                "HorizontalEdge": "LeftEdge",
+                "VerticalEdge": "TopEdge",
+                "LeftMargin": 346.0,
+                "RightMargin": 346.0,
+                "TopMargin": 5.0,
+                "BottomMargin": 463.0,
+                "Tag": 44,
+                "ActionTag": 1271627739,
+                "Size": {
+                  "X": 108.0,
+                  "Y": 32.0
+                },
+                "Name": "lb_intro",
+                "ctype": "TextBMFontObjectData"
+              },
+              {
+                "ItemMargin": 10,
+                "VerticalType": "Align_VerticalCenter",
+                "ScrollDirectionType": 0,
+                "ClipAble": true,
+                "BackColorAlpha": 102,
+                "SingleColor": {
+                  "R": 150,
+                  "G": 150
+                },
+                "FirstColor": {
+                  "R": 150,
+                  "G": 150
+                },
+                "EndColor": {},
+                "ColorVector": {
+                  "ScaleY": 1.0
+                },
+                "TouchEnable": true,
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 48.4881,
+                  "Y": 121.6951
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0606,
+                  "Y": 0.2434
+                },
+                "PreSize": {
+                  "X": 0.875,
+                  "Y": 0.24
+                },
+                "HorizontalEdge": "LeftEdge",
+                "VerticalEdge": "BottomEdge",
+                "LeftMargin": 48.4881,
+                "RightMargin": 51.5118,
+                "TopMargin": 258.3049,
+                "BottomMargin": 121.6951,
+                "Tag": 45,
+                "Children": [
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "../GUIs/train_troop_gui/slot.png",
+                      "Plist": ""
+                    },
+                    "Scale9OriginX": 19,
+                    "Scale9OriginY": 19,
+                    "Scale9Width": 74,
+                    "Scale9Height": 73,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 56.0,
+                      "Y": 60.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.08,
+                      "Y": 0.5
+                    },
+                    "PreSize": {
+                      "X": 0.16,
+                      "Y": 0.925
+                    },
+                    "RightMargin": 588.0,
+                    "TopMargin": 4.5,
+                    "BottomMargin": 4.5,
+                    "Tag": 71,
+                    "Children": [
+                      {
+                        "FontSize": 14,
+                        "ButtonText": "",
+                        "TextColor": {
+                          "R": 65,
+                          "G": 65,
+                          "B": 70
+                        },
+                        "DisabledFileData": {
+                          "Type": "Default",
+                          "Path": "Default/Button_Disable.png",
+                          "Plist": ""
+                        },
+                        "PressedFileData": {
+                          "Type": "Default",
+                          "Path": "Default/Button_Press.png",
+                          "Plist": ""
+                        },
+                        "NormalFileData": {
+                          "Type": "Normal",
+                          "Path": "../GUIs/train_troop_gui/icon/ARM_4.png",
+                          "Plist": ""
+                        },
+                        "Scale9Enable": true,
+                        "Scale9OriginX": 15,
+                        "Scale9OriginY": 11,
+                        "Scale9Width": 64,
+                        "Scale9Height": 71,
+                        "OutlineColor": {
+                          "G": 0,
+                          "B": 0
+                        },
+                        "ShadowColor": {
+                          "R": 110,
+                          "G": 110,
+                          "B": 110
+                        },
+                        "ShadowOffsetX": 2.0,
+                        "ShadowOffsetY": -2.0,
+                        "TouchEnable": true,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 56.0,
+                          "Y": 56.0
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.5,
+                          "Y": 0.5045
+                        },
+                        "PreSize": {
+                          "X": 0.8393,
+                          "Y": 0.8378
+                        },
+                        "HorizontalEdge": "LeftEdge",
+                        "VerticalEdge": "TopEdge",
+                        "LeftMargin": 9.0,
+                        "RightMargin": 9.0,
+                        "TopMargin": 8.5,
+                        "BottomMargin": 9.5,
+                        "Tag": 72,
+                        "ActionTag": -484996573,
+                        "Size": {
+                          "X": 94.0,
+                          "Y": 93.0
+                        },
+                        "Name": "btn_troop",
+                        "ctype": "ButtonObjectData"
+                      },
+                      {
+                        "FontSize": 14,
+                        "ButtonText": "",
+                        "TextColor": {
+                          "R": 65,
+                          "G": 65,
+                          "B": 70
+                        },
+                        "DisabledFileData": {
+                          "Type": "Default",
+                          "Path": "Default/Button_Disable.png",
+                          "Plist": ""
+                        },
+                        "PressedFileData": {
+                          "Type": "Default",
+                          "Path": "Default/Button_Press.png",
+                          "Plist": ""
+                        },
+                        "NormalFileData": {
+                          "Type": "Normal",
+                          "Path": "../GUIs/train_troop_gui/info.png",
+                          "Plist": ""
+                        },
+                        "Scale9Enable": true,
+                        "Scale9OriginX": 15,
+                        "Scale9OriginY": 11,
+                        "Scale9Width": 7,
+                        "Scale9Height": 15,
+                        "OutlineColor": {
+                          "G": 0,
+                          "B": 0
+                        },
+                        "ShadowColor": {
+                          "R": 110,
+                          "G": 110,
+                          "B": 110
+                        },
+                        "ShadowOffsetX": 2.0,
+                        "ShadowOffsetY": -2.0,
+                        "TouchEnable": true,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 83.5,
+                          "Y": 87.5
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.7455,
+                          "Y": 0.7883
+                        },
+                        "PreSize": {
+                          "X": 0.3304,
+                          "Y": 0.3333
+                        },
+                        "HorizontalEdge": "RightEdge",
+                        "VerticalEdge": "TopEdge",
+                        "LeftMargin": 65.0,
+                        "RightMargin": 10.0,
+                        "TopMargin": 5.0,
+                        "BottomMargin": 69.0,
+                        "Tag": 73,
+                        "ActionTag": 863108689,
+                        "Size": {
+                          "X": 37.0,
+                          "Y": 37.0
+                        },
+                        "Name": "btn_troop_info",
+                        "ctype": "ButtonObjectData"
+                      },
+                      {
+                        "FileData": {
+                          "Type": "Normal",
+                          "Path": "../GUIs/train_troop_gui/bg_cost.png",
+                          "Plist": ""
+                        },
+                        "Scale9OriginX": 31,
+                        "Scale9OriginY": 7,
+                        "Scale9Width": 33,
+                        "Scale9Height": 9,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 56.0,
+                          "Y": 20.0
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.5,
+                          "Y": 0.1802
+                        },
+                        "PreSize": {
+                          "X": 0.8482,
+                          "Y": 0.2072
+                        },
+                        "LeftMargin": 8.5,
+                        "RightMargin": 8.5,
+                        "TopMargin": 79.5,
+                        "BottomMargin": 8.5,
+                        "Tag": 74,
+                        "ActionTag": -1717351281,
+                        "Size": {
+                          "X": 95.0,
+                          "Y": 23.0
+                        },
+                        "Name": "imv_bg_cost",
+                        "ctype": "ImageViewObjectData"
+                      },
+                      {
+                        "LabelText": "3000",
+                        "LabelBMFontFile_CNB": {
+                          "Type": "Normal",
+                          "Path": "../Fonts/soji_16.fnt",
+                          "Plist": ""
+                        },
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 56.0,
+                          "Y": 20.0
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.5,
+                          "Y": 0.1802
+                        },
+                        "PreSize": {
+                          "X": 0.5804,
+                          "Y": 0.2252
+                        },
+                        "HorizontalEdge": "RightEdge",
+                        "VerticalEdge": "BottomEdge",
+                        "LeftMargin": 23.5,
+                        "RightMargin": 23.5,
+                        "TopMargin": 78.5,
+                        "BottomMargin": 7.5,
+                        "Tag": 75,
+                        "ActionTag": 1183839132,
+                        "Size": {
+                          "X": 65.0,
+                          "Y": 25.0
+                        },
+                        "Name": "lb_cost",
+                        "ctype": "TextBMFontObjectData"
+                      },
+                      {
+                        "FileData": {
+                          "Type": "Normal",
+                          "Path": "../GUIs/train_troop_gui/icon_elixir.png",
+                          "Plist": ""
+                        },
+                        "Scale9OriginX": 5,
+                        "Scale9OriginY": 6,
+                        "Scale9Width": 6,
+                        "Scale9Height": 8,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 94.0,
+                          "Y": 20.0
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.8393,
+                          "Y": 0.1802
+                        },
+                        "PreSize": {
+                          "X": 0.1429,
+                          "Y": 0.1802
+                        },
+                        "HorizontalEdge": "RightEdge",
+                        "VerticalEdge": "BottomEdge",
+                        "LeftMargin": 86.0,
+                        "RightMargin": 10.0,
+                        "TopMargin": 81.0,
+                        "BottomMargin": 10.0,
+                        "Tag": 76,
+                        "ActionTag": -1336383137,
+                        "Size": {
+                          "X": 16.0,
+                          "Y": 20.0
+                        },
+                        "Name": "imv_type_resource",
+                        "ctype": "ImageViewObjectData"
+                      }
+                    ],
+                    "ActionTag": 970542344,
+                    "Size": {
+                      "X": 112.0,
+                      "Y": 111.0
+                    },
+                    "Name": "imv_troop_0",
+                    "ctype": "ImageViewObjectData"
+                  }
+                ],
+                "ActionTag": -616373511,
+                "Size": {
+                  "X": 700.0,
+                  "Y": 120.0
+                },
+                "Name": "list_troop",
+                "ctype": "ListViewObjectData"
+              },
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "DisabledFileData": {
+                  "Type": "Default",
+                  "Path": "Default/Button_Disable.png",
+                  "Plist": ""
+                },
+                "PressedFileData": {
+                  "Type": "Default",
+                  "Path": "Default/Button_Press.png",
+                  "Plist": ""
+                },
+                "NormalFileData": {
+                  "Type": "Normal",
+                  "Path": "../GUIs/train_troop_gui/small_icon/ARM_4.png",
+                  "Plist": ""
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 28,
+                "Scale9Height": 36,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 541.727,
+                  "Y": 415.0078
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.6772,
+                  "Y": 0.83
+                },
+                "PreSize": {
+                  "X": 0.0725,
+                  "Y": 0.116
+                },
+                "HorizontalEdge": "RightEdge",
+                "VerticalEdge": "BottomEdge",
+                "LeftMargin": 512.727,
+                "RightMargin": 229.273,
+                "TopMargin": 55.9922,
+                "BottomMargin": 386.0078,
+                "Tag": 49,
+                "Children": [
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "../GUIs/train_troop_gui/cancel.png",
+                      "Plist": ""
+                    },
+                    "Scale9Enable": true,
+                    "Scale9OriginX": 13,
+                    "Scale9OriginY": 13,
+                    "Scale9Width": 14,
+                    "Scale9Height": 14,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 53.0,
+                      "Y": 53.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.9138,
+                      "Y": 0.9138
+                    },
+                    "PreSize": {
+                      "X": 0.6897,
+                      "Y": 0.6897
+                    },
+                    "HorizontalEdge": "RightEdge",
+                    "VerticalEdge": "TopEdge",
+                    "LeftMargin": 33.0,
+                    "RightMargin": -15.0,
+                    "TopMargin": -15.0,
+                    "BottomMargin": 33.0,
+                    "Tag": 50,
+                    "ActionTag": -678532803,
+                    "Size": {
+                      "X": 40.0,
+                      "Y": 40.0
+                    },
+                    "Name": "Image_3",
+                    "ctype": "ImageViewObjectData"
+                  },
+                  {
+                    "LabelText": "x100",
+                    "LabelBMFontFile_CNB": {
+                      "Type": "Normal",
+                      "Path": "../Fonts/soji_12.fnt",
+                      "Plist": ""
+                    },
+                    "AnchorPoint": {
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 0.0,
+                      "Y": 46.5
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.0,
+                      "Y": 0.8017
+                    },
+                    "PreSize": {
+                      "X": 0.8793,
+                      "Y": 0.3276
+                    },
+                    "HorizontalEdge": "LeftEdge",
+                    "VerticalEdge": "TopEdge",
+                    "RightMargin": 7.0,
+                    "TopMargin": 2.0,
+                    "BottomMargin": 37.0,
+                    "Tag": 51,
+                    "ActionTag": 1355987484,
+                    "Size": {
+                      "X": 51.0,
+                      "Y": 19.0
+                    },
+                    "Name": "lb_quantity",
+                    "ctype": "TextBMFontObjectData"
+                  }
+                ],
+                "ActionTag": 1626706351,
+                "Size": {
+                  "X": 58.0,
+                  "Y": 58.0
+                },
+                "Name": "btn_troop_training",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "../GUIs/train_troop_gui/queue.png",
+                  "Plist": ""
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 134,
+                "Scale9OriginY": 17,
+                "Scale9Width": 140,
+                "Scale9Height": 20,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 287.9603,
+                  "Y": 400.6776
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.36,
+                  "Y": 0.8014
+                },
+                "PreSize": {
+                  "X": 0.51,
+                  "Y": 0.108
+                },
+                "LeftMargin": 83.9603,
+                "RightMargin": 308.0397,
+                "TopMargin": 72.3224,
+                "BottomMargin": 373.6776,
+                "Tag": 48,
+                "ActionTag": 1634874073,
+                "Size": {
+                  "X": 408.0,
+                  "Y": 54.0
+                },
+                "Name": "Image_2",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "../GUIs/train_troop_gui/bg_train_bar.png",
+                  "Plist": ""
+                },
+                "Scale9OriginX": 22,
+                "Scale9OriginY": 5,
+                "Scale9Width": 25,
+                "Scale9Height": 8,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 541.5259,
+                  "Y": 371.7012
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.6769,
+                  "Y": 0.7434
+                },
+                "PreSize": {
+                  "X": 0.0862,
+                  "Y": 0.036
+                },
+                "LeftMargin": 507.0259,
+                "RightMargin": 223.9741,
+                "TopMargin": 119.2988,
+                "BottomMargin": 362.7012,
+                "Tag": 52,
+                "ActionTag": -870391150,
+                "Size": {
+                  "X": 69.0,
+                  "Y": 18.0
+                },
+                "Name": "Image_4",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "../GUIs/train_troop_gui/train_bar.png",
+                  "Plist": ""
+                },
+                "Scale9OriginX": 22,
+                "Scale9OriginY": 5,
+                "Scale9Width": 25,
+                "Scale9Height": 8,
+                "AnchorPoint": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 576.0259,
+                  "Y": 371.7018
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.72,
+                  "Y": 0.7434
+                },
+                "PreSize": {
+                  "X": 0.0862,
+                  "Y": 0.036
+                },
+                "HorizontalEdge": "RightEdge",
+                "VerticalEdge": "TopEdge",
+                "LeftMargin": 507.0259,
+                "RightMargin": 223.9741,
+                "TopMargin": 119.2982,
+                "BottomMargin": 362.7018,
+                "Tag": 53,
+                "ActionTag": 180395241,
+                "Size": {
+                  "X": 69.0,
+                  "Y": 18.0
+                },
+                "Name": "imv_train_bar",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "LabelText": "1ms",
+                "LabelBMFontFile_CNB": {
+                  "Type": "Normal",
+                  "Path": "../Fonts/soji_12.fnt",
+                  "Plist": ""
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 541.3203,
+                  "Y": 354.1119
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.6767,
+                  "Y": 0.7082
+                },
+                "PreSize": {
+                  "X": 0.0512,
+                  "Y": 0.038
+                },
+                "LeftMargin": 520.8203,
+                "RightMargin": 238.1797,
+                "TopMargin": 136.3881,
+                "BottomMargin": 344.6119,
+                "Tag": 54,
+                "ActionTag": 87087180,
+                "Size": {
+                  "X": 41.0,
+                  "Y": 19.0
+                },
+                "Name": "lb_time_train",
+                "ctype": "TextBMFontObjectData"
+              },
+              {
+                "LabelText": "Total troop after training:",
+                "LabelBMFontFile_CNB": {
+                  "Type": "Normal",
+                  "Path": "../Fonts/soji_12.fnt",
+                  "Plist": ""
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 187.3766,
+                  "Y": 349.5
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.2342,
+                  "Y": 0.699
+                },
+                "PreSize": {
+                  "X": 0.2537,
+                  "Y": 0.038
+                },
+                "HorizontalEdge": "LeftEdge",
+                "VerticalEdge": "BottomEdge",
+                "LeftMargin": 85.8766,
+                "RightMargin": 511.1234,
+                "TopMargin": 141.0,
+                "BottomMargin": 340.0,
+                "Tag": 55,
+                "ActionTag": -1482991486,
+                "Size": {
+                  "X": 203.0,
+                  "Y": 19.0
+                },
+                "Name": "BitmapFontLabel_4",
+                "ctype": "TextBMFontObjectData"
+              },
+              {
+                "LabelText": "100/200",
+                "LabelBMFontFile_CNB": {
+                  "Type": "Normal",
+                  "Path": "../Fonts/soji_12.fnt",
+                  "Plist": ""
+                },
+                "AnchorPoint": {
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 285.5042,
+                  "Y": 349.5
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.3569,
+                  "Y": 0.699
+                },
+                "PreSize": {
+                  "X": 0.1,
+                  "Y": 0.038
+                },
+                "HorizontalEdge": "LeftEdge",
+                "VerticalEdge": "BottomEdge",
+                "LeftMargin": 285.5042,
+                "RightMargin": 434.4958,
+                "TopMargin": 141.0,
+                "BottomMargin": 340.0,
+                "Tag": 56,
+                "ActionTag": 2021833714,
+                "Size": {
+                  "X": 80.0,
+                  "Y": 19.0
+                },
+                "Name": "lb_total_troop",
+                "ctype": "TextBMFontObjectData"
+              },
+              {
+                "ItemMargin": 10,
+                "HorizontalType": "Align_HorizontalCenter",
+                "VerticalType": "Align_VerticalCenter",
+                "ScrollDirectionType": 0,
+                "ClipAble": false,
+                "BackColorAlpha": 0,
+                "SingleColor": {},
+                "FirstColor": {
+                  "R": 150,
+                  "G": 150
+                },
+                "EndColor": {},
+                "ColorVector": {
+                  "ScaleY": 1.0
+                },
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 445.1874,
+                  "Y": 400.754
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5565,
+                  "Y": 0.8015
+                },
+                "PreSize": {
+                  "X": 0.5,
+                  "Y": 0.12
+                },
+                "HorizontalEdge": "LeftEdge",
+                "VerticalEdge": "TopEdge",
+                "LeftMargin": 45.1874,
+                "RightMargin": 354.8126,
+                "TopMargin": 69.246,
+                "BottomMargin": 370.754,
+                "Tag": 57,
+                "Children": [
+                  {
+                    "FontSize": 14,
+                    "ButtonText": "",
+                    "TextColor": {
+                      "R": 65,
+                      "G": 65,
+                      "B": 70
+                    },
+                    "DisabledFileData": {
+                      "Type": "Default",
+                      "Path": "Default/Button_Disable.png",
+                      "Plist": ""
+                    },
+                    "PressedFileData": {
+                      "Type": "Default",
+                      "Path": "Default/Button_Press.png",
+                      "Plist": ""
+                    },
+                    "NormalFileData": {
+                      "Type": "Normal",
+                      "Path": "../GUIs/train_troop_gui/small_icon/ARM_4.png",
+                      "Plist": ""
+                    },
+                    "Scale9Enable": true,
+                    "Scale9OriginX": 15,
+                    "Scale9OriginY": 11,
+                    "Scale9Width": 28,
+                    "Scale9Height": 36,
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "TouchEnable": true,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 29.0,
+                      "Y": 30.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.0725,
+                      "Y": 0.5
+                    },
+                    "PreSize": {
+                      "X": 0.145,
+                      "Y": 0.9667
+                    },
+                    "RightMargin": 342.0,
+                    "TopMargin": 1.0,
+                    "BottomMargin": 1.0,
+                    "Tag": 62,
+                    "Children": [
+                      {
+                        "FileData": {
+                          "Type": "Normal",
+                          "Path": "../GUIs/train_troop_gui/cancel.png",
+                          "Plist": ""
+                        },
+                        "Scale9Enable": true,
+                        "Scale9OriginX": 13,
+                        "Scale9OriginY": 13,
+                        "Scale9Width": 14,
+                        "Scale9Height": 14,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 53.0,
+                          "Y": 53.0
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.9138,
+                          "Y": 0.9138
+                        },
+                        "PreSize": {
+                          "X": 0.6897,
+                          "Y": 0.6897
+                        },
+                        "HorizontalEdge": "RightEdge",
+                        "VerticalEdge": "TopEdge",
+                        "LeftMargin": 33.0,
+                        "RightMargin": -15.0,
+                        "TopMargin": -15.0,
+                        "BottomMargin": 33.0,
+                        "Tag": 63,
+                        "ActionTag": 1233972645,
+                        "Size": {
+                          "X": 40.0,
+                          "Y": 40.0
+                        },
+                        "Name": "Image_3",
+                        "ctype": "ImageViewObjectData"
+                      },
+                      {
+                        "LabelText": "x100",
+                        "LabelBMFontFile_CNB": {
+                          "Type": "Normal",
+                          "Path": "../Fonts/soji_12.fnt",
+                          "Plist": ""
+                        },
+                        "AnchorPoint": {
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 0.0,
+                          "Y": 46.5
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.0,
+                          "Y": 0.8017
+                        },
+                        "PreSize": {
+                          "X": 0.8793,
+                          "Y": 0.3276
+                        },
+                        "HorizontalEdge": "LeftEdge",
+                        "VerticalEdge": "TopEdge",
+                        "RightMargin": 7.0,
+                        "TopMargin": 2.0,
+                        "BottomMargin": 37.0,
+                        "Tag": 64,
+                        "ActionTag": -1256348143,
+                        "Size": {
+                          "X": 51.0,
+                          "Y": 19.0
+                        },
+                        "Name": "BitmapFontLabel_2",
+                        "ctype": "TextBMFontObjectData"
+                      }
+                    ],
+                    "ActionTag": 1298131118,
+                    "Size": {
+                      "X": 58.0,
+                      "Y": 58.0
+                    },
+                    "Name": "btn_troop_training_0_0",
+                    "ctype": "ButtonObjectData"
+                  }
+                ],
+                "ActionTag": -1955236527,
+                "Size": {
+                  "X": 400.0,
+                  "Y": 60.0
+                },
+                "Name": "list_train",
+                "ctype": "ListViewObjectData"
+              },
+              {
+                "LabelText": "Total time",
+                "LabelBMFontFile_CNB": {
+                  "Type": "Normal",
+                  "Path": "../Fonts/soji_16.fnt",
+                  "Plist": ""
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 674.2319,
+                  "Y": 440.2916
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.8428,
+                  "Y": 0.8806
+                },
+                "PreSize": {
+                  "X": 0.14,
+                  "Y": 0.05
+                },
+                "LeftMargin": 618.2319,
+                "RightMargin": 69.7681,
+                "TopMargin": 47.2084,
+                "BottomMargin": 427.7916,
+                "Tag": 122,
+                "ActionTag": -1916719995,
+                "Size": {
+                  "X": 112.0,
+                  "Y": 25.0
+                },
+                "Name": "BitmapFontLabel_17",
+                "ctype": "TextBMFontObjectData"
+              },
+              {
+                "LabelText": "1h5p",
+                "LabelBMFontFile_CNB": {
+                  "Type": "Normal",
+                  "Path": "../Fonts/soji_20.fnt",
+                  "Plist": ""
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 675.3041,
+                  "Y": 415.6157
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.8441,
+                  "Y": 0.8312
+                },
+                "PreSize": {
+                  "X": 0.085,
+                  "Y": 0.064
+                },
+                "LeftMargin": 641.3041,
+                "RightMargin": 90.6959,
+                "TopMargin": 68.3843,
+                "BottomMargin": 399.6157,
+                "Tag": 123,
+                "ActionTag": 69956611,
+                "Size": {
+                  "X": 68.0,
+                  "Y": 32.0
+                },
+                "Name": "lb_total_time",
+                "ctype": "TextBMFontObjectData"
+              },
+              {
+                "LabelText": "Quick finish",
+                "LabelBMFontFile_CNB": {
+                  "Type": "Normal",
+                  "Path": "../Fonts/soji_12.fnt",
+                  "Plist": ""
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 673.1622,
+                  "Y": 390.941
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.8415,
+                  "Y": 0.7819
+                },
+                "PreSize": {
+                  "X": 0.1225,
+                  "Y": 0.038
+                },
+                "LeftMargin": 624.1622,
+                "RightMargin": 77.8378,
+                "TopMargin": 99.559,
+                "BottomMargin": 381.441,
+                "Tag": 124,
+                "ActionTag": 559786424,
+                "Size": {
+                  "X": 98.0,
+                  "Y": 19.0
+                },
+                "Name": "BitmapFontLabel_19",
+                "ctype": "TextBMFontObjectData"
+              },
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "DisabledFileData": {
+                  "Type": "Default",
+                  "Path": "Default/Button_Disable.png",
+                  "Plist": ""
+                },
+                "PressedFileData": {
+                  "Type": "Default",
+                  "Path": "Default/Button_Press.png",
+                  "Plist": ""
+                },
+                "NormalFileData": {
+                  "Type": "Normal",
+                  "Path": "../GUIs/train_troop_gui/button.png",
+                  "Plist": ""
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 100,
+                "Scale9Height": 30,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 672.0854,
+                  "Y": 358.7556
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.8401,
+                  "Y": 0.7175
+                },
+                "PreSize": {
+                  "X": 0.1625,
+                  "Y": 0.104
+                },
+                "LeftMargin": 607.0854,
+                "RightMargin": 62.9146,
+                "TopMargin": 115.2444,
+                "BottomMargin": 332.7556,
+                "Tag": 125,
+                "Children": [
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "../GUIs/train_troop_gui/g_icon.png",
+                      "Plist": ""
+                    },
+                    "Scale9OriginX": 10,
+                    "Scale9OriginY": 9,
+                    "Scale9Width": 12,
+                    "Scale9Height": 11,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 104.0394,
+                      "Y": 25.6421
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.8003,
+                      "Y": 0.4931
+                    },
+                    "PreSize": {
+                      "X": 0.2462,
+                      "Y": 0.5577
+                    },
+                    "HorizontalEdge": "RightEdge",
+                    "VerticalEdge": "BottomEdge",
+                    "LeftMargin": 88.0394,
+                    "RightMargin": 9.9606,
+                    "TopMargin": 11.8579,
+                    "BottomMargin": 11.1421,
+                    "Tag": 126,
+                    "ActionTag": -332531450,
+                    "Size": {
+                      "X": 32.0,
+                      "Y": 29.0
+                    },
+                    "Name": "Image_38",
+                    "ctype": "ImageViewObjectData"
+                  }
+                ],
+                "ActionTag": 1097439215,
+                "Size": {
+                  "X": 130.0,
+                  "Y": 52.0
+                },
+                "Name": "btn_quick_train",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "LabelText": "10",
+                "LabelBMFontFile_CNB": {
+                  "Type": "Normal",
+                  "Path": "../Fonts/soji_20.fnt",
+                  "Plist": ""
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 659.5197,
+                  "Y": 358.4977
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.8244,
+                  "Y": 0.717
+                },
+                "PreSize": {
+                  "X": 0.0525,
+                  "Y": 0.064
+                },
+                "LeftMargin": 638.5197,
+                "RightMargin": 119.4803,
+                "TopMargin": 125.5023,
+                "BottomMargin": 342.4977,
+                "Tag": 127,
+                "ActionTag": 1131149382,
+                "Size": {
+                  "X": 42.0,
+                  "Y": 32.0
+                },
+                "Name": "lb_cost_quick_train",
+                "ctype": "TextBMFontObjectData"
+              }
+            ],
+            "ActionTag": -280090074,
+            "Size": {
+              "X": 800.0,
+              "Y": 500.0
+            },
+            "Name": "train_troop_pop_up",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "DisabledFileData": {
+              "Type": "Default",
+              "Path": "Default/Button_Disable.png",
+              "Plist": ""
+            },
+            "PressedFileData": {
+              "Type": "Default",
+              "Path": "Default/Button_Press.png",
+              "Plist": ""
+            },
+            "NormalFileData": {
+              "Type": "Normal",
+              "Path": "../GUIs/train_troop_gui/small_icon/ARM_4.png",
+              "Plist": ""
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 11,
+            "Scale9Width": 28,
+            "Scale9Height": 36,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 34.4941,
+              "Y": 576.3384
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0359,
+              "Y": 0.9005
+            },
+            "PreSize": {
+              "X": 0.0604,
+              "Y": 0.0906
+            },
+            "LeftMargin": 5.4941,
+            "RightMargin": 896.5059,
+            "TopMargin": 34.6616,
+            "BottomMargin": 547.3384,
+            "Tag": 59,
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "../GUIs/train_troop_gui/cancel.png",
+                  "Plist": ""
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 13,
+                "Scale9OriginY": 13,
+                "Scale9Width": 14,
+                "Scale9Height": 14,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 53.0,
+                  "Y": 53.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.9138,
+                  "Y": 0.9138
+                },
+                "PreSize": {
+                  "X": 0.6897,
+                  "Y": 0.6897
+                },
+                "HorizontalEdge": "RightEdge",
+                "VerticalEdge": "TopEdge",
+                "LeftMargin": 33.0,
+                "RightMargin": -15.0,
+                "TopMargin": -15.0,
+                "BottomMargin": 33.0,
+                "Tag": 60,
+                "ActionTag": 1265578520,
+                "Size": {
+                  "X": 40.0,
+                  "Y": 40.0
+                },
+                "Name": "Image_3",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "LabelText": "x100",
+                "LabelBMFontFile_CNB": {
+                  "Type": "Normal",
+                  "Path": "../Fonts/soji_12.fnt",
+                  "Plist": ""
+                },
+                "AnchorPoint": {
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 0.0,
+                  "Y": 46.5
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.8017
+                },
+                "PreSize": {
+                  "X": 0.8793,
+                  "Y": 0.3276
+                },
+                "HorizontalEdge": "LeftEdge",
+                "VerticalEdge": "TopEdge",
+                "RightMargin": 7.0,
+                "TopMargin": 2.0,
+                "BottomMargin": 37.0,
+                "Tag": 61,
+                "ActionTag": -1837825449,
+                "Size": {
+                  "X": 51.0,
+                  "Y": 19.0
+                },
+                "Name": "lb_quantity",
+                "ctype": "TextBMFontObjectData"
+              }
+            ],
+            "ActionTag": 2106386538,
+            "Size": {
+              "X": 58.0,
+              "Y": 58.0
+            },
+            "Name": "btn_troop_training",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "../GUIs/train_troop_gui/slot.png",
+              "Plist": ""
+            },
+            "Scale9OriginX": 19,
+            "Scale9OriginY": 19,
+            "Scale9Width": 74,
+            "Scale9Height": 73,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 18.56,
+              "Y": 427.4365
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0193,
+              "Y": 0.6679
+            },
+            "PreSize": {
+              "X": 0.1167,
+              "Y": 0.1734
+            },
+            "LeftMargin": -37.44,
+            "RightMargin": 885.44,
+            "TopMargin": 157.0635,
+            "BottomMargin": 371.9365,
+            "Tag": 65,
+            "Children": [
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "DisabledFileData": {
+                  "Type": "Default",
+                  "Path": "Default/Button_Disable.png",
+                  "Plist": ""
+                },
+                "PressedFileData": {
+                  "Type": "Default",
+                  "Path": "Default/Button_Press.png",
+                  "Plist": ""
+                },
+                "NormalFileData": {
+                  "Type": "Normal",
+                  "Path": "../GUIs/train_troop_gui/icon/ARM_4.png",
+                  "Plist": ""
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 64,
+                "Scale9Height": 71,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 56.0,
+                  "Y": 56.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.5045
+                },
+                "PreSize": {
+                  "X": 0.8393,
+                  "Y": 0.8378
+                },
+                "HorizontalEdge": "LeftEdge",
+                "VerticalEdge": "TopEdge",
+                "LeftMargin": 9.0,
+                "RightMargin": 9.0,
+                "TopMargin": 8.5,
+                "BottomMargin": 9.5,
+                "Tag": 66,
+                "ActionTag": 1940365891,
+                "Size": {
+                  "X": 94.0,
+                  "Y": 93.0
+                },
+                "Name": "btn_troop",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "DisabledFileData": {
+                  "Type": "Default",
+                  "Path": "Default/Button_Disable.png",
+                  "Plist": ""
+                },
+                "PressedFileData": {
+                  "Type": "Default",
+                  "Path": "Default/Button_Press.png",
+                  "Plist": ""
+                },
+                "NormalFileData": {
+                  "Type": "Normal",
+                  "Path": "../GUIs/train_troop_gui/info.png",
+                  "Plist": ""
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 7,
+                "Scale9Height": 15,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 83.5,
+                  "Y": 87.5
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.7455,
+                  "Y": 0.7883
+                },
+                "PreSize": {
+                  "X": 0.3304,
+                  "Y": 0.3333
+                },
+                "HorizontalEdge": "RightEdge",
+                "VerticalEdge": "TopEdge",
+                "LeftMargin": 65.0,
+                "RightMargin": 10.0,
+                "TopMargin": 5.0,
+                "BottomMargin": 69.0,
+                "Tag": 67,
+                "ActionTag": -1620524922,
+                "Size": {
+                  "X": 37.0,
+                  "Y": 37.0
+                },
+                "Name": "btn_troop_info",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "../GUIs/train_troop_gui/bg_cost.png",
+                  "Plist": ""
+                },
+                "Scale9OriginX": 31,
+                "Scale9OriginY": 7,
+                "Scale9Width": 33,
+                "Scale9Height": 9,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 56.0,
+                  "Y": 20.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.1802
+                },
+                "PreSize": {
+                  "X": 0.8482,
+                  "Y": 0.2072
+                },
+                "LeftMargin": 8.5,
+                "RightMargin": 8.5,
+                "TopMargin": 79.5,
+                "BottomMargin": 8.5,
+                "Tag": 68,
+                "ActionTag": 317530628,
+                "Size": {
+                  "X": 95.0,
+                  "Y": 23.0
+                },
+                "Name": "imv_bg_cost",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "LabelText": "3000",
+                "LabelBMFontFile_CNB": {
+                  "Type": "Normal",
+                  "Path": "../Fonts/soji_16.fnt",
+                  "Plist": ""
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 56.0,
+                  "Y": 20.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.1802
+                },
+                "PreSize": {
+                  "X": 0.5804,
+                  "Y": 0.2252
+                },
+                "HorizontalEdge": "RightEdge",
+                "VerticalEdge": "BottomEdge",
+                "LeftMargin": 23.5,
+                "RightMargin": 23.5,
+                "TopMargin": 78.5,
+                "BottomMargin": 7.5,
+                "Tag": 69,
+                "ActionTag": -1966322686,
+                "Size": {
+                  "X": 65.0,
+                  "Y": 25.0
+                },
+                "Name": "lb_cost",
+                "ctype": "TextBMFontObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "../GUIs/train_troop_gui/icon_elixir.png",
+                  "Plist": ""
+                },
+                "Scale9OriginX": 5,
+                "Scale9OriginY": 6,
+                "Scale9Width": 6,
+                "Scale9Height": 8,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 94.0,
+                  "Y": 20.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.8393,
+                  "Y": 0.1802
+                },
+                "PreSize": {
+                  "X": 0.1429,
+                  "Y": 0.1802
+                },
+                "HorizontalEdge": "RightEdge",
+                "VerticalEdge": "BottomEdge",
+                "LeftMargin": 86.0,
+                "RightMargin": 10.0,
+                "TopMargin": 81.0,
+                "BottomMargin": 10.0,
+                "Tag": 70,
+                "ActionTag": 1754264369,
+                "Size": {
+                  "X": 16.0,
+                  "Y": 20.0
+                },
+                "Name": "imv_type_resource",
+                "ctype": "ImageViewObjectData"
+              }
+            ],
+            "ActionTag": 868147074,
+            "Size": {
+              "X": 112.0,
+              "Y": 111.0
+            },
+            "Name": "imv_troop",
+            "ctype": "ImageViewObjectData"
+          }
+        ],
+        "Size": {
+          "X": 960.0,
+          "Y": 640.0
+        },
+        "Name": "Layer",
+        "ctype": "LayerObjectData"
+      },
+      "UsedResources": [
+        "../../Fonts/soji_12.fnt",
+        "../../Fonts/soji_12.png",
+        "../../Fonts/soji_16.fnt",
+        "../../Fonts/soji_16.png",
+        "../../Fonts/soji_20.fnt",
+        "../../Fonts/soji_20.png",
+        "../../GUIs/train_troop_gui/background.png",
+        "../../GUIs/train_troop_gui/bg_cost.png",
+        "../../GUIs/train_troop_gui/bg_cost_3.png",
+        "../../GUIs/train_troop_gui/bg_train_bar.png",
+        "../../GUIs/train_troop_gui/button.png",
+        "../../GUIs/train_troop_gui/cancel.png",
+        "../../GUIs/train_troop_gui/g_icon.png",
+        "../../GUIs/train_troop_gui/icon/ARM_4.png",
+        "../../GUIs/train_troop_gui/icon_elixir.png",
+        "../../GUIs/train_troop_gui/info.png",
+        "../../GUIs/train_troop_gui/queue.png",
+        "../../GUIs/train_troop_gui/slot.png",
+        "../../GUIs/train_troop_gui/small_icon/ARM_4.png",
+        "../../GUIs/train_troop_gui/train_bar.png",
+        "../Default/Button_Disable.png",
+        "../Default/Button_Press.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Layer"
+}

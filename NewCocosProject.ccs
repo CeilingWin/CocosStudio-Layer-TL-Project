@@ -10,161 +10,6 @@
             <Fnt Name="soji_20.fnt" />
             <Fnt Name="soji_24.fnt" />
           </Folder>
-          <Folder Name="icons">
-            <Folder Name="shop_gui">
-              <Folder Name="icon">
-                <Image Name="AMC_1.png" />
-                <Image Name="BAR_1.png" />
-                <Image Name="BAR_2.png" />
-                <Image Name="BDH_1.png" />
-                <Image Name="CLC_1.png" />
-                <Image Name="DEC_1.png" />
-                <Image Name="DEC_2.png" />
-                <Image Name="DEC_3.png" />
-                <Image Name="DEC_4.png" />
-                <Image Name="DEC_5.png" />
-                <Image Name="DEC_6.png" />
-                <Image Name="DEF_1.png" />
-                <Image Name="DEF_12.png" />
-                <Image Name="DEF_2.png" />
-                <Image Name="DEF_3.png" />
-                <Image Name="DEF_4.png" />
-                <Image Name="DEF_5.png" />
-                <Image Name="DEF_7.png" />
-                <Image Name="DEF_8.png" />
-                <Image Name="DEF_9.png" />
-                <Image Name="KQB_1.png" />
-                <Image Name="KQB_2.png" />
-                <Image Name="KQB_3.png" />
-                <Image Name="KQB_4.png" />
-                <Image Name="LAB_1.png" />
-                <Image Name="RES_1.png" />
-                <Image Name="RES_2.png" />
-                <Image Name="RES_3.png" />
-                <Image Name="SHEILD_1.png" />
-                <Image Name="SHEILD_2.png" />
-                <Image Name="SHEILD_3.png" />
-                <Image Name="SPF_1.png" />
-                <Image Name="STO_1.png" />
-                <Image Name="STO_2.png" />
-                <Image Name="STO_3.png" />
-                <Image Name="TRA_1.png" />
-                <Image Name="TRA_2.png" />
-                <Image Name="TRA_3.png" />
-                <Image Name="TRA_4.png" />
-                <Image Name="TRA_6.png" />
-                <Image Name="WAL_1.png" />
-              </Folder>
-              <Image Name="km_1.png" />
-              <Image Name="km_2.png" />
-            </Folder>
-            <Folder Name="shop_res">
-              <Image Name="darkElixir_10.png" />
-              <Image Name="darkElixir_100.png" />
-              <Image Name="darkElixir_50.png" />
-              <Image Name="elixir_10.png" />
-              <Image Name="elixir_100.png" />
-              <Image Name="elixir_50.png" />
-              <Image Name="gold_10.png" />
-              <Image Name="gold_100.png" />
-              <Image Name="gold_50.png" />
-            </Folder>
-            <Folder Name="train_troop_gui">
-              <Folder Name="icon">
-                <Image Name="ARM_1.png" />
-                <Image Name="ARM_10.png" />
-                <Image Name="ARM_2.png" />
-                <Image Name="ARM_3.png" />
-                <Image Name="ARM_4.png" />
-                <Image Name="ARM_5.png" />
-                <Image Name="ARM_6.png" />
-                <Image Name="ARM_7.png" />
-                <Image Name="ARM_8.png" />
-                <Image Name="ARM_9.png" />
-                <Image Name="DAR_1.png" />
-                <Image Name="DAR_2.png" />
-                <Image Name="DAR_3.png" />
-                <Image Name="DAR_4.png" />
-                <Image Name="DAR_6.png" />
-                <Image Name="DAR_9.png" />
-              </Folder>
-              <Folder Name="small_icon">
-                <Image Name="ARM_1.png" />
-                <Image Name="ARM_10.png" />
-                <Image Name="ARM_2.png" />
-                <Image Name="ARM_3.png" />
-                <Image Name="ARM_4.png" />
-                <Image Name="ARM_5.png" />
-                <Image Name="ARM_6.png" />
-                <Image Name="ARM_7.png" />
-                <Image Name="ARM_8.png" />
-                <Image Name="ARM_9.png" />
-                <Image Name="DAR_1.png" />
-                <Image Name="DAR_2.png" />
-                <Image Name="DAR_3.png" />
-                <Image Name="DAR_4.png" />
-                <Image Name="DAR_6.png" />
-                <Image Name="DAR_9.png" />
-                <Image Name="slot.png" />
-              </Folder>
-            </Folder>
-            <Image Name="ARM_1_Battle.png" />
-            <Image Name="ARM_1_Small.png" />
-            <Image Name="ARM_10_Battle.png" />
-            <Image Name="ARM_10_Small.png" />
-            <Image Name="ARM_11_Battle.png" />
-            <Image Name="ARM_11_Small.png" />
-            <Image Name="ARM_12_Battle.png" />
-            <Image Name="ARM_12_Small.png" />
-            <Image Name="ARM_18_Battle.png" />
-            <Image Name="ARM_18_Small.png" />
-            <Image Name="ARM_19_Battle.png" />
-            <Image Name="ARM_19_Small.png" />
-            <Image Name="ARM_2_Battle.png" />
-            <Image Name="ARM_2_Small.png" />
-            <Image Name="ARM_3_Battle.png" />
-            <Image Name="ARM_3_Small.png" />
-            <Image Name="ARM_4_Battle.png" />
-            <Image Name="ARM_4_Small.png" />
-            <Image Name="ARM_5_Battle.png" />
-            <Image Name="ARM_5_Small.png" />
-            <Image Name="ARM_6_Battle.png" />
-            <Image Name="ARM_6_Small.png" />
-            <Image Name="ARM_7_Battle.png" />
-            <Image Name="ARM_7_Small.png" />
-            <Image Name="ARM_8_Battle.png" />
-            <Image Name="ARM_8_Small.png" />
-            <Image Name="ARM_9_Battle.png" />
-            <Image Name="ARM_9_Small.png" />
-            <Image Name="bg_star_log.png" />
-            <Image Name="bg_star_troop_battle.png" />
-            <Image Name="bg_troop_gui_battle.png" />
-            <Image Name="DAR_1_Battle.png" />
-            <Image Name="DAR_1_Small.png" />
-            <Image Name="DAR_2_Battle.png" />
-            <Image Name="DAR_2_Small.png" />
-            <Image Name="DAR_3_Battle.png" />
-            <Image Name="DAR_3_Small.png" />
-            <Image Name="DAR_4_Battle.png" />
-            <Image Name="DAR_4_Small.png" />
-            <Image Name="DAR_6_Battle.png" />
-            <Image Name="DAR_6_Small.png" />
-            <Image Name="DAR_9_Battle.png" />
-            <Image Name="DAR_9_Small.png" />
-            <Image Name="gold_battle.png" />
-            <Image Name="gold_star.png" />
-            <Image Name="icon_seed.png" />
-            <Image Name="purple_star.png" />
-            <Image Name="select_troop.png" />
-            <Image Name="shadow.png" />
-            <Image Name="slot_empty.png" />
-            <Image Name="slot_troop_battle.png" />
-            <Image Name="slot_troop_end_game.png" />
-            <Image Name="SS_0009_Layer-136-copy.png" />
-            <Image Name="star_troop_battle.png" />
-            <Image Name="star_troop_log.png" />
-            <Image Name="status_building.png" />
-          </Folder>
           <Folder Name="GUIs">
             <Folder Name="Action_Building_Icon">
               <Image Name="accept.png" />
@@ -755,13 +600,167 @@
               </Folder>
             </Folder>
           </Folder>
+          <Folder Name="icons">
+            <Folder Name="shop_gui">
+              <Folder Name="icon">
+                <Image Name="AMC_1.png" />
+                <Image Name="BAR_1.png" />
+                <Image Name="BAR_2.png" />
+                <Image Name="BDH_1.png" />
+                <Image Name="CLC_1.png" />
+                <Image Name="DEC_1.png" />
+                <Image Name="DEC_2.png" />
+                <Image Name="DEC_3.png" />
+                <Image Name="DEC_4.png" />
+                <Image Name="DEC_5.png" />
+                <Image Name="DEC_6.png" />
+                <Image Name="DEF_1.png" />
+                <Image Name="DEF_12.png" />
+                <Image Name="DEF_2.png" />
+                <Image Name="DEF_3.png" />
+                <Image Name="DEF_4.png" />
+                <Image Name="DEF_5.png" />
+                <Image Name="DEF_7.png" />
+                <Image Name="DEF_8.png" />
+                <Image Name="DEF_9.png" />
+                <Image Name="KQB_1.png" />
+                <Image Name="KQB_2.png" />
+                <Image Name="KQB_3.png" />
+                <Image Name="KQB_4.png" />
+                <Image Name="LAB_1.png" />
+                <Image Name="RES_1.png" />
+                <Image Name="RES_2.png" />
+                <Image Name="RES_3.png" />
+                <Image Name="SHEILD_1.png" />
+                <Image Name="SHEILD_2.png" />
+                <Image Name="SHEILD_3.png" />
+                <Image Name="SPF_1.png" />
+                <Image Name="STO_1.png" />
+                <Image Name="STO_2.png" />
+                <Image Name="STO_3.png" />
+                <Image Name="TRA_1.png" />
+                <Image Name="TRA_2.png" />
+                <Image Name="TRA_3.png" />
+                <Image Name="TRA_4.png" />
+                <Image Name="TRA_6.png" />
+                <Image Name="WAL_1.png" />
+              </Folder>
+              <Image Name="km_1.png" />
+              <Image Name="km_2.png" />
+            </Folder>
+            <Folder Name="shop_res">
+              <Image Name="darkElixir_10.png" />
+              <Image Name="darkElixir_100.png" />
+              <Image Name="darkElixir_50.png" />
+              <Image Name="elixir_10.png" />
+              <Image Name="elixir_100.png" />
+              <Image Name="elixir_50.png" />
+              <Image Name="gold_10.png" />
+              <Image Name="gold_100.png" />
+              <Image Name="gold_50.png" />
+            </Folder>
+            <Folder Name="train_troop_gui">
+              <Folder Name="icon">
+                <Image Name="ARM_1.png" />
+                <Image Name="ARM_10.png" />
+                <Image Name="ARM_2.png" />
+                <Image Name="ARM_3.png" />
+                <Image Name="ARM_4.png" />
+                <Image Name="ARM_5.png" />
+                <Image Name="ARM_6.png" />
+                <Image Name="ARM_7.png" />
+                <Image Name="ARM_8.png" />
+                <Image Name="ARM_9.png" />
+                <Image Name="DAR_1.png" />
+                <Image Name="DAR_2.png" />
+                <Image Name="DAR_3.png" />
+                <Image Name="DAR_4.png" />
+                <Image Name="DAR_6.png" />
+                <Image Name="DAR_9.png" />
+              </Folder>
+              <Folder Name="small_icon">
+                <Image Name="ARM_1.png" />
+                <Image Name="ARM_10.png" />
+                <Image Name="ARM_2.png" />
+                <Image Name="ARM_3.png" />
+                <Image Name="ARM_4.png" />
+                <Image Name="ARM_5.png" />
+                <Image Name="ARM_6.png" />
+                <Image Name="ARM_7.png" />
+                <Image Name="ARM_8.png" />
+                <Image Name="ARM_9.png" />
+                <Image Name="DAR_1.png" />
+                <Image Name="DAR_2.png" />
+                <Image Name="DAR_3.png" />
+                <Image Name="DAR_4.png" />
+                <Image Name="DAR_6.png" />
+                <Image Name="DAR_9.png" />
+                <Image Name="slot.png" />
+              </Folder>
+            </Folder>
+            <Image Name="ARM_1_Battle.png" />
+            <Image Name="ARM_1_Small.png" />
+            <Image Name="ARM_10_Battle.png" />
+            <Image Name="ARM_10_Small.png" />
+            <Image Name="ARM_11_Battle.png" />
+            <Image Name="ARM_11_Small.png" />
+            <Image Name="ARM_12_Battle.png" />
+            <Image Name="ARM_12_Small.png" />
+            <Image Name="ARM_18_Battle.png" />
+            <Image Name="ARM_18_Small.png" />
+            <Image Name="ARM_19_Battle.png" />
+            <Image Name="ARM_19_Small.png" />
+            <Image Name="ARM_2_Battle.png" />
+            <Image Name="ARM_2_Small.png" />
+            <Image Name="ARM_3_Battle.png" />
+            <Image Name="ARM_3_Small.png" />
+            <Image Name="ARM_4_Battle.png" />
+            <Image Name="ARM_4_Small.png" />
+            <Image Name="ARM_5_Battle.png" />
+            <Image Name="ARM_5_Small.png" />
+            <Image Name="ARM_6_Battle.png" />
+            <Image Name="ARM_6_Small.png" />
+            <Image Name="ARM_7_Battle.png" />
+            <Image Name="ARM_7_Small.png" />
+            <Image Name="ARM_8_Battle.png" />
+            <Image Name="ARM_8_Small.png" />
+            <Image Name="ARM_9_Battle.png" />
+            <Image Name="ARM_9_Small.png" />
+            <Image Name="bg_star_log.png" />
+            <Image Name="bg_star_troop_battle.png" />
+            <Image Name="bg_troop_gui_battle.png" />
+            <Image Name="DAR_1_Battle.png" />
+            <Image Name="DAR_1_Small.png" />
+            <Image Name="DAR_2_Battle.png" />
+            <Image Name="DAR_2_Small.png" />
+            <Image Name="DAR_3_Battle.png" />
+            <Image Name="DAR_3_Small.png" />
+            <Image Name="DAR_4_Battle.png" />
+            <Image Name="DAR_4_Small.png" />
+            <Image Name="DAR_6_Battle.png" />
+            <Image Name="DAR_6_Small.png" />
+            <Image Name="DAR_9_Battle.png" />
+            <Image Name="DAR_9_Small.png" />
+            <Image Name="gold_battle.png" />
+            <Image Name="gold_star.png" />
+            <Image Name="icon_seed.png" />
+            <Image Name="purple_star.png" />
+            <Image Name="select_troop.png" />
+            <Image Name="shadow.png" />
+            <Image Name="slot_empty.png" />
+            <Image Name="slot_troop_battle.png" />
+            <Image Name="slot_troop_end_game.png" />
+            <Image Name="SS_0009_Layer-136-copy.png" />
+            <Image Name="star_troop_battle.png" />
+            <Image Name="star_troop_log.png" />
+            <Image Name="status_building.png" />
+          </Folder>
         </Folder>
         <Folder Name="Layer">
           <Project Name="ItemButton.csd" Type="Layer" />
           <Project Name="ItemLayer.csd" Type="Layer" />
           <Project Name="ListItem.csd" Type="Layer" />
           <Project Name="ShopLayer.csd" Type="Layer" />
-          <Project Name="ResourceLayer.csd" Type="Layer" />
           <Project Name="UserLayer.csd" Type="Layer" />
         </Folder>
         <Folder Name="shop_gui">
@@ -795,6 +794,10 @@
         </Folder>
         <Image Name="HelloWorld.png" />
         <Project Name="MainScene.csd" Type="Scene" />
+        <Image Name="train_bar.png" />
+        <Folder Name="TrainTroop">
+          <Project Name="TrainTroopLayer.csd" Type="Layer" />
+        </Folder>
       </RootFolder>
     </Group>
   </SolutionFolder>

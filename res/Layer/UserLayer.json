@@ -89,7 +89,7 @@
               "Y": 0.0359
             },
             "LeftMargin": 75.5002,
-            "RightMargin": 779.4999,
+            "RightMargin": 779.4998,
             "TopMargin": 42.2994,
             "BottomMargin": 574.7006,
             "Tag": 86,
@@ -135,7 +135,7 @@
               "Y": 0.0359
             },
             "LeftMargin": 75.5002,
-            "RightMargin": 779.4999,
+            "RightMargin": 779.4998,
             "TopMargin": 42.2994,
             "BottomMargin": 574.7006,
             "Tag": 92,
@@ -180,7 +180,7 @@
               "Y": 0.0391
             },
             "LeftMargin": 70.0024,
-            "RightMargin": 774.9977,
+            "RightMargin": 774.9976,
             "TopMargin": 75.2862,
             "BottomMargin": 539.7138,
             "Tag": 87,
@@ -308,10 +308,10 @@
               "X": 0.0354,
               "Y": 0.0562
             },
-            "LeftMargin": 167.7812,
-            "RightMargin": 758.2188,
-            "TopMargin": 70.1312,
-            "BottomMargin": 533.8688,
+            "LeftMargin": 167.7819,
+            "RightMargin": 758.2181,
+            "TopMargin": 70.1319,
+            "BottomMargin": 533.8681,
             "Tag": 90,
             "ActionTag": -1788794952,
             "Size": {
@@ -354,7 +354,7 @@
               "Y": 0.0656
             },
             "LeftMargin": 165.1336,
-            "RightMargin": 752.8665,
+            "RightMargin": 752.8664,
             "TopMargin": 26.5657,
             "BottomMargin": 571.4343,
             "Tag": 89,
@@ -380,8 +380,8 @@
               "Plist": ""
             },
             "PressedFileData": {
-              "Type": "Default",
-              "Path": "Default/Button_Press.png",
+              "Type": "Normal",
+              "Path": "abcxyz/GUIs/Main_Gui/bg_exp.png",
               "Plist": ""
             },
             "NormalFileData": {
@@ -467,7 +467,7 @@
               "Y": 0.9189
             },
             "PreSize": {
-              "X": 0.0312,
+              "X": 0.0313,
               "Y": 0.0297
             },
             "LeftMargin": 172.325,
@@ -502,6 +502,8 @@
             "ColorVector": {
               "ScaleY": 1.0
             },
+            "Scale9Width": 1,
+            "Scale9Height": 1,
             "TouchEnable": true,
             "AnchorPoint": {},
             "Position": {
@@ -1105,8 +1107,7 @@
         "../abcxyz/GUIs/Main_Gui/ranking.png",
         "../abcxyz/GUIs/Main_Gui/shield.png",
         "../abcxyz/GUIs/Main_Gui/trophy_bg_bar.png",
-        "../Default/Button_Disable.png",
-        "../Default/Button_Press.png"
+        "../Default/Button_Disable.png"
       ],
       "ctype": "GameFileData"
     }
