@@ -17,7 +17,7 @@
           {
             "FileData": {
               "Type": "Normal",
-              "Path": "../GUIs/train_troop_gui/background.png",
+              "Path": "abcxyz/GUIs/train_troop_gui/background.png",
               "Plist": ""
             },
             "Scale9Enable": true,
@@ -56,7 +56,7 @@
               {
                 "FileData": {
                   "Type": "Normal",
-                  "Path": "../GUIs/train_troop_gui/bg_cost_3.png",
+                  "Path": "abcxyz/GUIs/train_troop_gui/bg_cost_3.png",
                   "Plist": ""
                 },
                 "Scale9Enable": true,
@@ -105,7 +105,7 @@
                 "LabelText": "Barrak 2",
                 "LabelBMFontFile_CNB": {
                   "Type": "Normal",
-                  "Path": "../Fonts/soji_20.fnt",
+                  "Path": "abcxyz/Fonts/soji_20.fnt",
                   "Plist": ""
                 },
                 "AnchorPoint": {
@@ -194,7 +194,7 @@
                   {
                     "FileData": {
                       "Type": "Normal",
-                      "Path": "../GUIs/train_troop_gui/slot.png",
+                      "Path": "abcxyz/GUIs/train_troop_gui/slot.png",
                       "Plist": ""
                     },
                     "Scale9OriginX": 19,
@@ -248,7 +248,7 @@
                         },
                         "NormalFileData": {
                           "Type": "Normal",
-                          "Path": "../GUIs/train_troop_gui/icon/ARM_4.png",
+                          "Path": "abcxyz/GUIs/train_troop_gui/icon/ARM_4.png",
                           "Plist": ""
                         },
                         "Scale9Enable": true,
@@ -325,7 +325,7 @@
                         },
                         "NormalFileData": {
                           "Type": "Normal",
-                          "Path": "../GUIs/train_troop_gui/info.png",
+                          "Path": "abcxyz/GUIs/train_troop_gui/info.png",
                           "Plist": ""
                         },
                         "Scale9Enable": true,
@@ -385,7 +385,7 @@
                       {
                         "FileData": {
                           "Type": "Normal",
-                          "Path": "../GUIs/train_troop_gui/bg_cost.png",
+                          "Path": "abcxyz/GUIs/train_troop_gui/bg_cost.png",
                           "Plist": ""
                         },
                         "Scale9OriginX": 31,
@@ -431,7 +431,7 @@
                         "LabelText": "3000",
                         "LabelBMFontFile_CNB": {
                           "Type": "Normal",
-                          "Path": "../Fonts/soji_16.fnt",
+                          "Path": "abcxyz/Fonts/soji_16.fnt",
                           "Plist": ""
                         },
                         "AnchorPoint": {
@@ -474,7 +474,7 @@
                       {
                         "FileData": {
                           "Type": "Normal",
-                          "Path": "../GUIs/train_troop_gui/icon_elixir.png",
+                          "Path": "abcxyz/GUIs/train_troop_gui/icon_elixir.png",
                           "Plist": ""
                         },
                         "Scale9OriginX": 5,
@@ -556,7 +556,7 @@
                 },
                 "NormalFileData": {
                   "Type": "Normal",
-                  "Path": "../GUIs/train_troop_gui/small_icon/ARM_4.png",
+                  "Path": "abcxyz/GUIs/train_troop_gui/small_icon/ARM_4.png",
                   "Plist": ""
                 },
                 "Scale9Enable": true,
@@ -609,7 +609,7 @@
                   {
                     "FileData": {
                       "Type": "Normal",
-                      "Path": "../GUIs/train_troop_gui/cancel.png",
+                      "Path": "abcxyz/GUIs/train_troop_gui/cancel.png",
                       "Plist": ""
                     },
                     "Scale9Enable": true,
@@ -658,7 +658,7 @@
                     "LabelText": "x100",
                     "LabelBMFontFile_CNB": {
                       "Type": "Normal",
-                      "Path": "../Fonts/soji_12.fnt",
+                      "Path": "abcxyz/Fonts/soji_12.fnt",
                       "Plist": ""
                     },
                     "AnchorPoint": {
@@ -708,7 +708,7 @@
               {
                 "FileData": {
                   "Type": "Normal",
-                  "Path": "../GUIs/train_troop_gui/queue.png",
+                  "Path": "abcxyz/GUIs/train_troop_gui/queue.png",
                   "Plist": ""
                 },
                 "Scale9Enable": true,
@@ -754,7 +754,7 @@
               {
                 "FileData": {
                   "Type": "Normal",
-                  "Path": "../GUIs/train_troop_gui/bg_train_bar.png",
+                  "Path": "abcxyz/GUIs/train_troop_gui/bg_train_bar.png",
                   "Plist": ""
                 },
                 "Scale9OriginX": 22,
@@ -799,7 +799,7 @@
               {
                 "FileData": {
                   "Type": "Normal",
-                  "Path": "../GUIs/train_troop_gui/train_bar.png",
+                  "Path": "abcxyz/GUIs/train_troop_gui/train_bar.png",
                   "Plist": ""
                 },
                 "Scale9OriginX": 22,
@@ -847,7 +847,7 @@
                 "LabelText": "1ms",
                 "LabelBMFontFile_CNB": {
                   "Type": "Normal",
-                  "Path": "../Fonts/soji_12.fnt",
+                  "Path": "abcxyz/Fonts/soji_12.fnt",
                   "Plist": ""
                 },
                 "AnchorPoint": {
@@ -889,7 +889,7 @@
                 "LabelText": "Total troop after training:",
                 "LabelBMFontFile_CNB": {
                   "Type": "Normal",
-                  "Path": "../Fonts/soji_12.fnt",
+                  "Path": "abcxyz/Fonts/soji_12.fnt",
                   "Plist": ""
                 },
                 "AnchorPoint": {
@@ -933,7 +933,7 @@
                 "LabelText": "100/200",
                 "LabelBMFontFile_CNB": {
                   "Type": "Normal",
-                  "Path": "../Fonts/soji_12.fnt",
+                  "Path": "abcxyz/Fonts/soji_12.fnt",
                   "Plist": ""
                 },
                 "AnchorPoint": {
@@ -1039,7 +1039,7 @@
                     },
                     "NormalFileData": {
                       "Type": "Normal",
-                      "Path": "../GUIs/train_troop_gui/small_icon/ARM_4.png",
+                      "Path": "abcxyz/GUIs/train_troop_gui/small_icon/ARM_4.png",
                       "Plist": ""
                     },
                     "Scale9Enable": true,
@@ -1089,7 +1089,7 @@
                       {
                         "FileData": {
                           "Type": "Normal",
-                          "Path": "../GUIs/train_troop_gui/cancel.png",
+                          "Path": "abcxyz/GUIs/train_troop_gui/cancel.png",
                           "Plist": ""
                         },
                         "Scale9Enable": true,
@@ -1138,7 +1138,7 @@
                         "LabelText": "x100",
                         "LabelBMFontFile_CNB": {
                           "Type": "Normal",
-                          "Path": "../Fonts/soji_12.fnt",
+                          "Path": "abcxyz/Fonts/soji_12.fnt",
                           "Plist": ""
                         },
                         "AnchorPoint": {
@@ -1198,7 +1198,7 @@
                 "LabelText": "Total time",
                 "LabelBMFontFile_CNB": {
                   "Type": "Normal",
-                  "Path": "../Fonts/soji_16.fnt",
+                  "Path": "abcxyz/Fonts/soji_16.fnt",
                   "Plist": ""
                 },
                 "AnchorPoint": {
@@ -1240,7 +1240,7 @@
                 "LabelText": "1h5p",
                 "LabelBMFontFile_CNB": {
                   "Type": "Normal",
-                  "Path": "../Fonts/soji_20.fnt",
+                  "Path": "abcxyz/Fonts/soji_20.fnt",
                   "Plist": ""
                 },
                 "AnchorPoint": {
@@ -1282,7 +1282,7 @@
                 "LabelText": "Quick finish",
                 "LabelBMFontFile_CNB": {
                   "Type": "Normal",
-                  "Path": "../Fonts/soji_12.fnt",
+                  "Path": "abcxyz/Fonts/soji_12.fnt",
                   "Plist": ""
                 },
                 "AnchorPoint": {
@@ -1340,7 +1340,7 @@
                 },
                 "NormalFileData": {
                   "Type": "Normal",
-                  "Path": "../GUIs/train_troop_gui/button.png",
+                  "Path": "abcxyz/GUIs/train_troop_gui/button.png",
                   "Plist": ""
                 },
                 "Scale9Enable": true,
@@ -1391,7 +1391,7 @@
                   {
                     "FileData": {
                       "Type": "Normal",
-                      "Path": "../GUIs/train_troop_gui/g_icon.png",
+                      "Path": "abcxyz/GUIs/train_troop_gui/g_icon.png",
                       "Plist": ""
                     },
                     "Scale9OriginX": 10,
@@ -1448,7 +1448,7 @@
                 "LabelText": "10",
                 "LabelBMFontFile_CNB": {
                   "Type": "Normal",
-                  "Path": "../Fonts/soji_20.fnt",
+                  "Path": "abcxyz/Fonts/soji_20.fnt",
                   "Plist": ""
                 },
                 "AnchorPoint": {
@@ -1515,7 +1515,7 @@
             },
             "NormalFileData": {
               "Type": "Normal",
-              "Path": "../GUIs/train_troop_gui/small_icon/ARM_4.png",
+              "Path": "abcxyz/GUIs/train_troop_gui/small_icon/ARM_4.png",
               "Plist": ""
             },
             "Scale9Enable": true,
@@ -1566,7 +1566,7 @@
               {
                 "FileData": {
                   "Type": "Normal",
-                  "Path": "../GUIs/train_troop_gui/cancel.png",
+                  "Path": "abcxyz/GUIs/train_troop_gui/cancel.png",
                   "Plist": ""
                 },
                 "Scale9Enable": true,
@@ -1615,7 +1615,7 @@
                 "LabelText": "x100",
                 "LabelBMFontFile_CNB": {
                   "Type": "Normal",
-                  "Path": "../Fonts/soji_12.fnt",
+                  "Path": "abcxyz/Fonts/soji_12.fnt",
                   "Plist": ""
                 },
                 "AnchorPoint": {
@@ -1665,7 +1665,7 @@
           {
             "FileData": {
               "Type": "Normal",
-              "Path": "../GUIs/train_troop_gui/slot.png",
+              "Path": "abcxyz/GUIs/train_troop_gui/slot.png",
               "Plist": ""
             },
             "Scale9OriginX": 19,
@@ -1720,7 +1720,7 @@
                 },
                 "NormalFileData": {
                   "Type": "Normal",
-                  "Path": "../GUIs/train_troop_gui/icon/ARM_4.png",
+                  "Path": "abcxyz/GUIs/train_troop_gui/icon/ARM_4.png",
                   "Plist": ""
                 },
                 "Scale9Enable": true,
@@ -1797,7 +1797,7 @@
                 },
                 "NormalFileData": {
                   "Type": "Normal",
-                  "Path": "../GUIs/train_troop_gui/info.png",
+                  "Path": "abcxyz/GUIs/train_troop_gui/info.png",
                   "Plist": ""
                 },
                 "Scale9Enable": true,
@@ -1857,7 +1857,7 @@
               {
                 "FileData": {
                   "Type": "Normal",
-                  "Path": "../GUIs/train_troop_gui/bg_cost.png",
+                  "Path": "abcxyz/GUIs/train_troop_gui/bg_cost.png",
                   "Plist": ""
                 },
                 "Scale9OriginX": 31,
@@ -1903,7 +1903,7 @@
                 "LabelText": "3000",
                 "LabelBMFontFile_CNB": {
                   "Type": "Normal",
-                  "Path": "../Fonts/soji_16.fnt",
+                  "Path": "abcxyz/Fonts/soji_16.fnt",
                   "Plist": ""
                 },
                 "AnchorPoint": {
@@ -1946,7 +1946,7 @@
               {
                 "FileData": {
                   "Type": "Normal",
-                  "Path": "../GUIs/train_troop_gui/icon_elixir.png",
+                  "Path": "abcxyz/GUIs/train_troop_gui/icon_elixir.png",
                   "Plist": ""
                 },
                 "Scale9OriginX": 5,
@@ -2008,26 +2008,26 @@
         "ctype": "LayerObjectData"
       },
       "UsedResources": [
-        "../../Fonts/soji_12.fnt",
-        "../../Fonts/soji_12.png",
-        "../../Fonts/soji_16.fnt",
-        "../../Fonts/soji_16.png",
-        "../../Fonts/soji_20.fnt",
-        "../../Fonts/soji_20.png",
-        "../../GUIs/train_troop_gui/background.png",
-        "../../GUIs/train_troop_gui/bg_cost.png",
-        "../../GUIs/train_troop_gui/bg_cost_3.png",
-        "../../GUIs/train_troop_gui/bg_train_bar.png",
-        "../../GUIs/train_troop_gui/button.png",
-        "../../GUIs/train_troop_gui/cancel.png",
-        "../../GUIs/train_troop_gui/g_icon.png",
-        "../../GUIs/train_troop_gui/icon/ARM_4.png",
-        "../../GUIs/train_troop_gui/icon_elixir.png",
-        "../../GUIs/train_troop_gui/info.png",
-        "../../GUIs/train_troop_gui/queue.png",
-        "../../GUIs/train_troop_gui/slot.png",
-        "../../GUIs/train_troop_gui/small_icon/ARM_4.png",
-        "../../GUIs/train_troop_gui/train_bar.png",
+        "../abcxyz/Fonts/soji_12.fnt",
+        "../abcxyz/Fonts/soji_12.png",
+        "../abcxyz/Fonts/soji_16.fnt",
+        "../abcxyz/Fonts/soji_16.png",
+        "../abcxyz/Fonts/soji_20.fnt",
+        "../abcxyz/Fonts/soji_20.png",
+        "../abcxyz/GUIs/train_troop_gui/background.png",
+        "../abcxyz/GUIs/train_troop_gui/bg_cost.png",
+        "../abcxyz/GUIs/train_troop_gui/bg_cost_3.png",
+        "../abcxyz/GUIs/train_troop_gui/bg_train_bar.png",
+        "../abcxyz/GUIs/train_troop_gui/button.png",
+        "../abcxyz/GUIs/train_troop_gui/cancel.png",
+        "../abcxyz/GUIs/train_troop_gui/g_icon.png",
+        "../abcxyz/GUIs/train_troop_gui/icon/ARM_4.png",
+        "../abcxyz/GUIs/train_troop_gui/icon_elixir.png",
+        "../abcxyz/GUIs/train_troop_gui/info.png",
+        "../abcxyz/GUIs/train_troop_gui/queue.png",
+        "../abcxyz/GUIs/train_troop_gui/slot.png",
+        "../abcxyz/GUIs/train_troop_gui/small_icon/ARM_4.png",
+        "../abcxyz/GUIs/train_troop_gui/train_bar.png",
         "../Default/Button_Disable.png",
         "../Default/Button_Press.png"
       ],
