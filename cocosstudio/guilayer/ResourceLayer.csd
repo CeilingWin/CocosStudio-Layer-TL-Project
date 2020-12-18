@@ -17,7 +17,7 @@
                 <CColor A="255" R="255" G="255" B="255" />
                 <PrePosition X="0.9400" Y="0.6071" />
                 <PreSize X="0.9333" Y="0.6429" />
-                <FileData Type="Normal" Path="guis/Main_Gui/gold_bar.png" Plist="" />
+                <FileData Type="Normal" Path="guis/main_gui/gold_bar.png" Plist="" />
               </AbstractNodeData>
               <AbstractNodeData Name="lb_resource" ActionTag="-740010870" Tag="66" IconVisible="False" HorizontalEdge="RightEdge" VerticalEdge="BottomEdge" LeftMargin="84.4888" RightMargin="12.5112" TopMargin="1.7443" BottomMargin="7.2557" LabelText="1000" ctype="TextBMFontObjectData">
                 <Size X="53.0000" Y="19.0000" />
@@ -37,7 +37,7 @@
                 <CColor A="255" R="255" G="255" B="255" />
                 <PrePosition X="1.0400" Y="0.5179" />
                 <PreSize X="0.1867" Y="1.0357" />
-                <FileData Type="Normal" Path="guis/Main_Gui/gold_icon.png" Plist="" />
+                <FileData Type="Normal" Path="guis/main_gui/gold_icon.png" Plist="" />
               </AbstractNodeData>
               <AbstractNodeData Name="lb_max" ActionTag="-294417447" Tag="74" IconVisible="False" LeftMargin="7.8866" RightMargin="10.1134" TopMargin="-19.0000" BottomMargin="28.0000" LabelText="Max: 1.000.000" ctype="TextBMFontObjectData">
                 <Size X="132.0000" Y="19.0000" />
@@ -56,7 +56,7 @@
             <CColor A="255" R="255" G="255" B="255" />
             <PrePosition X="0.7641" Y="0.3113" />
             <PreSize X="0.7500" Y="0.1867" />
-            <FileData Type="Normal" Path="guis/Main_Gui/bg_bar_2.png" Plist="" />
+            <FileData Type="Normal" Path="guis/main_gui/bg_bar_2.png" Plist="" />
           </AbstractNodeData>
           <AbstractNodeData Name="imv_elixir" ActionTag="-1351806594" Tag="75" IconVisible="False" HorizontalEdge="RightEdge" VerticalEdge="TopEdge" LeftMargin="21.6636" RightMargin="28.3364" TopMargin="61.5594" BottomMargin="60.4406" Scale9Enable="True" LeftEage="20" RightEage="20" TopEage="5" BottomEage="5" Scale9OriginX="20" Scale9OriginY="5" Scale9Width="87" Scale9Height="18" ctype="ImageViewObjectData">
             <Size X="150.0000" Y="28.0000" />
@@ -69,7 +69,7 @@
                 <CColor A="255" R="255" G="255" B="255" />
                 <PrePosition X="0.9400" Y="0.6071" />
                 <PreSize X="0.9333" Y="0.6429" />
-                <FileData Type="Normal" Path="guis/Main_Gui/elixir_bar.png" Plist="" />
+                <FileData Type="Normal" Path="guis/main_gui/elixir_bar.png" Plist="" />
               </AbstractNodeData>
               <AbstractNodeData Name="lb_resource" ActionTag="2079319035" Tag="77" IconVisible="False" HorizontalEdge="RightEdge" VerticalEdge="BottomEdge" LeftMargin="87.0000" RightMargin="10.0000" TopMargin="3.0000" BottomMargin="6.0000" LabelText="1000" ctype="TextBMFontObjectData">
                 <Size X="53.0000" Y="19.0000" />
@@ -89,7 +89,7 @@
                 <CColor A="255" R="255" G="255" B="255" />
                 <PrePosition X="1.0433" Y="0.5714" />
                 <PreSize X="0.1800" Y="1.1429" />
-                <FileData Type="Normal" Path="guis/Main_Gui/elixir_icon.png" Plist="" />
+                <FileData Type="Normal" Path="guis/main_gui/elixir_icon.png" Plist="" />
               </AbstractNodeData>
               <AbstractNodeData Name="lb_max" ActionTag="-683361025" Tag="79" IconVisible="False" LeftMargin="7.8860" RightMargin="10.1140" TopMargin="-17.7443" BottomMargin="26.7443" LabelText="Max: 1.000.000" ctype="TextBMFontObjectData">
                 <Size X="132.0000" Y="19.0000" />
@@ -108,7 +108,7 @@
             <CColor A="255" R="255" G="255" B="255" />
             <PrePosition X="0.7641" Y="0.0360" />
             <PreSize X="0.7500" Y="0.1867" />
-            <FileData Type="Normal" Path="guis/Main_Gui/bg_bar_2.png" Plist="" />
+            <FileData Type="Normal" Path="guis/main_gui/bg_bar_2.png" Plist="" />
           </AbstractNodeData>
           <AbstractNodeData Name="imv_g" ActionTag="2136287920" Tag="86" IconVisible="False" HorizontalEdge="RightEdge" VerticalEdge="TopEdge" LeftMargin="68.0000" RightMargin="32.0000" TopMargin="97.6531" BottomMargin="21.3469" Scale9Enable="True" LeftEage="20" RightEage="20" TopEage="5" BottomEage="5" Scale9OriginX="20" Scale9OriginY="5" Scale9Width="60" Scale9Height="21" ctype="ImageViewObjectData">
             <Size X="100.0000" Y="31.0000" />
@@ -131,7 +131,7 @@
                 <CColor A="255" R="255" G="255" B="255" />
                 <PrePosition X="1.0953" Y="0.5405" />
                 <PreSize X="0.2700" Y="0.9032" />
-                <FileData Type="Normal" Path="guis/Main_Gui/g_icon.png" Plist="" />
+                <FileData Type="Normal" Path="guis/main_gui/g_icon.png" Plist="" />
               </AbstractNodeData>
               <AbstractNodeData Name="btn_add_g" ActionTag="1359640368" Tag="92" IconVisible="False" HorizontalEdge="LeftEdge" VerticalEdge="BottomEdge" LeftMargin="-20.0262" RightMargin="85.0262" TopMargin="-1.7302" BottomMargin="-2.2698" TouchEnable="True" FontSize="14" Scale9Enable="True" LeftEage="15" RightEage="15" TopEage="11" BottomEage="11" Scale9OriginX="15" Scale9OriginY="11" Scale9Width="5" Scale9Height="13" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="ButtonObjectData">
                 <Size X="35.0000" Y="35.0000" />
@@ -143,8 +143,8 @@
                 <PreSize X="0.3500" Y="1.1290" />
                 <TextColor A="255" R="65" G="65" B="70" />
                 <DisabledFileData Type="Default" Path="Default/Button_Disable.png" Plist="" />
-                <PressedFileData Type="Normal" Path="guis/Main_Gui/add_button.png" Plist="" />
-                <NormalFileData Type="Normal" Path="guis/Main_Gui/add_button.png" Plist="" />
+                <PressedFileData Type="Normal" Path="guis/main_gui/add_button.png" Plist="" />
+                <NormalFileData Type="Normal" Path="guis/main_gui/add_button.png" Plist="" />
                 <OutlineColor A="255" R="255" G="0" B="0" />
                 <ShadowColor A="255" R="110" G="110" B="110" />
               </AbstractNodeData>
@@ -155,7 +155,7 @@
             <CColor A="255" R="255" G="255" B="255" />
             <PrePosition X="0.7772" Y="-0.2640" />
             <PreSize X="0.5000" Y="0.2067" />
-            <FileData Type="Normal" Path="guis/Main_Gui/bg_bar_1.png" Plist="" />
+            <FileData Type="Normal" Path="guis/main_gui/bg_bar_1.png" Plist="" />
           </AbstractNodeData>
         </Children>
       </ObjectData>

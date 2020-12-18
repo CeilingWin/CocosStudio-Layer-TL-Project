@@ -16,8 +16,8 @@
             <PreSize X="0.1010" Y="0.1563" />
             <TextColor A="255" R="65" G="65" B="70" />
             <DisabledFileData Type="Default" Path="Default/Button_Disable.png" Plist="" />
-            <PressedFileData Type="Normal" Path="guis/Main_Gui/shop.png" Plist="" />
-            <NormalFileData Type="Normal" Path="guis/Main_Gui/shop.png" Plist="" />
+            <PressedFileData Type="Normal" Path="guis/main_gui/shop.png" Plist="" />
+            <NormalFileData Type="Normal" Path="guis/main_gui/shop.png" Plist="" />
             <OutlineColor A="255" R="255" G="0" B="0" />
             <ShadowColor A="255" R="110" G="110" B="110" />
           </AbstractNodeData>
@@ -31,8 +31,8 @@
             <PreSize X="0.0604" Y="0.0938" />
             <TextColor A="255" R="65" G="65" B="70" />
             <DisabledFileData Type="Default" Path="Default/Button_Disable.png" Plist="" />
-            <PressedFileData Type="Normal" Path="guis/Main_Gui/setting.png" Plist="" />
-            <NormalFileData Type="Normal" Path="guis/Main_Gui/setting.png" Plist="" />
+            <PressedFileData Type="Normal" Path="guis/main_gui/setting.png" Plist="" />
+            <NormalFileData Type="Normal" Path="guis/main_gui/setting.png" Plist="" />
             <OutlineColor A="255" R="255" G="0" B="0" />
             <ShadowColor A="255" R="110" G="110" B="110" />
           </AbstractNodeData>
@@ -46,8 +46,8 @@
             <PreSize X="0.0594" Y="0.0906" />
             <TextColor A="255" R="65" G="65" B="70" />
             <DisabledFileData Type="Default" Path="Default/Button_Disable.png" Plist="" />
-            <PressedFileData Type="Normal" Path="guis/Main_Gui/kho.png" Plist="" />
-            <NormalFileData Type="Normal" Path="guis/Main_Gui/kho.png" Plist="" />
+            <PressedFileData Type="Normal" Path="guis/main_gui/kho.png" Plist="" />
+            <NormalFileData Type="Normal" Path="guis/main_gui/kho.png" Plist="" />
             <OutlineColor A="255" R="255" G="0" B="0" />
             <ShadowColor A="255" R="110" G="110" B="110" />
           </AbstractNodeData>
@@ -61,8 +61,8 @@
             <PreSize X="0.0323" Y="0.1094" />
             <TextColor A="255" R="65" G="65" B="70" />
             <DisabledFileData Type="Default" Path="Default/Button_Disable.png" Plist="" />
-            <PressedFileData Type="Normal" Path="guis/Chat/button chinh.png" Plist="" />
-            <NormalFileData Type="Normal" Path="guis/Chat/button chinh.png" Plist="" />
+            <PressedFileData Type="Normal" Path="guis/chat/button chinh.png" Plist="" />
+            <NormalFileData Type="Normal" Path="guis/chat/button chinh.png" Plist="" />
             <OutlineColor A="255" R="255" G="0" B="0" />
             <ShadowColor A="255" R="110" G="110" B="110" />
           </AbstractNodeData>
@@ -76,8 +76,8 @@
             <PreSize X="0.1010" Y="0.1609" />
             <TextColor A="255" R="65" G="65" B="70" />
             <DisabledFileData Type="Default" Path="Default/Button_Disable.png" Plist="" />
-            <PressedFileData Type="Normal" Path="guis/Main_Gui/attack.png" Plist="" />
-            <NormalFileData Type="Normal" Path="guis/Main_Gui/attack.png" Plist="" />
+            <PressedFileData Type="Normal" Path="guis/main_gui/attack.png" Plist="" />
+            <NormalFileData Type="Normal" Path="guis/main_gui/attack.png" Plist="" />
             <OutlineColor A="255" R="255" G="0" B="0" />
             <ShadowColor A="255" R="110" G="110" B="110" />
           </AbstractNodeData>
@@ -91,8 +91,8 @@
             <PreSize X="0.0573" Y="0.0891" />
             <TextColor A="255" R="65" G="65" B="70" />
             <DisabledFileData Type="Default" Path="Default/Button_Disable.png" Plist="" />
-            <PressedFileData Type="Normal" Path="guis/Main_Gui/003left_ic04.png" Plist="" />
-            <NormalFileData Type="Normal" Path="guis/Main_Gui/003left_ic04.png" Plist="" />
+            <PressedFileData Type="Normal" Path="guis/main_gui/003left_ic04.png" Plist="" />
+            <NormalFileData Type="Normal" Path="guis/main_gui/003left_ic04.png" Plist="" />
             <OutlineColor A="255" R="255" G="0" B="0" />
             <ShadowColor A="255" R="110" G="110" B="110" />
           </AbstractNodeData>
@@ -106,8 +106,8 @@
             <PreSize X="0.0573" Y="0.0891" />
             <TextColor A="255" R="65" G="65" B="70" />
             <DisabledFileData Type="Default" Path="Default/Button_Disable.png" Plist="" />
-            <PressedFileData Type="Normal" Path="guis/Main_Gui/003left_ic05.png" Plist="" />
-            <NormalFileData Type="Normal" Path="guis/Main_Gui/003left_ic05.png" Plist="" />
+            <PressedFileData Type="Normal" Path="guis/main_gui/003left_ic05.png" Plist="" />
+            <NormalFileData Type="Normal" Path="guis/main_gui/003left_ic05.png" Plist="" />
             <OutlineColor A="255" R="255" G="0" B="0" />
             <ShadowColor A="255" R="110" G="110" B="110" />
           </AbstractNodeData>

@@ -10,13 +10,13 @@
           <Fnt Name="soji_24.fnt" />
         </Folder>
         <Folder Name="guilayer">
-          <Project Name="UserLayer.csd" Type="Layer" />
-          <Project Name="TrainTroopLayer.csd" Type="Layer" />
           <Project Name="ResourceLayer.csd" Type="Layer" />
           <Project Name="ToolLayer.csd" Type="Layer" />
+          <Project Name="TrainTroopLayer.csd" Type="Layer" />
+          <Project Name="UserLayer.csd" Type="Layer" />
         </Folder>
         <Folder Name="guis">
-          <Folder Name="Action_Building_Icon">
+          <Folder Name="action_building_icon">
             <Image Name="accept.png" />
             <Image Name="accept_share.png" />
             <Image Name="bg_button.png" />
@@ -48,7 +48,7 @@
             <Image Name="upgrade_icon.png" />
             <Image Name="wake_btn.png" />
           </Folder>
-          <Folder Name="Chat">
+          <Folder Name="chat">
             <Image Name="1_0000_Layer-2.png" />
             <Image Name="1_0001_Layer-1.png" />
             <Image Name="button 1.png" />
@@ -236,7 +236,7 @@
             <Image Name="star_troop_log.png" />
             <Image Name="status_building.png" />
           </Folder>
-          <Folder Name="Main_Gui">
+          <Folder Name="main_gui">
             <Folder Name="login">
               <Image Name="bg.png" />
               <Image Name="bg_text.png" />
