@@ -14,6 +14,7 @@
           <Project Name="ToolLayer.csd" Type="Layer" />
           <Project Name="TrainTroopLayer.csd" Type="Layer" />
           <Project Name="UserLayer.csd" Type="Layer" />
+          <Project Name="TrainTroopComponent.csd" Type="Layer" />
         </Folder>
         <Folder Name="guis">
           <Folder Name="action_building_icon">

@@ -33,8 +33,14 @@
         <OpenedDocuments>
           <FilePathData Path="shop/ShopLayer.csd" />
           <FilePathData Path="guilayer/UserLayer.csd" />
+          <FilePathData Path="guilayer/TrainTroopLayer.csd" />
+          <FilePathData Path="guilayer/TrainTroopComponent.csd" />
+          <FilePathData Path="guilayer/ToolLayer.csd" />
+          <FilePathData Path="shop/ItemButton.csd" />
+          <FilePathData Path="shop/ListItem.csd" />
+          <FilePathData Path="guilayer/ResourceLayer.csd" />
         </OpenedDocuments>
-        <ActiveDocument Path="guilayer/UserLayer.csd" />
+        <ActiveDocument Path="guilayer/TrainTroopLayer.csd" />
       </Value>
     </Item>
   </Properties>
