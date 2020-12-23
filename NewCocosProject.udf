@@ -40,7 +40,7 @@
           <FilePathData Path="shop/ListItem.csd" />
           <FilePathData Path="guilayer/ResourceLayer.csd" />
         </OpenedDocuments>
-        <ActiveDocument Path="guilayer/TrainTroopLayer.csd" />
+        <ActiveDocument Path="guilayer/ResourceLayer.csd" />
       </Value>
     </Item>
   </Properties>

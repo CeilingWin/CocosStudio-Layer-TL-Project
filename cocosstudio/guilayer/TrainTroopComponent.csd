@@ -125,15 +125,15 @@
           <AbstractNodeData Name="imv_troop_training" ActionTag="1735790948" Tag="137" IconVisible="False" LeftMargin="155.8613" RightMargin="746.1387" TopMargin="302.1784" BottomMargin="279.8216" LeftEage="19" RightEage="19" TopEage="19" BottomEage="19" Scale9OriginX="19" Scale9OriginY="19" Scale9Width="20" Scale9Height="20" ctype="ImageViewObjectData">
             <Size X="58.0000" Y="58.0000" />
             <Children>
-              <AbstractNodeData Name="lb_quantity" ActionTag="450253060" Tag="139" IconVisible="False" HorizontalEdge="LeftEdge" VerticalEdge="TopEdge" LeftMargin="-5.0000" RightMargin="12.0000" TopMargin="2.0000" BottomMargin="37.0000" LabelText="x100" ctype="TextBMFontObjectData">
-                <Size X="51.0000" Y="19.0000" />
-                <AnchorPoint ScaleY="0.5000" />
-                <Position X="-5.0000" Y="46.5000" />
+              <AbstractNodeData Name="imv_troop" ActionTag="1279885435" Tag="106" IconVisible="False" HorizontalEdge="LeftEdge" VerticalEdge="BottomEdge" RightMargin="3.0000" LeftEage="18" RightEage="18" TopEage="19" BottomEage="19" Scale9OriginX="18" Scale9OriginY="19" Scale9Width="19" Scale9Height="20" ctype="ImageViewObjectData">
+                <Size X="55.0000" Y="58.0000" />
+                <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+                <Position X="27.5000" Y="29.0000" />
                 <Scale ScaleX="1.0000" ScaleY="1.0000" />
                 <CColor A="255" R="255" G="255" B="255" />
-                <PrePosition X="-0.0862" Y="0.8017" />
-                <PreSize X="0.8793" Y="0.3276" />
-                <LabelBMFontFile_CNB Type="Normal" Path="fonts/soji_12.fnt" Plist="" />
+                <PrePosition X="0.4741" Y="0.5000" />
+                <PreSize X="0.9483" Y="1.0000" />
+                <FileData Type="Normal" Path="guis/train_troop_gui/small_icon/ARM_2.png" Plist="" />
               </AbstractNodeData>
               <AbstractNodeData Name="btn_cancel_train" ActionTag="840731263" Tag="141" IconVisible="False" HorizontalEdge="RightEdge" VerticalEdge="TopEdge" LeftMargin="33.0000" RightMargin="-15.0000" TopMargin="-15.0000" BottomMargin="33.0000" TouchEnable="True" FontSize="14" Scale9Enable="True" LeftEage="15" RightEage="15" TopEage="11" BottomEage="11" Scale9OriginX="15" Scale9OriginY="11" Scale9Width="10" Scale9Height="18" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="ButtonObjectData">
                 <Size X="40.0000" Y="40.0000" />
@@ -150,6 +150,16 @@
                 <OutlineColor A="255" R="255" G="0" B="0" />
                 <ShadowColor A="255" R="110" G="110" B="110" />
               </AbstractNodeData>
+              <AbstractNodeData Name="lb_quantity" ActionTag="450253060" Tag="139" IconVisible="False" HorizontalEdge="LeftEdge" VerticalEdge="TopEdge" LeftMargin="-5.0000" RightMargin="12.0000" TopMargin="2.0000" BottomMargin="37.0000" LabelText="x100" ctype="TextBMFontObjectData">
+                <Size X="51.0000" Y="19.0000" />
+                <AnchorPoint ScaleY="0.5000" />
+                <Position X="-5.0000" Y="46.5000" />
+                <Scale ScaleX="1.0000" ScaleY="1.0000" />
+                <CColor A="255" R="255" G="255" B="255" />
+                <PrePosition X="-0.0862" Y="0.8017" />
+                <PreSize X="0.8793" Y="0.3276" />
+                <LabelBMFontFile_CNB Type="Normal" Path="fonts/soji_12.fnt" Plist="" />
+              </AbstractNodeData>
             </Children>
             <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
             <Position X="184.8613" Y="308.8216" />
@@ -157,7 +167,7 @@
             <CColor A="255" R="255" G="255" B="255" />
             <PrePosition X="0.1926" Y="0.4825" />
             <PreSize X="0.0604" Y="0.0906" />
-            <FileData Type="Normal" Path="guis/train_troop_gui/small_icon/ARM_4.png" Plist="" />
+            <FileData Type="Normal" Path="guis/train_troop_gui/small_icon/slot.png" Plist="" />
           </AbstractNodeData>
         </Children>
       </ObjectData>
