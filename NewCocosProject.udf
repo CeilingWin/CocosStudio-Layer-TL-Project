@@ -28,20 +28,5 @@
         <EnableHTML5Advanced Value="False" />
       </Value>
     </Item>
-    <Item Key="TabsParamsKey">
-      <Value ctype="TabsInfo">
-        <OpenedDocuments>
-          <FilePathData Path="shop/ShopLayer.csd" />
-          <FilePathData Path="guilayer/UserLayer.csd" />
-          <FilePathData Path="guilayer/TrainTroopLayer.csd" />
-          <FilePathData Path="guilayer/TrainTroopComponent.csd" />
-          <FilePathData Path="guilayer/ToolLayer.csd" />
-          <FilePathData Path="shop/ItemButton.csd" />
-          <FilePathData Path="shop/ListItem.csd" />
-          <FilePathData Path="guilayer/ResourceLayer.csd" />
-        </OpenedDocuments>
-        <ActiveDocument Path="guilayer/ResourceLayer.csd" />
-      </Value>
-    </Item>
   </Properties>
 </UserData>
