@@ -112,8 +112,7 @@
             <PrePosition X="0.3111" Y="0.4896" />
             <PreSize X="0.2354" Y="0.5078" />
             <TextColor A="255" R="65" G="65" B="70" />
-            <DisabledFileData Type="Default" Path="Default/Button_Disable.png" Plist="" />
-            <PressedFileData Type="Default" Path="Default/Button_Press.png" Plist="" />
+            <PressedFileData Type="Normal" Path="shop/shop_gui/slot.png" Plist="" />
             <NormalFileData Type="Normal" Path="shop/shop_gui/slot.png" Plist="" />
             <OutlineColor A="255" R="255" G="0" B="0" />
             <ShadowColor A="255" R="110" G="110" B="110" />

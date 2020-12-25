@@ -161,7 +161,7 @@
             <PrePosition X="0.0587" Y="0.9292" />
             <PreSize X="0.0925" Y="0.0979" />
             <TextColor A="255" R="65" G="65" B="70" />
-            <DisabledFileData Type="Default" Path="Default/Button_Disable.png" Plist="" />
+            <DisabledFileData Type="Normal" Path="shop/shop_gui/back.png" Plist="" />
             <PressedFileData Type="Normal" Path="shop/shop_gui/back.png" Plist="" />
             <NormalFileData Type="Normal" Path="shop/shop_gui/back.png" Plist="" />
             <OutlineColor A="255" R="255" G="0" B="0" />
@@ -176,7 +176,7 @@
             <PrePosition X="0.9425" Y="0.9333" />
             <PreSize X="0.0587" Y="0.0979" />
             <TextColor A="255" R="65" G="65" B="70" />
-            <DisabledFileData Type="Default" Path="Default/Button_Disable.png" Plist="" />
+            <DisabledFileData Type="Normal" Path="shop/shop_gui/close.png" Plist="" />
             <PressedFileData Type="Normal" Path="shop/shop_gui/close.png" Plist="" />
             <NormalFileData Type="Normal" Path="shop/shop_gui/close.png" Plist="" />
             <OutlineColor A="255" R="255" G="0" B="0" />
