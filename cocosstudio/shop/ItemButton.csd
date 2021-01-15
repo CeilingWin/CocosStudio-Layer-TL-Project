@@ -6,7 +6,7 @@
       <ObjectData Name="Layer" Tag="85" ctype="GameLayerObjectData">
         <Size X="960.0000" Y="640.0000" />
         <Children>
-          <AbstractNodeData Name="btn_item" ActionTag="1386078600" Tag="86" IconVisible="False" LeftMargin="185.6982" RightMargin="548.3018" TopMargin="164.1596" BottomMargin="150.8404" TouchEnable="True" FontSize="14" Scale9Enable="True" LeftEage="15" RightEage="15" TopEage="11" BottomEage="11" Scale9OriginX="15" Scale9OriginY="11" Scale9Width="196" Scale9Height="303" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="ButtonObjectData">
+          <AbstractNodeData Name="btn_item" ActionTag="1386078600" Tag="86" IconVisible="False" LeftMargin="125.9266" RightMargin="608.0734" TopMargin="202.1873" BottomMargin="112.8127" TouchEnable="True" FontSize="14" Scale9Enable="True" LeftEage="15" RightEage="15" TopEage="11" BottomEage="11" Scale9OriginX="15" Scale9OriginY="11" Scale9Width="196" Scale9Height="303" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="ButtonObjectData">
             <Size X="226.0000" Y="325.0000" />
             <Children>
               <AbstractNodeData Name="Image_4" ActionTag="1904715378" Tag="124" IconVisible="False" HorizontalEdge="LeftEdge" VerticalEdge="BottomEdge" LeftMargin="-3.5000" RightMargin="-11.5000" TopMargin="69.0000" BottomMargin="70.0000" LeftEage="79" RightEage="79" TopEage="61" BottomEage="61" Scale9OriginX="79" Scale9OriginY="61" Scale9Width="83" Scale9Height="64" ctype="ImageViewObjectData">
@@ -48,8 +48,8 @@
                 <PrePosition X="0.8739" Y="0.9092" />
                 <PreSize X="0.1637" Y="0.1200" />
                 <TextColor A="255" R="65" G="65" B="70" />
-                <DisabledFileData Type="Default" Path="Default/Button_Disable.png" Plist="" />
-                <PressedFileData Type="Default" Path="Default/Button_Press.png" Plist="" />
+                <DisabledFileData Type="Normal" Path="shop/shop_gui/info.png" Plist="" />
+                <PressedFileData Type="Normal" Path="shop/shop_gui/info.png" Plist="" />
                 <NormalFileData Type="Normal" Path="shop/shop_gui/info.png" Plist="" />
                 <OutlineColor A="255" R="255" G="0" B="0" />
                 <ShadowColor A="255" R="110" G="110" B="110" />
@@ -74,7 +74,7 @@
                 <PreSize X="0.3053" Y="0.0585" />
                 <LabelBMFontFile_CNB Type="Normal" Path="fonts/soji_12.fnt" Plist="" />
               </AbstractNodeData>
-              <AbstractNodeData Name="Image_19" ActionTag="-1264388392" Tag="120" IconVisible="False" LeftMargin="16.2606" RightMargin="181.7394" TopMargin="212.2429" BottomMargin="70.7571" LeftEage="9" RightEage="9" TopEage="13" BottomEage="13" Scale9OriginX="9" Scale9OriginY="13" Scale9Width="10" Scale9Height="16" ctype="ImageViewObjectData">
+              <AbstractNodeData Name="imv_dhc" ActionTag="-1264388392" Tag="120" IconVisible="False" LeftMargin="16.2606" RightMargin="181.7394" TopMargin="212.2429" BottomMargin="70.7571" LeftEage="9" RightEage="9" TopEage="13" BottomEage="13" Scale9OriginX="9" Scale9OriginY="13" Scale9Width="10" Scale9Height="16" ctype="ImageViewObjectData">
                 <Size X="28.0000" Y="42.0000" />
                 <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
                 <Position X="30.2606" Y="91.7571" />
@@ -104,12 +104,22 @@
                 <PreSize X="0.4956" Y="0.0769" />
                 <LabelBMFontFile_CNB Type="Normal" Path="fonts/soji_16.fnt" Plist="" />
               </AbstractNodeData>
+              <AbstractNodeData Name="lb_require" ActionTag="99644997" VisibleForFrame="False" Tag="121" IconVisible="False" LeftMargin="19.4132" RightMargin="17.5868" TopMargin="228.4586" BottomMargin="77.5413" LabelText="Require town hall level 9" ctype="TextBMFontObjectData">
+                <Size X="189.0000" Y="19.0000" />
+                <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+                <Position X="113.9132" Y="87.0413" />
+                <Scale ScaleX="1.0000" ScaleY="1.0000" />
+                <CColor A="255" R="255" G="0" B="0" />
+                <PrePosition X="0.5040" Y="0.2678" />
+                <PreSize X="0.8363" Y="0.0585" />
+                <LabelBMFontFile_CNB Type="Normal" Path="fonts/soji_12.fnt" Plist="" />
+              </AbstractNodeData>
             </Children>
             <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
-            <Position X="298.6982" Y="313.3404" />
+            <Position X="238.9266" Y="275.3127" />
             <Scale ScaleX="1.0000" ScaleY="1.0000" />
             <CColor A="255" R="255" G="255" B="255" />
-            <PrePosition X="0.3111" Y="0.4896" />
+            <PrePosition X="0.2489" Y="0.4302" />
             <PreSize X="0.2354" Y="0.5078" />
             <TextColor A="255" R="65" G="65" B="70" />
             <PressedFileData Type="Normal" Path="shop/shop_gui/slot.png" Plist="" />
