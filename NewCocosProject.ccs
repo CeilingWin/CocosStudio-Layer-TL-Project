@@ -5,17 +5,14 @@
       <RootFolder Name=".">
         <Folder Name="fonts">
           <Fnt Name="soji_12.fnt" />
+          <Image Name="soji_12.png" />
           <Fnt Name="soji_16.fnt" />
           <Fnt Name="soji_20.fnt" />
           <Fnt Name="soji_24.fnt" />
         </Folder>
         <Folder Name="guilayer">
-          <Project Name="ResourceLayer.csd" Type="Layer" />
-          <Project Name="ToolLayer.csd" Type="Layer" />
-          <Project Name="TrainTroopComponent.csd" Type="Layer" />
-          <Project Name="TrainTroopLayer.csd" Type="Layer" />
-          <Project Name="UserLayer.csd" Type="Layer" />
-          <Project Name="SelectTroopLayer.csd" Type="Layer" />
+          <Project Name="PopupInfoTroop.csd" Type="Layer" />
+          <Project Name="UpgradePopup.csd" Type="Layer" />
         </Folder>
         <Folder Name="guis">
           <Folder Name="action_building_icon">
@@ -761,6 +758,82 @@
           <Image Name="star_troop_battle.png" />
           <Image Name="star_troop_log.png" />
           <Image Name="status_building.png" />
+        </Folder>
+        <Folder Name="map">
+          <Folder Name="map_obj_bg">
+            <Folder Name="bg">
+              <Image Name="arrowmove1.png" />
+              <Image Name="arrowmove2.png" />
+              <Image Name="arrowmove3.png" />
+              <Image Name="arrowmove4.png" />
+              <Image Name="arrowmove5.png" />
+              <Image Name="green_1.png" />
+              <Image Name="green_2.png" />
+              <Image Name="green_3.png" />
+              <Image Name="green_4.png" />
+              <Image Name="green_5.png" />
+              <Image Name="red_1.png" />
+              <Image Name="red_2.png" />
+              <Image Name="red_3.png" />
+              <Image Name="red_4.png" />
+              <Image Name="red_5.png" />
+            </Folder>
+            <Folder Name="bg_0">
+              <Image Name="1.png" />
+              <Image Name="2.png" />
+              <Image Name="3.png" />
+              <Image Name="4.png" />
+              <Image Name="5.png" />
+            </Folder>
+            <Image Name="1x1_bong.png" />
+            <Image Name="big_shadow_troop.png" />
+            <Image Name="cracked.png" />
+            <Image Name="grass_0_2_obs.png" />
+            <Image Name="grass_0_3_obs.png" />
+            <Image Name="grass_1_2_obs.png" />
+            <Image Name="grass_1_3_obs.png" />
+            <Image Name="grass_2_island.png" />
+            <Image Name="grass_2_obs_goblin.png" />
+            <Image Name="grass_2_shadow.png" />
+            <Image Name="grass_3_goblin.png" />
+            <Image Name="grass_3_island.png" />
+            <Image Name="grass_3_obs_goblin.png" />
+            <Image Name="grass_3_shadow.png" />
+            <Image Name="grass_4_goblin.png" />
+            <Image Name="grass_4_island.png" />
+            <Image Name="grass_4_shadow.png" />
+            <Image Name="grass_5_island.png" />
+            <Image Name="grass_5_shadow.png" />
+            <Image Name="junk_contructs_0.png" />
+            <Image Name="junk_contructs_1.png" />
+            <Image Name="junk_elixirdrill.png" />
+            <Image Name="junk_mainhouse.png" />
+            <Image Name="junk_wall.png" />
+            <Image Name="junk_wall_0.png" />
+            <Image Name="junk_wall_1.png" />
+            <Image Name="junk_wall_2.png" />
+            <Image Name="lightpole.png" />
+            <Image Name="small_shadow_troop.png" />
+            <Image Name="upgrading.png" />
+          </Folder>
+          <Image Name="1_0000_Layer-3.png" />
+          <Image Name="1_0001_Layer-1.png" />
+          <Image Name="1_0002_Layer-4.png" />
+          <Image Name="1_0003_Layer-2.png" />
+          <TmxFile Name="42x42map.tmx" />
+          <Image Name="background_1.png" />
+          <Image Name="background_2.png" />
+          <Image Name="background_3.png" />
+          <Image Name="background_4.png" />
+          <Image Name="cloud_1.png" />
+          <Image Name="cloud_2.png" />
+          <Image Name="cloud1.png" />
+          <Image Name="cloud2.png" />
+          <Image Name="map_goblin_1.png" />
+          <Image Name="map_goblin_2.png" />
+          <Image Name="map_goblin_3.png" />
+          <Image Name="map_goblin_4.png" />
+          <Image Name="map_goblin_grid.png" />
         </Folder>
         <Folder Name="new">
           <Folder Name="battle_gui">

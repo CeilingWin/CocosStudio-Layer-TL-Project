@@ -31,17 +31,10 @@
     <Item Key="TabsParamsKey">
       <Value ctype="TabsInfo">
         <OpenedDocuments>
-          <FilePathData Path="guilayer/ResourceLayer.csd" />
-          <FilePathData Path="shop/ItemButton.csd" />
-          <FilePathData Path="shop/ListItem.csd" />
-          <FilePathData Path="shop/ShopLayer.csd" />
-          <FilePathData Path="guilayer/TrainTroopComponent.csd" />
-          <FilePathData Path="guilayer/ToolLayer.csd" />
-          <FilePathData Path="guilayer/UserLayer.csd" />
-          <FilePathData Path="guilayer/TrainTroopLayer.csd" />
-          <FilePathData Path="guilayer/SelectTroopLayer.csd" />
+          <FilePathData Path="guilayer/PopupInfoTroop.csd" />
+          <FilePathData Path="guilayer/UpgradePopup.csd" />
         </OpenedDocuments>
-        <ActiveDocument Path="guilayer/SelectTroopLayer.csd" />
+        <ActiveDocument Path="guilayer/PopupInfoTroop.csd" />
       </Value>
     </Item>
   </Properties>
