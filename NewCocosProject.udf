@@ -31,8 +31,8 @@
     <Item Key="TabsParamsKey">
       <Value ctype="TabsInfo">
         <OpenedDocuments>
+          <FilePathData Path="guilayer/PopupInfoHero.csd" />
           <FilePathData Path="guilayer/PopupInfoTroop.csd" />
-          <FilePathData Path="guilayer/UpgradePopup.csd" />
         </OpenedDocuments>
         <ActiveDocument Path="guilayer/PopupInfoTroop.csd" />
       </Value>

@@ -11,8 +11,8 @@
           <Fnt Name="soji_24.fnt" />
         </Folder>
         <Folder Name="guilayer">
+          <Project Name="PopupInfoHero.csd" Type="Layer" />
           <Project Name="PopupInfoTroop.csd" Type="Layer" />
-          <Project Name="UpgradePopup.csd" Type="Layer" />
         </Folder>
         <Folder Name="guis">
           <Folder Name="action_building_icon">
@@ -602,6 +602,7 @@
               <Image Name="DAR_9_3.png" />
               <Image Name="troop_bg.png" />
             </Folder>
+            <Image Name="background2.png" />
           </Folder>
         </Folder>
         <Folder Name="icons">
@@ -1931,6 +1932,10 @@
               </Folder>
               <File Name="info.json" />
             </Folder>
+          </Folder>
+          <Folder Name="ARM_11_Skill">
+            <Image Name="ARM_11.png" />
+            <Image Name="bg_active_skill.png" />
           </Folder>
           <Folder Name="ARM_2_1">
             <Folder Name="ARM_2_1">

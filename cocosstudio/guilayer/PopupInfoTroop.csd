@@ -56,15 +56,15 @@
             <PreSize X="0.0586" Y="0.0680" />
             <FileData Type="Normal" Path="guis/upgrade_building_gui/small/DAMA_TROOP.png" Plist="" />
           </AbstractNodeData>
-          <AbstractNodeData Name="BitmapFontLabel_20" ActionTag="-1529937535" Tag="61" IconVisible="False" LeftMargin="350.0805" RightMargin="273.9195" TopMargin="70.2006" BottomMargin="410.7994" LabelText="Damage :" ctype="TextBMFontObjectData">
-            <Size X="76.0000" Y="19.0000" />
+          <AbstractNodeData Name="BitmapFontLabel_20" ActionTag="-1529937535" Tag="61" IconVisible="False" LeftMargin="352.6296" RightMargin="250.3704" TopMargin="67.2006" BottomMargin="407.7994" LabelText="Damage :" ctype="TextBMFontObjectData">
+            <Size X="97.0000" Y="25.0000" />
             <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
-            <Position X="388.0805" Y="420.2994" />
+            <Position X="401.1296" Y="420.2994" />
             <Scale ScaleX="1.0000" ScaleY="1.0000" />
             <CColor A="255" R="255" G="165" B="0" />
-            <PrePosition X="0.5544" Y="0.8406" />
-            <PreSize X="0.1086" Y="0.0380" />
-            <LabelBMFontFile_CNB Type="Normal" Path="fonts/soji_12.fnt" Plist="" />
+            <PrePosition X="0.5730" Y="0.8406" />
+            <PreSize X="0.1386" Y="0.0500" />
+            <LabelBMFontFile_CNB Type="Normal" Path="fonts/soji_16.fnt" Plist="" />
           </AbstractNodeData>
           <AbstractNodeData Name="Image_26_0" ActionTag="-1508140274" Tag="68" IconVisible="False" LeftMargin="340.6544" RightMargin="48.3456" TopMargin="140.6414" BottomMargin="323.3586" LeftEage="102" RightEage="102" TopEage="11" BottomEage="11" Scale9OriginX="102" Scale9OriginY="11" Scale9Width="107" Scale9Height="14" ctype="ImageViewObjectData">
             <Size X="311.0000" Y="36.0000" />
@@ -86,15 +86,15 @@
             <PreSize X="0.0443" Y="0.0620" />
             <FileData Type="Normal" Path="guis/upgrade_building_gui/small/Hitpoints_Icon.png" Plist="" />
           </AbstractNodeData>
-          <AbstractNodeData Name="BitmapFontLabel_20_0" ActionTag="821662076" Tag="71" IconVisible="False" LeftMargin="349.2380" RightMargin="270.7620" TopMargin="124.4609" BottomMargin="356.5391" LabelText="Hitpoint :" ctype="TextBMFontObjectData">
-            <Size X="80.0000" Y="19.0000" />
+          <AbstractNodeData Name="BitmapFontLabel_20_0" ActionTag="821662076" Tag="71" IconVisible="False" LeftMargin="351.7865" RightMargin="247.2135" TopMargin="121.4609" BottomMargin="353.5391" LabelText="Hitpoint :" ctype="TextBMFontObjectData">
+            <Size X="101.0000" Y="25.0000" />
             <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
-            <Position X="389.2380" Y="366.0391" />
+            <Position X="402.2865" Y="366.0391" />
             <Scale ScaleX="1.0000" ScaleY="1.0000" />
             <CColor A="255" R="255" G="165" B="0" />
-            <PrePosition X="0.5561" Y="0.7321" />
-            <PreSize X="0.1143" Y="0.0380" />
-            <LabelBMFontFile_CNB Type="Normal" Path="fonts/soji_12.fnt" Plist="" />
+            <PrePosition X="0.5747" Y="0.7321" />
+            <PreSize X="0.1443" Y="0.0500" />
+            <LabelBMFontFile_CNB Type="Normal" Path="fonts/soji_16.fnt" Plist="" />
           </AbstractNodeData>
           <AbstractNodeData Name="Image_26_1" ActionTag="-927881611" Tag="73" IconVisible="False" LeftMargin="342.2078" RightMargin="46.7922" TopMargin="198.9213" BottomMargin="265.0787" LeftEage="102" RightEage="102" TopEage="11" BottomEage="11" Scale9OriginX="102" Scale9OriginY="11" Scale9Width="107" Scale9Height="14" ctype="ImageViewObjectData">
             <Size X="311.0000" Y="36.0000" />
@@ -116,75 +116,75 @@
             <PreSize X="0.0386" Y="0.0680" />
             <FileData Type="Normal" Path="guis/upgrade_building_gui/small/BUFF_ELIXIR.png" Plist="" />
           </AbstractNodeData>
-          <AbstractNodeData Name="BitmapFontLabel_28_4" ActionTag="-1201752385" Tag="83" IconVisible="False" LeftMargin="295.2354" RightMargin="259.7646" TopMargin="372.7467" BottomMargin="108.2533" LabelText="Housing space      :" ctype="TextBMFontObjectData">
-            <Size X="145.0000" Y="19.0000" />
+          <AbstractNodeData Name="BitmapFontLabel_28_4" ActionTag="-1201752385" Tag="83" IconVisible="False" LeftMargin="306.0625" RightMargin="208.9375" TopMargin="374.3137" BottomMargin="100.6863" LabelText="Housing space      :" ctype="TextBMFontObjectData">
+            <Size X="185.0000" Y="25.0000" />
             <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
-            <Position X="367.7354" Y="117.7533" />
+            <Position X="398.5625" Y="113.1863" />
             <Scale ScaleX="1.0000" ScaleY="1.0000" />
             <CColor A="255" R="255" G="165" B="0" />
-            <PrePosition X="0.5253" Y="0.2355" />
-            <PreSize X="0.2071" Y="0.0380" />
-            <LabelBMFontFile_CNB Type="Normal" Path="fonts/soji_12.fnt" Plist="" />
+            <PrePosition X="0.5694" Y="0.2264" />
+            <PreSize X="0.2643" Y="0.0500" />
+            <LabelBMFontFile_CNB Type="Normal" Path="fonts/soji_16.fnt" Plist="" />
           </AbstractNodeData>
-          <AbstractNodeData Name="BitmapFontLabel_28_3" ActionTag="1138254866" Tag="82" IconVisible="False" LeftMargin="296.2878" RightMargin="257.7122" TopMargin="349.1649" BottomMargin="131.8351" LabelText="Training time         :" ctype="TextBMFontObjectData">
-            <Size X="146.0000" Y="19.0000" />
+          <AbstractNodeData Name="BitmapFontLabel_28_3" ActionTag="1138254866" Tag="82" IconVisible="False" LeftMargin="307.6146" RightMargin="207.3854" TopMargin="350.7320" BottomMargin="124.2680" LabelText="Training time         :" ctype="TextBMFontObjectData">
+            <Size X="185.0000" Y="25.0000" />
             <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
-            <Position X="369.2878" Y="141.3351" />
+            <Position X="400.1146" Y="136.7680" />
             <Scale ScaleX="1.0000" ScaleY="1.0000" />
             <CColor A="255" R="255" G="165" B="0" />
-            <PrePosition X="0.5276" Y="0.2827" />
-            <PreSize X="0.2086" Y="0.0380" />
-            <LabelBMFontFile_CNB Type="Normal" Path="fonts/soji_12.fnt" Plist="" />
+            <PrePosition X="0.5716" Y="0.2735" />
+            <PreSize X="0.2643" Y="0.0500" />
+            <LabelBMFontFile_CNB Type="Normal" Path="fonts/soji_16.fnt" Plist="" />
           </AbstractNodeData>
-          <AbstractNodeData Name="BitmapFontLabel_28_2" ActionTag="62980466" Tag="81" IconVisible="False" LeftMargin="296.0804" RightMargin="257.9196" TopMargin="325.4286" BottomMargin="155.5714" LabelText="Movement speed :" ctype="TextBMFontObjectData">
-            <Size X="146.0000" Y="19.0000" />
+          <AbstractNodeData Name="BitmapFontLabel_28_2" ActionTag="62980466" Tag="81" IconVisible="False" LeftMargin="304.9070" RightMargin="205.0930" TopMargin="326.9956" BottomMargin="148.0044" LabelText="Movement speed :" ctype="TextBMFontObjectData">
+            <Size X="190.0000" Y="25.0000" />
             <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
-            <Position X="369.0804" Y="165.0714" />
+            <Position X="399.9070" Y="160.5044" />
             <Scale ScaleX="1.0000" ScaleY="1.0000" />
             <CColor A="255" R="255" G="165" B="0" />
-            <PrePosition X="0.5273" Y="0.3301" />
-            <PreSize X="0.2086" Y="0.0380" />
-            <LabelBMFontFile_CNB Type="Normal" Path="fonts/soji_12.fnt" Plist="" />
+            <PrePosition X="0.5713" Y="0.3210" />
+            <PreSize X="0.2714" Y="0.0500" />
+            <LabelBMFontFile_CNB Type="Normal" Path="fonts/soji_16.fnt" Plist="" />
           </AbstractNodeData>
-          <AbstractNodeData Name="BitmapFontLabel_28_1" ActionTag="502349556" Tag="80" IconVisible="False" LeftMargin="296.0024" RightMargin="256.9976" TopMargin="302.1628" BottomMargin="178.8372" LabelText="Target                     :" ctype="TextBMFontObjectData">
-            <Size X="147.0000" Y="19.0000" />
+          <AbstractNodeData Name="BitmapFontLabel_28_1" ActionTag="502349556" Tag="80" IconVisible="False" LeftMargin="307.8295" RightMargin="207.1705" TopMargin="303.7298" BottomMargin="171.2702" LabelText="Target                     :" ctype="TextBMFontObjectData">
+            <Size X="185.0000" Y="25.0000" />
             <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
-            <Position X="369.5024" Y="188.3372" />
+            <Position X="400.3295" Y="183.7702" />
             <Scale ScaleX="1.0000" ScaleY="1.0000" />
             <CColor A="255" R="255" G="165" B="0" />
-            <PrePosition X="0.5279" Y="0.3767" />
-            <PreSize X="0.2100" Y="0.0380" />
-            <LabelBMFontFile_CNB Type="Normal" Path="fonts/soji_12.fnt" Plist="" />
+            <PrePosition X="0.5719" Y="0.3675" />
+            <PreSize X="0.2643" Y="0.0500" />
+            <LabelBMFontFile_CNB Type="Normal" Path="fonts/soji_16.fnt" Plist="" />
           </AbstractNodeData>
-          <AbstractNodeData Name="BitmapFontLabel_28_0" ActionTag="-2097291618" Tag="79" IconVisible="False" LeftMargin="295.8201" RightMargin="258.1799" TopMargin="279.0555" BottomMargin="201.9445" LabelText="Attack type          :" ctype="TextBMFontObjectData">
-            <Size X="146.0000" Y="19.0000" />
+          <AbstractNodeData Name="BitmapFontLabel_28_0" ActionTag="-2097291618" Tag="79" IconVisible="False" LeftMargin="305.1470" RightMargin="205.8530" TopMargin="280.6225" BottomMargin="194.3775" LabelText="Attack type          :" ctype="TextBMFontObjectData">
+            <Size X="189.0000" Y="25.0000" />
             <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
-            <Position X="368.8201" Y="211.4445" />
+            <Position X="399.6470" Y="206.8775" />
             <Scale ScaleX="1.0000" ScaleY="1.0000" />
             <CColor A="255" R="255" G="165" B="0" />
-            <PrePosition X="0.5269" Y="0.4229" />
-            <PreSize X="0.2086" Y="0.0380" />
-            <LabelBMFontFile_CNB Type="Normal" Path="fonts/soji_12.fnt" Plist="" />
+            <PrePosition X="0.5709" Y="0.4138" />
+            <PreSize X="0.2700" Y="0.0500" />
+            <LabelBMFontFile_CNB Type="Normal" Path="fonts/soji_16.fnt" Plist="" />
           </AbstractNodeData>
-          <AbstractNodeData Name="BitmapFontLabel_20_1" ActionTag="194881274" Tag="76" IconVisible="False" LeftMargin="346.7952" RightMargin="239.2048" TopMargin="183.6094" BottomMargin="297.3906" LabelText="Training cost :" ctype="TextBMFontObjectData">
-            <Size X="114.0000" Y="19.0000" />
+          <AbstractNodeData Name="BitmapFontLabel_20_1" ActionTag="194881274" Tag="76" IconVisible="False" LeftMargin="350.6450" RightMargin="205.3550" TopMargin="180.6094" BottomMargin="294.3906" LabelText="Training cost :" ctype="TextBMFontObjectData">
+            <Size X="144.0000" Y="25.0000" />
             <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
-            <Position X="403.7952" Y="306.8906" />
+            <Position X="422.6450" Y="306.8906" />
             <Scale ScaleX="1.0000" ScaleY="1.0000" />
             <CColor A="255" R="255" G="165" B="0" />
-            <PrePosition X="0.5769" Y="0.6138" />
-            <PreSize X="0.1629" Y="0.0380" />
-            <LabelBMFontFile_CNB Type="Normal" Path="fonts/soji_12.fnt" Plist="" />
+            <PrePosition X="0.6038" Y="0.6138" />
+            <PreSize X="0.2057" Y="0.0500" />
+            <LabelBMFontFile_CNB Type="Normal" Path="fonts/soji_16.fnt" Plist="" />
           </AbstractNodeData>
-          <AbstractNodeData Name="BitmapFontLabel_28" ActionTag="249276282" Tag="78" IconVisible="False" LeftMargin="296.9019" RightMargin="258.0981" TopMargin="255.6320" BottomMargin="225.3680" LabelText="Favorite target    :" ctype="TextBMFontObjectData">
-            <Size X="145.0000" Y="19.0000" />
+          <AbstractNodeData Name="BitmapFontLabel_28" ActionTag="249276282" Tag="78" IconVisible="False" LeftMargin="307.2281" RightMargin="206.7719" TopMargin="257.1990" BottomMargin="217.8010" LabelText="Favorite target    :" ctype="TextBMFontObjectData">
+            <Size X="186.0000" Y="25.0000" />
             <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
-            <Position X="369.4019" Y="234.8680" />
+            <Position X="400.2281" Y="230.3010" />
             <Scale ScaleX="1.0000" ScaleY="1.0000" />
             <CColor A="255" R="255" G="165" B="0" />
-            <PrePosition X="0.5277" Y="0.4697" />
-            <PreSize X="0.2071" Y="0.0380" />
-            <LabelBMFontFile_CNB Type="Normal" Path="fonts/soji_12.fnt" Plist="" />
+            <PrePosition X="0.5718" Y="0.4606" />
+            <PreSize X="0.2657" Y="0.0500" />
+            <LabelBMFontFile_CNB Type="Normal" Path="fonts/soji_16.fnt" Plist="" />
           </AbstractNodeData>
           <AbstractNodeData Name="lb_detail" ActionTag="1634996518" Tag="97" IconVisible="False" LeftMargin="333.5000" RightMargin="333.5000" TopMargin="432.6853" BottomMargin="29.3147" LabelText="..." ctype="TextBMFontObjectData">
             <Size X="33.0000" Y="38.0000" />
@@ -196,64 +196,64 @@
             <PreSize X="0.0471" Y="0.0760" />
             <LabelBMFontFile_CNB Type="Normal" Path="fonts/soji_24.fnt" Plist="" />
           </AbstractNodeData>
-          <AbstractNodeData Name="lb_training_cost" ActionTag="-882715089" Tag="77" IconVisible="False" LeftMargin="457.2949" RightMargin="214.7051" TopMargin="183.9344" BottomMargin="297.0656" LabelText="14" ctype="TextBMFontObjectData">
-            <Size X="28.0000" Y="19.0000" />
+          <AbstractNodeData Name="lb_training_cost" ActionTag="-882715089" Tag="77" IconVisible="False" LeftMargin="476.1440" RightMargin="189.8560" TopMargin="180.9344" BottomMargin="294.0656" LabelText="14" ctype="TextBMFontObjectData">
+            <Size X="34.0000" Y="25.0000" />
             <AnchorPoint ScaleY="0.5000" />
-            <Position X="457.2949" Y="306.5656" />
+            <Position X="476.1440" Y="306.5656" />
             <Scale ScaleX="1.0000" ScaleY="1.0000" />
             <CColor A="255" R="255" G="165" B="0" />
-            <PrePosition X="0.6533" Y="0.6131" />
-            <PreSize X="0.0400" Y="0.0380" />
-            <LabelBMFontFile_CNB Type="Normal" Path="fonts/soji_12.fnt" Plist="" />
+            <PrePosition X="0.6802" Y="0.6131" />
+            <PreSize X="0.0486" Y="0.0500" />
+            <LabelBMFontFile_CNB Type="Normal" Path="fonts/soji_16.fnt" Plist="" />
           </AbstractNodeData>
-          <AbstractNodeData Name="imv_training_cost_bar" ActionTag="-1570820820" Tag="74" IconVisible="False" LeftMargin="344.4559" RightMargin="44.5441" TopMargin="199.2796" BottomMargin="264.7204" Scale9Enable="True" LeftEage="102" RightEage="102" TopEage="11" BottomEage="11" Scale9OriginX="102" Scale9OriginY="11" Scale9Width="107" Scale9Height="14" ctype="ImageViewObjectData">
-            <Size X="311.0000" Y="36.0000" />
-            <AnchorPoint ScaleX="0.0200" ScaleY="0.5000" />
-            <Position X="350.6759" Y="282.7204" />
+          <AbstractNodeData Name="imv_training_cost_bar" ActionTag="-1570820820" Tag="74" IconVisible="False" HorizontalEdge="LeftEdge" LeftMargin="342.6010" RightMargin="47.3989" TopMargin="198.9396" BottomMargin="265.0604" Scale9Enable="True" LeftEage="10" RightEage="10" TopEage="3" BottomEage="3" Scale9OriginX="10" Scale9OriginY="3" Scale9Width="291" Scale9Height="30" ctype="ImageViewObjectData">
+            <Size X="310.0000" Y="36.0000" />
+            <AnchorPoint ScaleY="0.5000" />
+            <Position X="342.6010" Y="283.0604" />
             <Scale ScaleX="1.0000" ScaleY="1.0000" />
             <CColor A="255" R="255" G="255" B="255" />
-            <PrePosition X="0.5010" Y="0.5654" />
+            <PrePosition X="0.4894" Y="0.5661" />
+            <PreSize X="0.4429" Y="0.0720" />
+            <FileData Type="Normal" Path="guis/upgrade_building_gui/info_bar_BG.png" Plist="" />
+          </AbstractNodeData>
+          <AbstractNodeData Name="lb_hitpoint" ActionTag="566227769" Tag="72" IconVisible="False" LeftMargin="434.1122" RightMargin="231.8878" TopMargin="121.7863" BottomMargin="353.2137" LabelText="14" ctype="TextBMFontObjectData">
+            <Size X="34.0000" Y="25.0000" />
+            <AnchorPoint ScaleY="0.5000" />
+            <Position X="434.1122" Y="365.7137" />
+            <Scale ScaleX="1.0000" ScaleY="1.0000" />
+            <CColor A="255" R="255" G="165" B="0" />
+            <PrePosition X="0.6202" Y="0.7314" />
+            <PreSize X="0.0486" Y="0.0500" />
+            <LabelBMFontFile_CNB Type="Normal" Path="fonts/soji_16.fnt" Plist="" />
+          </AbstractNodeData>
+          <AbstractNodeData Name="imv_hitpoint_bar" ActionTag="-1798912709" Tag="69" IconVisible="False" HorizontalEdge="LeftEdge" LeftMargin="341.8000" RightMargin="47.2000" TopMargin="139.8585" BottomMargin="324.1415" Scale9Enable="True" LeftEage="10" RightEage="10" TopEage="3" BottomEage="3" Scale9OriginX="10" Scale9OriginY="3" Scale9Width="291" Scale9Height="30" ctype="ImageViewObjectData">
+            <Size X="311.0000" Y="36.0000" />
+            <AnchorPoint ScaleY="0.5000" />
+            <Position X="341.8000" Y="342.1415" />
+            <Scale ScaleX="1.0000" ScaleY="1.0000" />
+            <CColor A="255" R="255" G="255" B="255" />
+            <PrePosition X="0.4883" Y="0.6843" />
             <PreSize X="0.4443" Y="0.0720" />
             <FileData Type="Normal" Path="guis/upgrade_building_gui/info_bar_BG.png" Plist="" />
           </AbstractNodeData>
-          <AbstractNodeData Name="lb_hitpoint" ActionTag="566227769" Tag="72" IconVisible="False" LeftMargin="421.0629" RightMargin="250.9371" TopMargin="124.7863" BottomMargin="356.2137" LabelText="14" ctype="TextBMFontObjectData">
-            <Size X="28.0000" Y="19.0000" />
+          <AbstractNodeData Name="lb_dame" ActionTag="-1565729199" Tag="62" IconVisible="False" LeftMargin="432.9554" RightMargin="233.0446" TopMargin="67.5256" BottomMargin="407.4744" LabelText="14" ctype="TextBMFontObjectData">
+            <Size X="34.0000" Y="25.0000" />
             <AnchorPoint ScaleY="0.5000" />
-            <Position X="421.0629" Y="365.7137" />
+            <Position X="432.9554" Y="419.9744" />
             <Scale ScaleX="1.0000" ScaleY="1.0000" />
             <CColor A="255" R="255" G="165" B="0" />
-            <PrePosition X="0.6015" Y="0.7314" />
-            <PreSize X="0.0400" Y="0.0380" />
-            <LabelBMFontFile_CNB Type="Normal" Path="fonts/soji_12.fnt" Plist="" />
+            <PrePosition X="0.6185" Y="0.8399" />
+            <PreSize X="0.0486" Y="0.0500" />
+            <LabelBMFontFile_CNB Type="Normal" Path="fonts/soji_16.fnt" Plist="" />
           </AbstractNodeData>
-          <AbstractNodeData Name="imv_hitpoint_bar" ActionTag="-1798912709" Tag="69" IconVisible="False" LeftMargin="342.9007" RightMargin="46.0993" TopMargin="140.9998" BottomMargin="323.0002" Scale9Enable="True" LeftEage="102" RightEage="102" TopEage="11" BottomEage="11" Scale9OriginX="102" Scale9OriginY="11" Scale9Width="107" Scale9Height="14" ctype="ImageViewObjectData">
-            <Size X="311.0000" Y="36.0000" />
-            <AnchorPoint ScaleX="0.0200" ScaleY="0.5000" />
-            <Position X="349.1207" Y="341.0002" />
-            <Scale ScaleX="1.0000" ScaleY="1.0000" />
-            <CColor A="255" R="255" G="255" B="255" />
-            <PrePosition X="0.4987" Y="0.6820" />
-            <PreSize X="0.4443" Y="0.0720" />
-            <FileData Type="Normal" Path="guis/upgrade_building_gui/info_bar_BG.png" Plist="" />
-          </AbstractNodeData>
-          <AbstractNodeData Name="lb_dame" ActionTag="-1565729199" Tag="62" IconVisible="False" LeftMargin="419.9053" RightMargin="252.0947" TopMargin="70.5256" BottomMargin="410.4744" LabelText="14" ctype="TextBMFontObjectData">
-            <Size X="28.0000" Y="19.0000" />
-            <AnchorPoint ScaleY="0.5000" />
-            <Position X="419.9053" Y="419.9744" />
-            <Scale ScaleX="1.0000" ScaleY="1.0000" />
-            <CColor A="255" R="255" G="165" B="0" />
-            <PrePosition X="0.5999" Y="0.8399" />
-            <PreSize X="0.0400" Y="0.0380" />
-            <LabelBMFontFile_CNB Type="Normal" Path="fonts/soji_12.fnt" Plist="" />
-          </AbstractNodeData>
-          <AbstractNodeData Name="imv_dame_bar" ActionTag="-260566434" Tag="59" IconVisible="False" LeftMargin="344.3037" RightMargin="44.6963" TopMargin="86.7382" BottomMargin="377.2618" Scale9Enable="True" LeftEage="100" RightEage="30" TopEage="11" BottomEage="11" Scale9OriginX="100" Scale9OriginY="11" Scale9Width="181" Scale9Height="14" ctype="ImageViewObjectData">
-            <Size X="311.0000" Y="36.0000" />
-            <AnchorPoint ScaleX="0.0200" ScaleY="0.5000" />
-            <Position X="350.5237" Y="395.2618" />
+          <AbstractNodeData Name="imv_dame_bar" ActionTag="-260566434" Tag="59" IconVisible="False" HorizontalEdge="LeftEdge" LeftMargin="342.6980" RightMargin="47.3020" TopMargin="86.7380" BottomMargin="377.2620" Scale9Enable="True" LeftEage="10" RightEage="10" TopEage="3" BottomEage="3" Scale9OriginX="10" Scale9OriginY="3" Scale9Width="291" Scale9Height="30" ctype="ImageViewObjectData">
+            <Size X="310.0000" Y="36.0000" />
+            <AnchorPoint ScaleY="0.4902" />
+            <Position X="342.6980" Y="394.9101" />
             <Scale ScaleX="1.0004" ScaleY="1.0000" />
             <CColor A="255" R="255" G="255" B="255" />
-            <PrePosition X="0.5007" Y="0.7905" />
-            <PreSize X="0.4443" Y="0.0720" />
+            <PrePosition X="0.4896" Y="0.7898" />
+            <PreSize X="0.4429" Y="0.0720" />
             <FileData Type="Normal" Path="guis/upgrade_building_gui/info_bar_BG.png" Plist="" />
           </AbstractNodeData>
           <AbstractNodeData Name="imv_troop" ActionTag="1929053084" Tag="51" IconVisible="False" LeftMargin="8.3777" RightMargin="399.6223" TopMargin="24.5283" BottomMargin="153.4717" LeftEage="96" RightEage="96" TopEage="106" BottomEage="106" Scale9OriginX="96" Scale9OriginY="106" Scale9Width="100" Scale9Height="110" ctype="ImageViewObjectData">
@@ -276,65 +276,65 @@
             <PreSize X="0.2114" Y="0.0640" />
             <LabelBMFontFile_CNB Type="Normal" Path="fonts/soji_20.fnt" Plist="" />
           </AbstractNodeData>
-          <AbstractNodeData Name="lb_ft" ActionTag="1805231313" Tag="84" IconVisible="False" LeftMargin="447.0959" RightMargin="134.9041" TopMargin="255.9051" BottomMargin="225.0949" LabelText="Fnt Text Label" ctype="TextBMFontObjectData">
-            <Size X="118.0000" Y="19.0000" />
+          <AbstractNodeData Name="lb_ft" ActionTag="1805231313" Tag="84" IconVisible="False" LeftMargin="493.8718" RightMargin="55.1282" TopMargin="256.0222" BottomMargin="218.9778" LabelText="Fnt Text Label" ctype="TextBMFontObjectData">
+            <Size X="151.0000" Y="25.0000" />
             <AnchorPoint ScaleY="0.5000" />
-            <Position X="447.0959" Y="234.5949" />
+            <Position X="493.8718" Y="231.4778" />
             <Scale ScaleX="1.0000" ScaleY="1.0000" />
             <CColor A="255" R="30" G="144" B="255" />
-            <PrePosition X="0.6387" Y="0.4692" />
-            <PreSize X="0.1686" Y="0.0380" />
-            <LabelBMFontFile_CNB Type="Normal" Path="fonts/soji_12.fnt" Plist="" />
+            <PrePosition X="0.7055" Y="0.4630" />
+            <PreSize X="0.2157" Y="0.0500" />
+            <LabelBMFontFile_CNB Type="Normal" Path="fonts/soji_16.fnt" Plist="" />
           </AbstractNodeData>
-          <AbstractNodeData Name="lb_at" ActionTag="-1179521906" Tag="85" IconVisible="False" LeftMargin="447.5483" RightMargin="134.4517" TopMargin="278.6358" BottomMargin="202.3642" LabelText="Fnt Text Label" ctype="TextBMFontObjectData">
-            <Size X="118.0000" Y="19.0000" />
+          <AbstractNodeData Name="lb_at" ActionTag="-1179521906" Tag="85" IconVisible="False" LeftMargin="494.3251" RightMargin="54.6749" TopMargin="278.7530" BottomMargin="196.2470" LabelText="Fnt Text Label" ctype="TextBMFontObjectData">
+            <Size X="151.0000" Y="25.0000" />
             <AnchorPoint ScaleY="0.5000" />
-            <Position X="447.5483" Y="211.8642" />
+            <Position X="494.3251" Y="208.7470" />
             <Scale ScaleX="1.0000" ScaleY="1.0000" />
             <CColor A="255" R="30" G="144" B="255" />
-            <PrePosition X="0.6394" Y="0.4237" />
-            <PreSize X="0.1686" Y="0.0380" />
-            <LabelBMFontFile_CNB Type="Normal" Path="fonts/soji_12.fnt" Plist="" />
+            <PrePosition X="0.7062" Y="0.4175" />
+            <PreSize X="0.2157" Y="0.0500" />
+            <LabelBMFontFile_CNB Type="Normal" Path="fonts/soji_16.fnt" Plist="" />
           </AbstractNodeData>
-          <AbstractNodeData Name="lb_t" ActionTag="-2120792753" Tag="86" IconVisible="False" LeftMargin="447.2045" RightMargin="134.7955" TopMargin="302.1634" BottomMargin="178.8366" LabelText="Fnt Text Label" ctype="TextBMFontObjectData">
-            <Size X="118.0000" Y="19.0000" />
+          <AbstractNodeData Name="lb_t" ActionTag="-2120792753" Tag="86" IconVisible="False" LeftMargin="493.9799" RightMargin="55.0201" TopMargin="302.2805" BottomMargin="172.7195" LabelText="Fnt Text Label" ctype="TextBMFontObjectData">
+            <Size X="151.0000" Y="25.0000" />
             <AnchorPoint ScaleY="0.5000" />
-            <Position X="447.2045" Y="188.3366" />
+            <Position X="493.9799" Y="185.2195" />
             <Scale ScaleX="1.0000" ScaleY="1.0000" />
             <CColor A="255" R="30" G="144" B="255" />
-            <PrePosition X="0.6389" Y="0.3767" />
-            <PreSize X="0.1686" Y="0.0380" />
-            <LabelBMFontFile_CNB Type="Normal" Path="fonts/soji_12.fnt" Plist="" />
+            <PrePosition X="0.7057" Y="0.3704" />
+            <PreSize X="0.2157" Y="0.0500" />
+            <LabelBMFontFile_CNB Type="Normal" Path="fonts/soji_16.fnt" Plist="" />
           </AbstractNodeData>
-          <AbstractNodeData Name="lb_ms" ActionTag="2086712381" Tag="87" IconVisible="False" LeftMargin="446.0642" RightMargin="135.9358" TopMargin="324.8946" BottomMargin="156.1054" LabelText="Fnt Text Label" ctype="TextBMFontObjectData">
-            <Size X="118.0000" Y="19.0000" />
+          <AbstractNodeData Name="lb_ms" ActionTag="2086712381" Tag="87" IconVisible="False" LeftMargin="492.8408" RightMargin="56.1592" TopMargin="325.0120" BottomMargin="149.9880" LabelText="Fnt Text Label" ctype="TextBMFontObjectData">
+            <Size X="151.0000" Y="25.0000" />
             <AnchorPoint ScaleY="0.5000" />
-            <Position X="446.0642" Y="165.6054" />
+            <Position X="492.8408" Y="162.4880" />
             <Scale ScaleX="1.0000" ScaleY="1.0000" />
             <CColor A="255" R="30" G="144" B="255" />
-            <PrePosition X="0.6372" Y="0.3312" />
-            <PreSize X="0.1686" Y="0.0380" />
-            <LabelBMFontFile_CNB Type="Normal" Path="fonts/soji_12.fnt" Plist="" />
+            <PrePosition X="0.7041" Y="0.3250" />
+            <PreSize X="0.2157" Y="0.0500" />
+            <LabelBMFontFile_CNB Type="Normal" Path="fonts/soji_16.fnt" Plist="" />
           </AbstractNodeData>
-          <AbstractNodeData Name="lb_tt" ActionTag="1115635400" Tag="88" IconVisible="False" LeftMargin="445.7217" RightMargin="136.2783" TopMargin="350.0127" BottomMargin="130.9873" LabelText="Fnt Text Label" ctype="TextBMFontObjectData">
-            <Size X="118.0000" Y="19.0000" />
+          <AbstractNodeData Name="lb_tt" ActionTag="1115635400" Tag="88" IconVisible="False" LeftMargin="492.4971" RightMargin="56.5029" TopMargin="350.1298" BottomMargin="124.8702" LabelText="Fnt Text Label" ctype="TextBMFontObjectData">
+            <Size X="151.0000" Y="25.0000" />
             <AnchorPoint ScaleY="0.5000" />
-            <Position X="445.7217" Y="140.4873" />
+            <Position X="492.4971" Y="137.3702" />
             <Scale ScaleX="1.0000" ScaleY="1.0000" />
             <CColor A="255" R="30" G="144" B="255" />
-            <PrePosition X="0.6367" Y="0.2810" />
-            <PreSize X="0.1686" Y="0.0380" />
-            <LabelBMFontFile_CNB Type="Normal" Path="fonts/soji_12.fnt" Plist="" />
+            <PrePosition X="0.7036" Y="0.2747" />
+            <PreSize X="0.2157" Y="0.0500" />
+            <LabelBMFontFile_CNB Type="Normal" Path="fonts/soji_16.fnt" Plist="" />
           </AbstractNodeData>
-          <AbstractNodeData Name="lb_hs" ActionTag="1583880385" Tag="89" IconVisible="False" LeftMargin="445.3773" RightMargin="136.6227" TopMargin="372.7441" BottomMargin="108.2559" LabelText="Fnt Text Label" ctype="TextBMFontObjectData">
-            <Size X="118.0000" Y="19.0000" />
+          <AbstractNodeData Name="lb_hs" ActionTag="1583880385" Tag="89" IconVisible="False" LeftMargin="492.1535" RightMargin="56.8465" TopMargin="372.8612" BottomMargin="102.1388" LabelText="Fnt Text Label" ctype="TextBMFontObjectData">
+            <Size X="151.0000" Y="25.0000" />
             <AnchorPoint ScaleY="0.5000" />
-            <Position X="445.3773" Y="117.7559" />
+            <Position X="492.1535" Y="114.6388" />
             <Scale ScaleX="1.0000" ScaleY="1.0000" />
             <CColor A="255" R="30" G="144" B="255" />
-            <PrePosition X="0.6363" Y="0.2355" />
-            <PreSize X="0.1686" Y="0.0380" />
-            <LabelBMFontFile_CNB Type="Normal" Path="fonts/soji_12.fnt" Plist="" />
+            <PrePosition X="0.7031" Y="0.2293" />
+            <PreSize X="0.2157" Y="0.0500" />
+            <LabelBMFontFile_CNB Type="Normal" Path="fonts/soji_16.fnt" Plist="" />
           </AbstractNodeData>
           <AbstractNodeData Name="btn_close" ActionTag="1156704715" Tag="95" IconVisible="False" LeftMargin="636.2035" RightMargin="16.7965" TopMargin="0.7609" BottomMargin="452.2391" TouchEnable="True" FontSize="14" Scale9Enable="True" LeftEage="15" RightEage="15" TopEage="11" BottomEage="11" Scale9OriginX="15" Scale9OriginY="11" Scale9Width="17" Scale9Height="25" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="ButtonObjectData">
             <Size X="47.0000" Y="47.0000" />
